@@ -1,0 +1,2040 @@
+Product ID,Product Name,Product Description,Quantity type,SKU,Quantity,Product Cost (in rupees),Sell Price (in rupees),Date,Quantity Sold,Product Sold at
+1,Laptop,A portable computer,Unit,LPT001,10,8000,10000,01/01/20,9,90000
+2,Smartphone,A handheld device,None,SPH001,15,6000,8000,01/02/20,11,88000
+3,Headphones,Audio output devices,Dozen,HDP001,20,1000,1500,01/03/20,15,22500
+4,T-Shirt,A casual clothing item,None,TSH001,30,600,800,01/04/20,21,16800
+5,Jeans,A type of pants,None,JNS001,25,1000,1200,01/05/20,3,3600
+6,Apples,Fruit,None,APL001,40,200,300,01/06/20,34,10200
+7,Oranges,Fruit,None,ORG001,35,150,250,01/07/20,25,6250
+8,TV,Television set,None,TV001,12,12000,15000,01/08/20,4,60000
+9,Shoes,Footwear,None,SHS001,18,1000,1500,01/09/20,4,6000
+10,Backpack,A bag carried on the back,Unit,BKP001,22,600,800,01/10/20,14,11200
+11,Keyboard,A typing device,None,KBD001,8,1000,1200,01/11/20,5,6000
+12,Mouse,A pointing device,None,MS001,12,300,500,01/12/20,4,2000
+13,Printer,A printing device,Unit,PRT001,5,1500,2000,01/13/20,3,6000
+14,Desk Lamp,A lighting fixture,None,DLP001,15,600,800,01/14/20,2,1600
+15,Coffee Maker,A machine to brew coffee,None,CFM001,10,4000,5000,01/15/20,5,25000
+16,Toaster,A kitchen appliance,None,TST001,20,800,1000,01/16/20,1,1000
+17,Blender,A kitchen appliance,Unit,BLD001,18,1000,1200,01/17/20,14,16800
+18,Jacket,A clothing item for upper body,None,JKT001,20,700,900,01/18/20,2,1800
+19,Dress,A clothing item for women,None,DRS001,15,1200,1500,01/19/20,7,10500
+20,Watch,A timekeeping device,None,WCH001,10,2000,2500,01/20/20,1,2500
+21,Sunglasses,Eyewear,Unit,SG001,12,1000,1200,01/21/20,11,13200
+22,Baseball Cap,A type of cap,None,BC001,25,400,600,01/22/20,18,10800
+23,Chocolate,A sweet food item,None,CHC001,30,50,100,01/23/20,17,1700
+24,Cereal,A breakfast food,Unit,CRL001,20,80,120,01/24/20,5,600
+25,Soft Drinks,Beverages,None,SD001,35,50,80,01/25/20,24,1920
+26,Office Chair,A seating furniture,None,OC001,8,3000,3500,01/26/20,3,10500
+27,Sofa,A seating furniture,None,SFA001,5,10000,12000,01/27/20,1,12000
+28,Dining Table,A furniture for dining,None,DT001,12,6000,8000,01/28/20,4,32000
+29,Bed,A furniture for sleeping,Unit,BD001,3,24000,28000,01/29/20,2,56000
+30,Rug,A floor covering,None,RG001,10,2000,2500,01/30/20,4,10000
+31,Wall Clock,A timekeeping device,None,WC001,15,800,1000,01/31/20,11,11000
+32,Vase,A decorative item,None,VS001,8,600,800,02/01/20,2,1600
+33,Curtains,A window covering,None,CRT001,20,500,700,02/02/20,3,2100
+34,Bathroom Scale,A device for measuring weight,Unit,BS001,5,1000,1200,02/03/20,2,2400
+35,Trash Can,A waste container,None,TC001,8,300,500,02/04/20,6,3000
+36,Desk Organizer,An item for organizing desk,None,DO001,12,200,300,02/05/20,9,2700
+37,Notebook,A stationery item,None,NB001,15,50,100,02/06/20,9,900
+38,Pen Set,A set of pens,Unit,PS001,20,100,150,02/07/20,2,300
+39,Stapler,A tool for binding papers,None,STP001,10,80,120,02/08/20,1,120
+40,Whiteboard,A writing surface,None,WB001,5,1500,1800,02/09/20,4,7200
+41,Smart Watch,A wearable device,None,SW001,18,2000,2500,02/10/20,2,5000
+42,Tablet,A handheld computing device,None,TBLT001,10,3000,3500,02/11/20,2,7000
+43,Charging Cable,A cable for charging devices,None,CC001,25,200,300,02/12/20,24,7200
+44,External Hard Drive,A storage device,None,EHD001,12,1000,1500,02/13/20,2,3000
+45,Memory Card,A data storage device,Unit,MC001,20,300,500,02/14/20,6,3000
+46,Bluetooth Speaker,A wireless audio device,None,BS001,15,1000,1500,02/15/20,1,1500
+47,Travel Adapter,A device for adapting plugs,None,TA001,8,200,300,02/16/20,3,900
+48,Travel Pillow,A pillow for traveling,Unit,TP001,10,300,400,02/17/20,7,2800
+49,Travel Backpack,A backpack for traveling,None,TBP001,5,1000,1500,02/18/20,3,4500
+50,Suitcase,A luggage for traveling,Unit,STC001,12,2000,2500,02/19/20,3,7500
+51,Tennis Shoes,Footwear,None,TNS001,18,1200,1500,02/20/20,1,1500
+52,Running Shoes,Footwear,Unit,RNS001,20,1600,2000,02/21/20,10,20000
+53,Sandals,Footwear,None,SDL001,15,800,1000,02/22/20,1,1000
+54,Boots,Footwear,Unit,BTS001,10,2000,2500,02/23/20,7,17500
+55,Sneakers,Footwear,None,SNK001,22,1500,1800,02/24/20,5,9000
+56,Hiking Backpack,A backpack for hiking,Unit,HBP001,10,800,1000,02/25/20,2,2000
+57,Travel Backpack,A backpack for traveling,None,TBP002,15,1200,1500,02/26/20,1,1500
+58,School Backpack,A backpack for school,None,SBP001,8,500,700,02/27/20,7,4900
+59,Daypack,A small backpack,None,DP001,12,600,800,02/28/20,10,8000
+60,Hiking Boots,Footwear,None,HKB001,10,2400,2800,02/29/20,9,25200
+61,Camping Tent,A portable shelter,None,CT001,5,10000,12000,03/01/20,1,12000
+62,Sleeping Bag,A portable insulated bag,Unit,SB001,8,4000,5000,03/02/20,5,25000
+63,Portable Stove,A stove for outdoor cooking,None,PS001,10,2000,2500,03/03/20,7,17500
+64,Water Bottle,A container for carrying water,Unit,WB001,15,300,500,03/04/20,10,5000
+65,Backpack,A bag for carrying belongings,None,BP001,20,1000,1500,03/05/20,8,12000
+66,Travel Pillow,A pillow for traveling,Unit,TP002,8,200,300,03/06/20,2,600
+67,Neck Pillow,A pillow for neck support,None,NP001,12,300,400,03/07/20,1,400
+68,Travel Blanket,A blanket for traveling,Unit,TB001,10,400,600,03/08/20,7,4200
+69,Passport Holder,A holder for passport,None,PH001,15,100,200,03/09/20,9,1800
+70,Luggage Scale,A device for weighing luggage,Unit,LS001,5,500,700,03/10/20,4,2800
+71,Backpack,A backpack for hiking,None,BP002,10,800,1000,03/11/20,8,8000
+72,Trekking Poles,A pair of poles for trekking,None,TP001,8,600,800,03/12/20,1,800
+73,Portable Charger,A charger for mobile devices,None,PC001,15,500,700,03/13/20,9,6300
+74,Travel Adapter,A device for adapting plugs,None,TA002,20,300,500,03/14/20,16,8000
+75,Power Bank,A portable charger,None,PB001,12,700,900,03/15/20,4,3600
+76,USB Flash Drive,A portable data storage device,Unit,UFD001,20,400,600,03/16/20,6,3600
+77,Wireless Mouse,A mouse without cables,None,WM001,15,600,800,03/17/20,6,4800
+78,Laptop Stand,A stand for laptops,None,LS001,10,500,700,03/18/20,4,2800
+79,Gaming Mouse,A mouse for gaming,Unit,GM001,8,800,1000,03/19/20,5,5000
+80,Graphics Card,A device for rendering graphics,None,GC001,5,15000,18000,03/20/20,2,36000
+81,Motherboard,A main circuit board,Unit,MB001,8,10000,12000,03/21/20,7,84000
+82,CPU,A central processing unit,None,CPU001,10,8000,10000,03/22/20,5,50000
+83,RAM,A type of computer memory,None,RAM001,15,6000,8000,03/23/20,5,40000
+84,Hard Drive,A data storage device,None,HD001,12,2000,2500,03/24/20,7,17500
+85,SSD,A type of data storage device,None,SSD001,10,3000,3500,03/25/20,6,21000
+86,Monitor,A display screen,None,MON001,5,10000,12000,03/26/20,1,12000
+87,Printer Paper,A type of paper,Unit,PP001,20,200,300,03/27/20,8,2400
+88,Pencil,A writing instrument,None,PCL001,25,10,20,03/28/20,23,460
+89,Eraser,A tool for erasing,Unit,ER001,30,5,10,03/29/20,15,150
+90,Highlighter,A marker for highlighting text,None,HL001,15,20,30,03/30/20,2,60
+91,Scissors,A cutting tool,Unit,SC001,10,50,100,03/31/20,5,500
+92,Staples,A type of fastener,None,STP001,8,5,10,04/01/20,2,20
+93,File Organizer,A tool for organizing files,Unit,FO001,12,100,150,04/02/20,3,450
+94,Desk Lamp,A lighting fixture,None,DLP002,10,400,600,04/03/20,4,2400
+95,Desk Chair,A chair for a desk,None,DC001,5,4000,5000,04/04/20,1,5000
+96,Coffee Table,A low table for coffee,None,CT001,8,5000,6000,04/05/20,3,18000
+97,Bookshelf,A shelf for books,Unit,BS001,10,2000,2500,04/06/20,2,5000
+98,TV Stand,A stand for a television,None,TVS001,12,1500,2000,04/07/20,8,16000
+99,Nightstand,A small table by a bed,None,NS001,5,2000,2500,04/08/20,1,2500
+100,Sofa Bed,A sofa that can be converted into a bed,None,SFB001,8,8000,10000,04/09/20,7,70000
+101,Area Rug,A rug for the floor,None,AR001,10,2500,3000,04/10/20,4,12000
+102,Throw Pillow,A decorative pillow,None,TP001,12,500,700,04/11/20,5,3500
+103,Wall Art,Artwork for walls,Unit,WA001,15,800,1000,04/12/20,8,8000
+104,Curtains,Window coverings,None,CRT002,20,700,900,04/13/20,5,4500
+105,Table Lamp,A lamp for tables,Unit,TL001,8,800,1000,04/14/20,7,7000
+106,Travel Adapter,A device for adapting plugs,None,TA003,10,300,500,04/15/20,4,2000
+107,Power Bank,A portable charger,Unit,PB002,15,800,1000,04/16/20,11,11000
+108,USB Flash Drive,A portable data storage device,None,UFD002,20,500,700,04/17/20,3,2100
+109,Wireless Mouse,A mouse without cables,Unit,WM002,15,700,900,04/18/20,11,9900
+110,Laptop Stand,A stand for laptops,None,LS002,10,600,800,04/19/20,6,4800
+111,Gaming Mouse,A mouse for gaming,Unit,GM002,8,900,1100,04/20/20,7,7700
+112,Graphics Card,A device for rendering graphics,None,GC002,5,18000,22000,04/21/20,1,22000
+113,Motherboard,A main circuit board,None,MB002,8,12000,15000,04/22/20,6,90000
+114,CPU,A central processing unit,Unit,CPU002,10,10000,12000,04/23/20,2,24000
+115,RAM,A type of computer memory,None,RAM002,15,8000,10000,04/24/20,9,90000
+116,Hard Drive,A data storage device,Unit,HD002,12,3000,3500,04/25/20,5,17500
+117,SSD,A type of data storage device,None,SSD002,10,4000,5000,04/26/20,8,40000
+118,Monitor,A display screen,Unit,MON002,5,15000,18000,04/27/20,1,18000
+119,Printer Paper,A type of paper,None,PP002,20,300,400,04/28/20,3,1200
+120,Pencil,A writing instrument,Unit,PCL002,25,15,25,04/29/20,2,50
+121,Eraser,A tool for erasing,None,ER002,30,10,15,04/30/20,15,225
+122,Highlighter,A marker for highlighting text,Unit,HL002,15,30,40,05/01/20,13,520
+123,Scissors,A cutting tool,None,SC002,10,80,100,05/02/20,8,800
+124,Staples,A type of fastener,Unit,STP002,8,10,15,05/03/20,1,15
+125,File Organizer,A tool for organizing files,None,FO002,12,150,200,05/04/20,8,1600
+126,Desk Lamp,A lighting fixture,None,DLP003,10,500,700,05/05/20,6,4200
+127,Desk Chair,A chair for a desk,None,DC002,5,5000,6000,05/06/20,3,18000
+128,Coffee Table,A low table for coffee,None,CT002,8,6000,7000,05/07/20,1,7000
+129,Bookshelf,A shelf for books,None,BS002,10,2500,3000,05/08/20,6,18000
+130,TV Stand,A stand for a television,Unit,TVS002,12,2000,2500,05/09/20,9,22500
+131,Nightstand,A small table by a bed,None,NS002,5,2500,3000,05/10/20,3,9000
+132,Sofa Bed,A sofa that can be converted into a bed,Unit,SFB002,8,10000,12000,05/11/20,6,72000
+133,Area Rug,A rug for the floor,None,AR002,10,3000,3500,05/12/20,4,14000
+134,Throw Pillow,A decorative pillow,None,TP002,12,700,900,05/13/20,7,6300
+135,Wall Art,Artwork for walls,None,WA002,15,1000,1200,05/14/20,2,2400
+136,Curtains,Window coverings,Unit,CRT003,20,900,1100,05/15/20,14,15400
+137,Table Lamp,A lamp for tables,Unit,TL002,8,1000,1200,05/16/20,4,4800
+138,Travel Adapter,A device for adapting plugs,None,TA004,10,400,600,05/17/20,9,5400
+139,Power Bank,A portable charger,None,PB003,15,1000,1200,05/18/20,5,6000
+140,USB Flash Drive,A portable data storage device,None,UFD003,20,600,800,05/19/20,4,3200
+141,Wireless Mouse,A mouse without cables,None,WM003,15,800,1000,05/20/20,3,3000
+142,Laptop Stand,A stand for laptops,Unit,LS003,10,700,900,05/21/20,3,2700
+143,Gaming Mouse,A mouse for gaming,None,GM003,8,1000,1200,05/22/20,6,7200
+144,Graphics Card,A device for rendering graphics,Unit,GC003,5,22000,25000,05/23/20,4,100000
+145,Motherboard,A main circuit board,None,MB003,8,15000,18000,05/24/20,4,72000
+146,CPU,A central processing unit,Unit,CPU003,10,12000,15000,05/25/20,6,90000
+147,RAM,A type of computer memory,None,RAM003,15,10000,12000,05/26/20,2,24000
+148,Hard Drive,A data storage device,Unit,HD003,12,3500,4000,05/27/20,3,12000
+149,SSD,A type of data storage device,None,SSD003,10,5000,6000,05/28/20,1,6000
+150,Monitor,A display screen,Unit,MON003,5,18000,20000,05/29/20,3,60000
+151,Printer Paper,A type of paper,None,PP003,20,400,500,05/30/20,6,3000
+152,Pencil,A writing instrument,None,PCL003,25,20,30,05/31/20,6,180
+153,Eraser,A tool for erasing,None,ER003,30,15,20,06/01/20,24,480
+154,Highlighter,A marker for highlighting text,None,HL003,15,40,50,06/02/20,4,200
+155,Scissors,A cutting tool,None,SC003,10,100,150,06/03/20,8,1200
+156,Staples,A type of fastener,None,STP003,8,15,20,06/04/20,7,140
+157,File Organizer,A tool for organizing files,None,FO003,12,200,250,06/05/20,1,250
+158,Desk Lamp,A lighting fixture,None,DLP004,10,700,900,06/06/20,4,3600
+159,Desk Chair,A chair for a desk,None,DC003,5,6000,7000,06/07/20,1,7000
+160,Coffee Table,A low table for coffee,None,CT003,8,7000,8000,06/08/20,5,40000
+161,Bookshelf,A shelf for books,None,BS003,10,3000,3500,06/09/20,6,21000
+162,TV Stand,A stand for a television,None,TVS003,12,2500,3000,06/10/20,5,15000
+163,Nightstand,A small table by a bed,None,NS003,5,3000,3500,06/11/20,2,7000
+164,Sofa Bed,A sofa that can be converted into a bed,None,SFB003,8,12000,15000,06/12/20,2,30000
+165,Area Rug,A rug for the floor,None,AR003,10,3500,4000,06/13/20,5,20000
+166,Throw Pillow,A decorative pillow,None,TP003,12,900,1100,06/14/20,9,9900
+167,Wall Art,Artwork for walls,None,WA003,15,1200,1500,06/15/20,13,19500
+168,Curtains,Window coverings,None,CRT004,20,1100,1300,06/16/20,10,13000
+169,Table Lamp,A lamp for tables,None,TL003,8,1200,1500,06/17/20,4,6000
+170,Travel Adapter,A device for adapting plugs,None,TA005,10,500,700,06/18/20,7,4900
+171,Power Bank,A portable charger,None,PB004,15,1200,1500,06/19/20,7,10500
+172,USB Flash Drive,A portable data storage device,None,UFD004,20,700,900,06/20/20,6,5400
+173,Wireless Mouse,A mouse without cables,None,WM004,15,1000,1200,06/21/20,7,8400
+174,Laptop Stand,A stand for laptops,None,LS004,10,900,1100,06/22/20,4,4400
+175,Gaming Mouse,A mouse for gaming,None,GM004,8,1200,1500,06/23/20,1,1500
+176,Graphics Card,A device for rendering graphics,None,GC004,5,25000,30000,06/24/20,1,30000
+177,Motherboard,A main circuit board,None,MB004,8,18000,22000,06/25/20,2,44000
+178,CPU,A central processing unit,None,CPU004,10,15000,18000,06/26/20,1,18000
+179,RAM,A type of computer memory,None,RAM004,15,12000,15000,06/27/20,5,75000
+180,Hard Drive,A data storage device,None,HD004,12,4000,5000,06/28/20,5,25000
+181,SSD,A type of data storage device,None,SSD004,10,6000,7000,06/29/20,9,63000
+182,Monitor,A display screen,None,MON004,5,20000,25000,06/30/20,2,50000
+183,Printer Paper,A type of paper,None,PP004,20,500,600,07/01/20,13,7800
+184,Pencil,A writing instrument,None,PCL004,25,25,35,07/02/20,2,70
+185,Eraser,A tool for erasing,None,ER004,30,20,25,07/03/20,17,425
+186,Highlighter,A marker for highlighting text,None,HL004,15,50,60,07/04/20,5,300
+187,Scissors,A cutting tool,None,SC004,10,150,200,07/05/20,1,200
+188,Staples,A type of fastener,None,STP004,8,20,25,07/06/20,6,150
+189,File Organizer,A tool for organizing files,None,FO004,12,250,300,07/07/20,5,1500
+190,Desk Lamp,A lighting fixture,None,DLP005,10,800,1000,07/08/20,4,4000
+191,Desk Chair,A chair for a desk,None,DC004,5,7000,8000,07/09/20,3,24000
+192,Coffee Table,A low table for coffee,None,CT004,8,8000,9000,07/10/20,4,36000
+193,Bookshelf,A shelf for books,None,BS004,10,3500,4000,07/11/20,1,4000
+194,TV Stand,A stand for a television,None,TVS004,12,3000,3500,07/12/20,5,17500
+195,Nightstand,A small table by a bed,None,NS004,5,3500,4000,07/13/20,3,12000
+196,Sofa Bed,A sofa that can be converted into a bed,None,SFB004,8,15000,18000,07/14/20,2,36000
+197,Area Rug,A rug for the floor,None,AR004,10,4000,4500,07/15/20,6,27000
+198,Throw Pillow,A decorative pillow,None,TP004,12,1100,1400,07/16/20,2,2800
+199,Wall Art,Artwork for walls,None,WA004,15,1500,1800,07/17/20,13,23400
+200,Curtains,Window coverings,None,CRT005,20,1300,1600,07/18/20,9,14400
+201,Table Lamp,A lamp for tables,None,TL004,8,1500,1800,07/19/20,3,5400
+202,Travel Adapter,A device for adapting plugs,None,TA006,10,600,800,07/20/20,7,5600
+203,Power Bank,A portable charger,None,PB005,15,1500,1800,07/21/20,3,5400
+204,USB Flash Drive,A portable data storage device,None,UFD005,20,800,1000,07/22/20,9,9000
+205,Wireless Mouse,A mouse without cables,None,WM005,15,1200,1500,07/23/20,1,1500
+206,Laptop Stand,A stand for laptops,None,LS005,10,1100,1400,07/24/20,8,11200
+207,Gaming Mouse,A mouse for gaming,None,GM005,8,1500,1800,07/25/20,6,10800
+208,Graphics Card,A device for rendering graphics,None,GC005,5,30000,35000,07/26/20,1,35000
+209,Motherboard,A main circuit board,None,MB005,8,22000,25000,07/27/20,5,125000
+210,CPU,A central processing unit,None,CPU005,10,18000,20000,07/28/20,4,80000
+211,RAM,A type of computer memory,None,RAM005,15,15000,18000,07/29/20,11,198000
+212,Hard Drive,A data storage device,None,HD005,12,5000,6000,07/30/20,6,36000
+213,SSD,A type of data storage device,None,SSD005,10,7000,8000,07/31/20,9,72000
+214,Monitor,A display screen,None,MON005,5,25000,30000,08/01/20,1,30000
+215,Printer Paper,A type of paper,None,PP005,20,600,800,08/02/20,12,9600
+216,Pencil,A writing instrument,None,PCL005,25,30,40,08/03/20,18,720
+217,Eraser,A tool for erasing,None,ER005,30,25,35,08/04/20,18,630
+218,Highlighter,A marker for highlighting text,None,HL005,15,60,80,08/05/20,3,240
+219,Scissors,A cutting tool,None,SC005,10,200,250,08/06/20,6,1500
+220,Staples,A type of fastener,None,STP005,8,25,35,08/07/20,7,245
+221,File Organizer,A tool for organizing files,None,FO005,12,300,400,08/08/20,5,2000
+222,Desk Lamp,A lighting fixture,None,DLP006,10,900,1200,08/09/20,2,2400
+223,Desk Chair,A chair for a desk,None,DC005,5,8000,9000,08/10/20,3,27000
+224,Coffee Table,A low table for coffee,None,CT005,8,9000,10000,08/11/20,6,60000
+225,Bookshelf,A shelf for books,None,BS005,10,4000,4500,08/12/20,5,22500
+226,TV Stand,A stand for a television,None,TVS005,12,3500,4000,08/13/20,9,36000
+227,Nightstand,A small table by a bed,None,NS005,5,4000,4500,08/14/20,4,18000
+228,Sofa Bed,A sofa that can be converted into a bed,None,SFB005,8,18000,20000,08/15/20,1,20000
+229,Area Rug,A rug for the floor,None,AR005,10,4500,5000,08/16/20,6,30000
+230,Throw Pillow,A decorative pillow,None,TP005,12,1400,1600,08/17/20,3,4800
+231,Wall Art,Artwork for walls,None,WA005,15,1800,2000,08/18/20,4,8000
+232,Curtains,Window coverings,None,CRT006,20,1600,1800,08/19/20,3,5400
+233,Table Lamp,A lamp for tables,None,TL005,8,1800,2000,08/20/20,3,6000
+234,Travel Adapter,A device for adapting plugs,None,TA007,10,700,900,08/21/20,5,4500
+235,Power Bank,A portable charger,None,PB006,15,1800,2000,08/22/20,8,16000
+236,USB Flash Drive,A portable data storage device,None,UFD006,20,900,1100,08/23/20,1,1100
+237,Wireless Mouse,A mouse without cables,None,WM006,15,1500,1700,08/24/20,14,23800
+238,Laptop Stand,A stand for laptops,None,LS006,10,1400,1600,08/25/20,8,12800
+239,Gaming Mouse,A mouse for gaming,None,GM006,8,1800,2000,08/26/20,5,10000
+240,Graphics Card,A device for rendering graphics,None,GC006,5,35000,40000,08/27/20,2,80000
+241,Motherboard,A main circuit board,None,MB006,8,25000,30000,08/28/20,7,210000
+242,CPU,A central processing unit,None,CPU006,10,20000,25000,08/29/20,8,200000
+243,RAM,A type of computer memory,None,RAM006,15,18000,22000,08/30/20,13,286000
+244,Hard Drive,A data storage device,None,HD006,12,6000,7000,08/31/20,10,70000
+245,SSD,A type of data storage device,None,SSD006,10,8000,9000,09/01/20,2,18000
+246,Monitor,A display screen,None,MON006,5,30000,35000,09/02/20,3,105000
+247,Printer Paper,A type of paper,None,PP006,20,700,900,09/03/20,10,9000
+248,Pencil,A writing instrument,None,PCL006,25,35,45,09/04/20,11,495
+249,Eraser,A tool for erasing,None,ER006,30,30,40,09/05/20,28,1120
+250,Highlighter,A marker for highlighting text,None,HL006,15,80,100,09/06/20,9,900
+251,Scissors,A cutting tool,None,SC006,10,250,300,09/07/20,8,2400
+252,Staples,A type of fastener,None,STP006,8,35,45,09/08/20,2,90
+253,File Organizer,A tool for organizing files,None,FO006,12,400,500,09/09/20,11,5500
+254,Desk Lamp,A lighting fixture,None,DLP007,10,1000,1200,09/10/20,9,10800
+255,Desk Chair,A chair for a desk,None,DC006,5,9000,10000,09/11/20,2,20000
+256,Coffee Table,A low table for coffee,None,CT006,8,10000,12000,09/12/20,4,48000
+257,Bookshelf,A shelf for books,None,BS006,10,4500,5000,09/13/20,2,10000
+258,TV Stand,A stand for a television,None,TVS006,12,4000,4500,09/14/20,8,36000
+259,Nightstand,A small table by a bed,None,NS006,5,4500,5000,09/15/20,3,15000
+260,Sofa Bed,A sofa that can be converted into a bed,None,SFB006,8,20000,25000,09/16/20,3,75000
+261,Area Rug,A rug for the floor,None,AR006,10,5000,6000,09/17/20,4,24000
+262,Throw Pillow,A decorative pillow,None,TP006,12,1600,1800,09/18/20,6,10800
+263,Wall Art,Artwork for walls,None,WA006,15,2000,2200,09/19/20,5,11000
+264,Curtains,Window coverings,None,CRT007,20,1800,2000,09/20/20,11,22000
+265,Table Lamp,A lamp for tables,None,TL006,8,2000,2200,09/21/20,5,11000
+266,Travel Adapter,A device for adapting plugs,None,TA008,10,800,1000,09/22/20,3,3000
+267,Power Bank,A portable charger,None,PB007,15,2000,2200,09/23/20,10,22000
+268,USB Flash Drive,A portable data storage device,None,UFD007,20,1100,1300,09/24/20,10,13000
+269,Wireless Mouse,A mouse without cables,None,WM007,15,1700,1900,09/25/20,2,3800
+270,Laptop Stand,A stand for laptops,None,LS007,10,1600,1800,09/26/20,8,14400
+271,Gaming Mouse,A mouse for gaming,None,GM007,8,2000,2200,09/27/20,7,15400
+272,Graphics Card,A device for rendering graphics,None,GC007,5,40000,45000,09/28/20,4,180000
+273,Motherboard,A main circuit board,None,MB007,8,30000,35000,09/29/20,3,105000
+274,CPU,A central processing unit,None,CPU007,10,25000,30000,09/30/20,7,210000
+275,RAM,A type of computer memory,None,RAM007,15,22000,25000,10/01/20,6,150000
+276,Hard Drive,A data storage device,None,HD007,12,7000,8000,10/02/20,11,88000
+277,SSD,A type of data storage device,None,SSD007,10,9000,10000,10/03/20,5,50000
+278,Monitor,A display screen,None,MON007,5,35000,40000,10/04/20,3,120000
+279,Printer Paper,A type of paper,None,PP007,20,800,1000,10/05/20,6,6000
+280,Pencil,A writing instrument,None,PCL007,25,40,50,10/06/20,6,300
+281,Eraser,A tool for erasing,None,ER007,30,35,45,10/07/20,7,315
+282,Highlighter,A marker for highlighting text,None,HL007,15,100,120,10/08/20,4,480
+283,Scissors,A cutting tool,None,SC007,10,300,350,10/09/20,4,1400
+284,Staples,A type of fastener,None,STP007,8,45,55,10/10/20,1,55
+285,File Organizer,A tool for organizing files,None,FO007,12,500,600,10/11/20,6,3600
+286,Desk Lamp,A lighting fixture,None,DLP008,10,1200,1400,10/12/20,7,9800
+287,Desk Chair,A chair for a desk,None,DC007,5,10000,12000,10/13/20,2,24000
+288,Coffee Table,A low table for coffee,None,CT007,8,12000,14000,10/14/20,2,28000
+289,Bookshelf,A shelf for books,None,BS007,10,5000,6000,10/15/20,8,48000
+290,TV Stand,A stand for a television,None,TVS007,12,4500,5500,10/16/20,2,11000
+291,Nightstand,A small table by a bed,None,NS007,5,5000,6000,10/17/20,4,24000
+292,Sofa Bed,A sofa that can be converted into a bed,None,SFB007,8,25000,30000,10/18/20,6,180000
+293,Area Rug,A rug for the floor,None,AR007,10,6000,7000,10/19/20,6,42000
+294,Throw Pillow,A decorative pillow,None,TP007,12,1800,2000,10/20/20,5,10000
+295,Wall Art,Artwork for walls,None,WA007,15,2200,2500,10/21/20,8,20000
+296,Curtains,Window coverings,None,CRT008,20,2000,2200,10/22/20,19,41800
+297,Table Lamp,A lamp for tables,None,TL007,8,2200,2500,10/23/20,5,12500
+298,Travel Adapter,A device for adapting plugs,None,TA009,10,900,1100,10/24/20,5,5500
+299,Power Bank,A portable charger,None,PB008,15,2200,2500,10/25/20,6,15000
+300,USB Flash Drive,A portable data storage device,None,UFD008,20,1300,1500,10/26/20,5,7500
+301,Wireless Mouse,A mouse without cables,None,WM008,15,1900,2100,10/27/20,10,21000
+302,Laptop Stand,A stand for laptops,None,LS008,10,1800,2000,10/28/20,9,18000
+303,Gaming Mouse,A mouse for gaming,None,GM008,8,2200,2500,10/29/20,2,5000
+304,Graphics Card,A device for rendering graphics,None,GC008,5,45000,50000,10/30/20,2,100000
+305,Motherboard,A main circuit board,None,MB008,8,35000,40000,10/31/20,2,80000
+306,CPU,A central processing unit,None,CPU008,10,30000,35000,11/01/20,4,140000
+307,RAM,A type of computer memory,None,RAM008,15,25000,30000,11/02/20,4,120000
+308,Hard Drive,A data storage device,None,HD008,12,8000,9000,11/03/20,9,81000
+309,SSD,A type of data storage device,None,SSD008,10,10000,12000,11/04/20,1,12000
+310,Monitor,A display screen,None,MON008,5,40000,45000,11/05/20,2,90000
+311,Printer Paper,A type of paper,None,PP008,20,1000,1200,11/06/20,11,13200
+312,Pencil,A writing instrument,None,PCL008,25,50,60,11/07/20,23,1380
+313,Eraser,A tool for erasing,None,ER008,30,45,55,11/08/20,7,385
+314,Highlighter,A marker for highlighting text,None,HL008,15,120,140,11/09/20,5,700
+315,Scissors,A cutting tool,None,SC008,10,350,400,11/10/20,1,400
+316,Staples,A type of fastener,None,STP008,8,55,65,11/11/20,5,325
+317,File Organizer,A tool for organizing files,None,FO008,12,600,700,11/12/20,9,6300
+318,Desk Lamp,A lighting fixture,None,DLP009,10,1400,1600,11/13/20,3,4800
+319,Desk Chair,A chair for a desk,None,DC008,5,12000,14000,11/14/20,2,28000
+320,Coffee Table,A low table for coffee,None,CT008,8,14000,16000,11/15/20,1,16000
+321,Bookshelf,A shelf for books,None,BS008,10,6000,7000,11/16/20,8,56000
+322,TV Stand,A stand for a television,None,TVS008,12,5500,6500,11/17/20,11,71500
+323,Nightstand,A small table by a bed,None,NS008,5,6000,7000,11/18/20,4,28000
+324,Sofa Bed,A sofa that can be converted into a bed,None,SFB008,8,30000,35000,11/19/20,3,105000
+325,Area Rug,A rug for the floor,None,AR008,10,7000,8000,11/20/20,3,24000
+326,Throw Pillow,A decorative pillow,None,TP008,12,2000,2200,11/21/20,6,13200
+327,Wall Art,Artwork for walls,None,WA008,15,2500,2800,11/22/20,11,30800
+328,Curtains,Window coverings,None,CRT009,20,2200,2500,11/23/20,2,5000
+329,Table Lamp,A lamp for tables,None,TL008,8,2500,2800,11/24/20,5,14000
+330,Travel Adapter,A device for adapting plugs,None,TA010,10,1000,1200,11/25/20,8,9600
+331,Power Bank,A portable charger,None,PB009,15,2500,2800,11/26/20,1,2800
+332,USB Flash Drive,A portable data storage device,None,UFD009,20,1500,1800,11/27/20,10,18000
+333,Wireless Mouse,A mouse without cables,None,WM009,15,2100,2400,11/28/20,6,14400
+334,Laptop Stand,A stand for laptops,None,LS009,10,2000,2300,11/29/20,8,18400
+335,Gaming Mouse,A mouse for gaming,None,GM009,8,2500,2800,11/30/20,5,14000
+336,Graphics Card,A device for rendering graphics,None,GC009,5,50000,55000,12/01/20,3,165000
+337,Motherboard,A main circuit board,None,MB009,8,40000,45000,12/02/20,6,270000
+338,CPU,A central processing unit,None,CPU009,10,35000,40000,12/03/20,6,240000
+339,RAM,A type of computer memory,None,RAM009,15,30000,35000,12/04/20,1,35000
+340,Hard Drive,A data storage device,None,HD009,12,9000,10000,12/05/20,5,50000
+341,SSD,A type of data storage device,None,SSD009,10,12000,14000,12/06/20,4,56000
+342,Monitor,A display screen,None,MON009,5,45000,50000,12/07/20,3,150000
+343,Printer Paper,A type of paper,None,PP009,20,1200,1500,12/08/20,18,27000
+344,Pencil,A writing instrument,None,PCL009,25,60,70,12/09/20,6,420
+345,Eraser,A tool for erasing,None,ER009,30,55,65,12/10/20,9,585
+346,Highlighter,A marker for highlighting text,None,HL009,15,140,160,12/11/20,7,1120
+347,Scissors,A cutting tool,None,SC009,10,400,450,12/12/20,9,4050
+348,Staples,A type of fastener,None,STP009,8,65,75,12/13/20,7,525
+349,File Organizer,A tool for organizing files,None,FO009,12,700,800,12/14/20,4,3200
+350,Desk Lamp,A lighting fixture,None,DLP010,10,1600,1800,12/15/20,7,12600
+351,Desk Chair,A chair for a desk,None,DC009,5,14000,16000,12/16/20,4,64000
+352,Coffee Table,A low table for coffee,None,CT009,8,16000,18000,12/17/20,2,36000
+353,Bookshelf,A shelf for books,None,BS009,10,7000,8000,12/18/20,2,16000
+354,TV Stand,A stand for a television,None,TVS009,12,6500,7500,12/19/20,9,67500
+355,Nightstand,A small table by a bed,None,NS009,5,7000,8000,12/20/20,4,32000
+356,Sofa Bed,A sofa that can be converted into a bed,None,SFB009,8,35000,40000,12/21/20,5,200000
+357,Area Rug,A rug for the floor,None,AR009,10,8000,9000,12/22/20,7,63000
+358,Throw Pillow,A decorative pillow,None,TP009,12,2200,2500,12/23/20,4,10000
+359,Wall Art,Artwork for walls,None,WA009,15,2800,3200,12/24/20,14,44800
+360,Curtains,Window coverings,None,CRT010,20,2500,3000,12/25/20,18,54000
+361,Table Lamp,A lamp for tables,None,TL009,8,2800,3200,12/26/20,4,12800
+362,Travel Adapter,A device for adapting plugs,None,TA011,10,1200,1500,12/27/20,6,9000
+363,Power Bank,A portable charger,None,PB010,15,2800,3200,12/28/20,14,44800
+364,USB Flash Drive,A portable data storage device,None,UFD010,20,1800,2200,12/29/20,9,19800
+365,Wireless Mouse,A mouse without cables,None,WM010,15,2400,2800,12/30/20,1,2800
+366,Laptop Stand,A stand for laptops,None,LS010,10,2300,2700,12/31/20,7,18900
+367,Gaming Mouse,A mouse for gaming,None,GM010,8,2800,3200,01/01/21,6,19200
+368,Graphics Card,A device for rendering graphics,None,GC010,5,55000,60000,01/02/21,2,120000
+369,Motherboard,A main circuit board,None,MB010,8,45000,50000,01/03/21,7,350000
+370,CPU,A central processing unit,None,CPU010,10,40000,45000,01/04/21,2,90000
+371,RAM,A type of computer memory,None,RAM010,15,35000,40000,01/05/21,13,520000
+372,Hard Drive,A data storage device,None,HD010,12,10000,12000,01/06/21,1,12000
+373,SSD,A type of data storage device,None,SSD010,10,14000,16000,01/07/21,8,128000
+374,Monitor,A display screen,None,MON010,5,50000,55000,01/08/21,2,110000
+375,Printer Paper,A type of paper,None,PP010,20,1500,1800,01/09/21,8,14400
+376,Pencil,A writing instrument,None,PCL010,25,70,80,01/10/21,14,1120
+377,Eraser,A tool for erasing,None,ER010,30,65,75,01/11/21,26,1950
+378,Highlighter,A marker for highlighting text,None,HL010,15,160,180,01/12/21,4,720
+379,Scissors,A cutting tool,None,SC010,10,450,500,01/13/21,4,2000
+380,Staples,A type of fastener,None,STP010,8,75,85,01/14/21,3,255
+381,File Organizer,A tool for organizing files,None,FO010,12,800,900,01/15/21,9,8100
+382,Desk Lamp,A lighting fixture,None,DLP011,10,1800,2000,01/16/21,1,2000
+383,Desk Chair,A chair for a desk,None,DC010,5,16000,18000,01/17/21,2,36000
+384,Coffee Table,A low table for coffee,None,CT010,8,18000,20000,01/18/21,4,80000
+385,Bookshelf,A shelf for books,None,BS010,10,8000,9000,01/19/21,6,54000
+386,TV Stand,A stand for a television,None,TVS010,12,7500,8500,01/20/21,6,51000
+387,Nightstand,A small table by a bed,None,NS010,5,8000,9000,01/21/21,2,18000
+388,Sofa Bed,A sofa that can be converted into a bed,None,SFB010,8,40000,45000,01/22/21,6,270000
+389,Area Rug,A rug for the floor,None,AR010,10,9000,10000,01/23/21,7,70000
+390,Throw Pillow,A decorative pillow,None,TP010,12,2500,2800,01/24/21,5,14000
+391,Wall Art,Artwork for walls,None,WA010,15,3200,3500,01/25/21,12,42000
+392,Curtains,Window coverings,None,CRT011,20,3000,3500,01/26/21,3,10500
+393,Table Lamp,A lamp for tables,None,TL010,8,3200,3500,01/27/21,3,10500
+394,Travel Adapter,A device for adapting plugs,None,TA012,10,1500,1800,01/28/21,3,5400
+395,Power Bank,A portable charger,None,PB011,15,3200,3500,01/29/21,5,17500
+396,USB Flash Drive,A portable data storage device,None,UFD011,20,2200,2500,01/30/21,17,42500
+397,Wireless Mouse,A mouse without cables,None,WM011,15,2800,3200,01/31/21,11,35200
+398,Laptop Stand,A stand for laptops,None,LS011,10,2700,3000,02/01/21,6,18000
+399,Gaming Mouse,A mouse for gaming,None,GM011,8,3200,3500,02/02/21,4,14000
+400,Graphics Card,A device for rendering graphics,None,GC011,5,60000,65000,02/03/21,1,65000
+401,Motherboard,A main circuit board,None,MB011,8,50000,55000,02/04/21,5,275000
+402,CPU,A central processing unit,None,CPU011,10,45000,50000,02/05/21,8,400000
+403,RAM,A type of computer memory,None,RAM011,15,40000,45000,02/06/21,10,450000
+404,Hard Drive,A data storage device,None,HD011,12,12000,14000,02/07/21,6,84000
+405,SSD,A type of data storage device,None,SSD011,10,16000,18000,02/08/21,8,144000
+406,Monitor,A display screen,None,MON011,5,55000,60000,02/09/21,1,60000
+407,Printer Paper,A type of paper,None,PP011,20,1800,2000,02/10/21,11,22000
+408,Pencil,A writing instrument,None,PCL011,25,80,90,02/11/21,9,810
+409,Eraser,A tool for erasing,None,ER011,30,75,85,02/12/21,27,2295
+410,Highlighter,A marker for highlighting text,None,HL011,15,180,200,02/13/21,6,1200
+411,Scissors,A cutting tool,None,SC011,10,500,550,02/14/21,7,3850
+412,Staples,A type of fastener,None,STP011,8,85,95,02/15/21,1,95
+413,File Organizer,A tool for organizing files,None,FO011,12,900,1000,02/16/21,10,10000
+414,Desk Lamp,A lighting fixture,None,DLP012,10,2000,2200,02/17/21,7,15400
+415,Desk Chair,A chair for a desk,None,DC011,5,18000,20000,02/18/21,1,20000
+416,Coffee Table,A low table for coffee,None,CT011,8,20000,22000,02/19/21,2,44000
+417,Bookshelf,A shelf for books,None,BS011,10,9000,10000,02/20/21,5,50000
+418,TV Stand,A stand for a television,None,TVS011,12,8500,9500,02/21/21,2,19000
+419,Nightstand,A small table by a bed,None,NS011,5,9000,10000,02/22/21,1,10000
+420,Sofa Bed,A sofa that can be converted into a bed,None,SFB011,8,45000,50000,02/23/21,3,150000
+421,Area Rug,A rug for the floor,None,AR011,10,10000,11000,02/24/21,2,22000
+422,Throw Pillow,A decorative pillow,None,TP011,12,2800,3200,02/25/21,6,19200
+423,Wall Art,Artwork for walls,None,WA011,15,3500,4000,02/26/21,2,8000
+424,Curtains,Window coverings,None,CRT012,20,3500,4000,02/27/21,15,60000
+425,Table Lamp,A lamp for tables,None,TL011,8,3500,4000,02/28/21,4,16000
+426,Travel Adapter,A device for adapting plugs,None,TA013,10,1800,2000,03/01/21,8,16000
+427,Power Bank,A portable charger,None,PB012,15,3500,4000,03/02/21,7,28000
+428,USB Flash Drive,A portable data storage device,None,UFD012,20,2500,3000,03/03/21,9,27000
+429,Wireless Mouse,A mouse without cables,None,WM012,15,3200,3700,03/04/21,3,11100
+430,Laptop Stand,A stand for laptops,None,LS012,10,3000,3500,03/05/21,4,14000
+431,Gaming Mouse,A mouse for gaming,None,GM012,8,3500,4000,03/06/21,6,24000
+432,Graphics Card,A device for rendering graphics,None,GC012,5,65000,70000,03/07/21,3,210000
+433,Motherboard,A main circuit board,None,MB012,8,55000,60000,03/08/21,1,60000
+434,CPU,A central processing unit,None,CPU012,10,50000,55000,03/09/21,1,55000
+435,RAM,A type of computer memory,None,RAM012,15,45000,50000,03/10/21,10,500000
+436,Hard Drive,A data storage device,None,HD012,12,14000,16000,03/11/21,2,32000
+437,SSD,A type of data storage device,None,SSD012,10,18000,20000,03/12/21,4,80000
+438,Monitor,A display screen,None,MON012,5,60000,65000,03/13/21,2,130000
+439,Printer Paper,A type of paper,None,PP012,20,2000,2500,03/14/21,5,12500
+440,Pencil,A writing instrument,None,PCL012,25,90,100,03/15/21,16,1600
+441,Eraser,A tool for erasing,None,ER012,30,85,95,03/16/21,3,285
+442,Highlighter,A marker for highlighting text,None,HL012,15,200,220,03/17/21,6,1320
+443,Scissors,A cutting tool,None,SC012,10,550,600,03/18/21,1,600
+444,Staples,A type of fastener,None,STP012,8,95,105,03/19/21,4,420
+445,File Organizer,A tool for organizing files,None,FO012,12,1000,1100,03/20/21,8,8800
+446,Desk Lamp,A lighting fixture,None,DLP013,10,2200,2500,03/21/21,6,15000
+447,Desk Chair,A chair for a desk,Unit,DC012,5,20000,25000,03/22/21,4,100000
+448,Coffee Table,A low table for coffee,None,CT012,8,22000,25000,03/23/21,5,125000
+449,Bookshelf,A shelf for books,Unit,BS012,10,10000,12000,03/24/21,5,60000
+450,TV Stand,A stand for a television,None,TVS012,12,9500,10000,03/25/21,7,70000
+451,Nightstand,A small table by a bed,Unit,NS012,5,10000,12000,03/26/21,1,12000
+452,Sofa Bed,A sofa that can be converted into a bed,None,SFB012,8,50000,60000,03/27/21,1,60000
+453,Area Rug,A rug for the floor,Unit,AR012,10,11000,12000,03/28/21,5,60000
+454,Throw Pillow,A decorative pillow,None,TP012,12,3200,3500,03/29/21,9,31500
+455,Wall Art,Artwork for walls,Unit,WA012,15,4000,4500,03/30/21,11,49500
+456,Curtains,Window coverings,None,CRT013,20,4000,4500,03/31/21,1,4500
+457,Table Lamp,A lamp for tables,Unit,TL012,8,4000,4500,04/01/21,4,18000
+458,Travel Adapter,A device for adapting plugs,None,TA014,10,2000,2500,04/02/21,9,22500
+459,Power Bank,A portable charger,Unit,PB013,15,4000,4500,04/03/21,2,9000
+460,USB Flash Drive,A portable data storage device,None,UFD013,20,3000,3500,04/04/21,6,21000
+461,Wireless Mouse,A mouse without cables,Unit,WM013,15,3700,4000,04/05/21,11,44000
+462,Laptop Stand,A stand for laptops,None,LS013,10,3500,4000,04/06/21,3,12000
+463,Gaming Mouse,A mouse for gaming,Unit,GM013,8,4000,4500,04/07/21,2,9000
+464,Graphics Card,A device for rendering graphics,None,GC013,5,70000,75000,04/08/21,1,75000
+465,Motherboard,A main circuit board,Unit,MB013,8,60000,65000,04/09/21,2,130000
+466,CPU,A central processing unit,None,CPU013,10,55000,60000,04/10/21,7,420000
+467,RAM,A type of computer memory,Unit,RAM013,15,50000,55000,04/11/21,6,330000
+468,Hard Drive,A data storage device,None,HD013,12,16000,18000,04/12/21,3,54000
+469,SSD,A type of data storage device,None,SSD013,10,20000,22000,04/13/21,4,88000
+470,Monitor,A display screen,Unit,MON013,5,65000,70000,04/14/21,1,70000
+471,Printer Paper,A type of paper,None,PP013,20,2500,3000,04/15/21,13,39000
+472,Pencil,A writing instrument,Unit,PCL013,25,100,110,04/16/21,14,1540
+473,Eraser,A tool for erasing,None,ER013,30,95,105,04/17/21,8,840
+474,Highlighter,A marker for highlighting text,Unit,HL013,15,220,240,04/18/21,10,2400
+475,Scissors,A cutting tool,Unit,SC013,10,600,650,04/19/21,2,1300
+476,Staples,A type of fastener,None,STP013,8,105,115,04/20/21,7,805
+477,File Organizer,A tool for organizing files,Unit,FO013,12,1100,1200,04/21/21,4,4800
+478,Desk Lamp,A lighting fixture,None,DLP014,10,2500,3000,04/22/21,2,6000
+479,Desk Chair,A chair for a desk,Unit,DC013,5,25000,30000,04/23/21,2,60000
+480,Coffee Table,A low table for coffee,None,CT013,8,25000,30000,04/24/21,3,90000
+481,Bookshelf,A shelf for books,Unit,BS013,10,12000,14000,04/25/21,4,56000
+482,TV Stand,A stand for a television,Unit,TVS013,12,10000,12000,04/26/21,6,72000
+483,Nightstand,A small table by a bed,None,NS013,5,12000,14000,04/27/21,3,42000
+484,Sofa Bed,A sofa that can be converted into a bed,Unit,SFB013,8,60000,70000,04/28/21,2,140000
+485,Area Rug,A rug for the floor,None,AR013,10,12000,14000,04/29/21,7,98000
+486,Throw Pillow,A decorative pillow,Unit,TP013,12,3500,4000,04/30/21,10,40000
+487,Wall Art,Artwork for walls,None,WA013,15,4500,5000,05/01/21,10,50000
+488,Curtains,Window coverings,Unit,CRT014,20,4500,5000,05/02/21,8,40000
+489,Table Lamp,A lamp for tables,None,TL013,8,4500,5000,05/03/21,4,20000
+490,Travel Adapter,A device for adapting plugs,Unit,TA015,10,2500,3000,05/04/21,2,6000
+491,Power Bank,A portable charger,None,PB014,15,4500,5000,05/05/21,6,30000
+492,USB Flash Drive,A portable data storage device,Unit,UFD014,20,3500,4000,05/06/21,5,20000
+493,Wireless Mouse,A mouse without cables,None,WM014,15,4000,4500,05/07/21,10,45000
+494,Laptop Stand,A stand for laptops,Unit,LS014,10,4000,4500,05/08/21,6,27000
+495,Gaming Mouse,A mouse for gaming,None,GM014,8,4500,5000,05/09/21,6,30000
+496,Graphics Card,A device for rendering graphics,Unit,GC014,5,75000,80000,05/10/21,1,80000
+497,Motherboard,A main circuit board,None,MB014,8,65000,70000,05/11/21,2,140000
+498,CPU,A central processing unit,Unit,CPU014,10,60000,65000,05/12/21,7,455000
+499,RAM,A type of computer memory,None,RAM014,15,55000,60000,05/13/21,6,360000
+500,Hard Drive,A data storage device,None,HD014,12,18000,20000,05/14/21,6,120000
+501,SSD,A type of data storage device,None,SSD014,10,22000,25000,05/15/21,8,200000
+502,Monitor,A display screen,Unit,MON014,5,70000,75000,05/16/21,1,75000
+503,Printer Paper,A type of paper,Unit,PP014,20,3000,3500,05/17/21,11,38500
+504,Pencil,A writing instrument,None,PCL014,25,110,120,05/18/21,1,120
+505,Eraser,A tool for erasing,Unit,ER014,30,105,115,05/19/21,29,3335
+506,Highlighter,A marker for highlighting text,None,HL014,15,240,260,05/20/21,6,1560
+507,Scissors,A cutting tool,Unit,SC014,10,650,700,05/21/21,4,2800
+508,Staples,A type of fastener,None,STP014,8,115,125,05/22/21,2,250
+509,File Organizer,A tool for organizing files,Unit,FO014,12,1200,1300,05/23/21,7,9100
+510,Desk Lamp,A lighting fixture,None,DLP015,10,3000,3500,05/24/21,5,17500
+511,Desk Chair,A chair for a desk,Unit,DC014,5,30000,35000,05/25/21,3,105000
+512,Coffee Table,A low table for coffee,None,CT014,8,30000,35000,05/26/21,5,175000
+513,Bookshelf,A shelf for books,Unit,BS014,10,14000,16000,05/27/21,5,80000
+514,TV Stand,A stand for a television,None,TVS014,12,12000,14000,05/28/21,7,98000
+515,Nightstand,A small table by a bed,Unit,NS014,5,14000,16000,05/29/21,3,48000
+516,Sofa Bed,A sofa that can be converted into a bed,None,SFB014,8,70000,80000,05/30/21,3,240000
+517,Area Rug,A rug for the floor,Unit,AR014,10,14000,16000,05/31/21,7,112000
+518,Throw Pillow,A decorative pillow,None,TP014,12,4000,4500,06/01/21,9,40500
+519,Wall Art,Artwork for walls,Unit,WA014,15,5000,5500,06/02/21,6,33000
+520,Curtains,Window coverings,None,CRT015,20,5000,5500,06/03/21,1,5500
+521,Table Lamp,A lamp for tables,Unit,TL014,8,5000,5500,06/04/21,4,22000
+522,Travel Adapter,A device for adapting plugs,None,TA016,10,3000,3500,06/05/21,7,24500
+523,Power Bank,A portable charger,Unit,PB015,15,5000,5500,06/06/21,14,77000
+524,USB Flash Drive,A portable data storage device,None,UFD015,20,4000,4500,06/07/21,16,72000
+525,Wireless Mouse,A mouse without cables,Unit,WM015,15,4500,5000,06/08/21,5,25000
+526,Laptop Stand,A stand for laptops,Unit,LS015,10,4500,5000,06/09/21,5,25000
+527,Gaming Mouse,A mouse for gaming,Unit,GM015,8,5000,5500,06/10/21,1,5500
+528,Graphics Card,A device for rendering graphics,None,GC015,5,80000,85000,06/11/21,4,340000
+529,Motherboard,A main circuit board,Unit,MB015,8,70000,75000,06/12/21,4,300000
+530,CPU,A central processing unit,None,CPU015,10,65000,70000,06/13/21,5,350000
+531,RAM,A type of computer memory,Unit,RAM015,15,60000,65000,06/14/21,8,520000
+532,Hard Drive,A data storage device,None,HD015,12,20000,22000,06/15/21,11,242000
+533,SSD,A type of data storage device,Unit,SSD015,10,25000,28000,06/16/21,1,28000
+534,Monitor,A display screen,None,MON015,5,75000,80000,06/17/21,1,80000
+535,Printer Paper,A type of paper,Unit,PP015,20,3500,4000,06/18/21,14,56000
+536,Pencil,A writing instrument,None,PCL015,25,120,130,06/19/21,11,1430
+537,Eraser,A tool for erasing,Unit,ER015,30,115,125,06/20/21,12,1500
+538,Highlighter,A marker for highlighting text,None,HL015,15,260,280,06/21/21,3,840
+539,Scissors,A cutting tool,None,SC015,10,700,750,06/22/21,3,2250
+540,Staples,A type of fastener,None,STP015,8,125,135,06/23/21,7,945
+541,File Organizer,A tool for organizing files,Unit,FO015,12,1300,1400,06/24/21,7,9800
+542,Desk Lamp,A lighting fixture,None,DLP016,10,3500,4000,06/25/21,6,24000
+543,Desk Chair,A chair for a desk,Unit,DC015,5,35000,40000,06/26/21,1,40000
+544,Coffee Table,A low table for coffee,None,CT015,8,35000,40000,06/27/21,1,40000
+545,Bookshelf,A shelf for books,Unit,BS015,10,16000,18000,06/28/21,2,36000
+546,TV Stand,A stand for a television,Unit,TVS015,12,14000,16000,06/29/21,9,144000
+547,Nightstand,A small table by a bed,None,NS015,5,16000,18000,06/30/21,3,54000
+548,Sofa Bed,A sofa that can be converted into a bed,Unit,SFB015,8,80000,90000,07/01/21,5,450000
+549,Area Rug,A rug for the floor,None,AR015,10,16000,18000,07/02/21,6,108000
+550,Throw Pillow,A decorative pillow,None,TP015,12,4500,5000,07/03/21,11,55000
+551,Wall Art,Artwork for walls,Unit,WA015,15,5500,6000,07/04/21,11,66000
+552,Curtains,Window coverings,Unit,CRT016,20,5500,6000,07/05/21,14,84000
+553,Table Lamp,A lamp for tables,None,TL015,8,5500,6000,07/06/21,1,6000
+554,Travel Adapter,A device for adapting plugs,Unit,TA017,10,3500,4000,07/07/21,7,28000
+555,Power Bank,A portable charger,None,PB016,15,5500,6000,07/08/21,6,36000
+556,USB Flash Drive,A portable data storage device,None,UFD016,20,4500,5000,07/09/21,11,55000
+557,Wireless Mouse,A mouse without cables,Unit,WM016,15,5000,5500,07/10/21,1,5500
+558,Laptop Stand,A stand for laptops,None,LS016,10,5000,5500,07/11/21,8,44000
+559,Gaming Mouse,A mouse for gaming,Unit,GM016,8,5500,6000,07/12/21,4,24000
+560,Graphics Card,A device for rendering graphics,None,GC016,5,85000,90000,07/13/21,1,90000
+561,Motherboard,A main circuit board,Unit,MB016,8,75000,80000,07/14/21,1,80000
+562,CPU,A central processing unit,Unit,CPU016,10,70000,75000,07/15/21,1,75000
+563,RAM,A type of computer memory,Unit,RAM016,15,65000,70000,07/16/21,11,770000
+564,Hard Drive,A data storage device,None,HD016,12,22000,25000,07/17/21,3,75000
+565,SSD,A type of data storage device,Unit,SSD016,10,28000,30000,07/18/21,7,210000
+566,Monitor,A display screen,None,MON016,5,80000,85000,07/19/21,1,85000
+567,Printer Paper,A type of paper,Unit,PP016,20,4000,4500,07/20/21,10,45000
+568,Pencil,A writing instrument,None,PCL016,25,130,140,07/21/21,24,3360
+569,Eraser,A tool for erasing,Unit,ER016,30,125,135,07/22/21,26,3510
+570,Highlighter,A marker for highlighting text,None,HL016,15,280,300,07/23/21,14,4200
+571,Scissors,A cutting tool,Unit,SC016,10,750,800,07/24/21,7,5600
+572,Staples,A type of fastener,None,STP016,8,135,145,07/25/21,4,580
+573,File Organizer,A tool for organizing files,None,FO016,12,1400,1500,07/26/21,10,15000
+574,Desk Lamp,A lighting fixture,Unit,DLP017,10,4000,4500,07/27/21,3,13500
+575,Desk Chair,A chair for a desk,None,DC016,5,40000,45000,07/28/21,2,90000
+576,Coffee Table,A low table for coffee,Unit,CT016,8,40000,45000,07/29/21,3,135000
+577,Bookshelf,A shelf for books,None,BS016,10,18000,20000,07/30/21,2,40000
+578,TV Stand,A stand for a television,Unit,TVS016,12,16000,18000,07/31/21,5,90000
+579,Nightstand,A small table by a bed,None,NS016,5,18000,20000,08/01/21,3,60000
+580,Sofa Bed,A sofa that can be converted into a bed,Unit,SFB016,8,90000,100000,08/02/21,1,100000
+581,Area Rug,A rug for the floor,None,AR016,10,18000,20000,08/03/21,5,100000
+582,Throw Pillow,A decorative pillow,Unit,TP016,12,5000,5500,08/04/21,8,44000
+583,Wall Art,Artwork for walls,None,WA016,15,6000,6500,08/05/21,2,13000
+584,Curtains,Window coverings,Unit,CRT017,20,6000,6500,08/06/21,16,104000
+585,Table Lamp,A lamp for tables,None,TL016,8,6000,6500,08/07/21,7,45500
+586,Travel Adapter,A device for adapting plugs,Unit,TA018,10,4000,4500,08/08/21,5,22500
+587,Power Bank,A portable charger,None,PB017,15,6000,6500,08/09/21,9,58500
+588,USB Flash Drive,A portable data storage device,Unit,UFD017,20,5000,5500,08/10/21,1,5500
+589,Wireless Mouse,A mouse without cables,None,WM017,15,5500,6000,08/11/21,7,42000
+590,Laptop Stand,A stand for laptops,Unit,LS017,10,5500,6000,08/12/21,7,42000
+591,Gaming Mouse,A mouse for gaming,None,GM017,8,6000,6500,08/13/21,1,6500
+592,Graphics Card,A device for rendering graphics,Unit,GC017,5,90000,95000,08/14/21,1,95000
+593,Motherboard,A main circuit board,None,MB017,8,80000,85000,08/15/21,5,425000
+594,CPU,A central processing unit,Unit,CPU017,10,75000,80000,08/16/21,8,640000
+595,RAM,A type of computer memory,None,RAM017,15,70000,75000,08/17/21,8,600000
+596,Hard Drive,A data storage device,None,HD017,12,25000,28000,08/18/21,7,196000
+597,SSD,A type of data storage device,None,SSD017,10,30000,32000,08/19/21,5,160000
+598,Monitor,A display screen,None,MON017,5,85000,90000,08/20/21,3,270000
+599,Printer Paper,A type of paper,Unit,PP017,20,4500,5000,08/21/21,1,5000
+600,Pencil,A writing instrument,None,PCL017,25,140,150,08/22/21,13,1950
+601,Eraser,A tool for erasing,Unit,ER017,30,135,145,08/23/21,18,2610
+602,Highlighter,A marker for highlighting text,None,HL017,15,300,320,08/24/21,2,640
+603,Scissors,A cutting tool,Unit,SC017,10,800,850,08/25/21,3,2550
+604,Staples,A type of fastener,None,STP017,8,145,155,08/26/21,2,310
+605,File Organizer,A tool for organizing files,Unit,FO017,12,1500,1600,08/27/21,5,8000
+606,Desk Lamp,A lighting fixture,None,DLP018,10,4500,5000,08/28/21,6,30000
+607,Desk Chair,A chair for a desk,Unit,DC017,5,45000,50000,08/29/21,2,100000
+608,Coffee Table,A low table for coffee,None,CT017,8,45000,50000,08/30/21,7,350000
+609,Bookshelf,A shelf for books,Unit,BS017,10,20000,22000,08/31/21,7,154000
+610,TV Stand,A stand for a television,None,TVS017,12,18000,20000,09/01/21,6,120000
+611,Nightstand,A small table by a bed,Unit,NS017,5,20000,22000,09/02/21,4,88000
+612,Sofa Bed,A sofa that can be converted into a bed,None,SFB017,8,100000,110000,09/03/21,7,770000
+613,Area Rug,A rug for the floor,Unit,AR017,10,20000,22000,09/04/21,2,44000
+614,Throw Pillow,A decorative pillow,None,TP017,12,5500,6000,09/05/21,9,54000
+615,Wall Art,Artwork for walls,Unit,WA017,15,6500,7000,09/06/21,14,98000
+616,Curtains,Window coverings,None,CRT018,20,6500,7000,09/07/21,5,35000
+617,Table Lamp,A lamp for tables,Unit,TL017,8,6500,7000,09/08/21,1,7000
+618,Travel Adapter,A device for adapting plugs,None,TA019,10,4500,5000,09/09/21,4,20000
+619,Power Bank,A portable charger,None,PB018,15,6500,7000,09/10/21,12,84000
+620,USB Flash Drive,A portable data storage device,Unit,UFD018,20,5500,6000,09/11/21,1,6000
+621,Wireless Mouse,A mouse without cables,None,WM018,15,6000,6500,09/12/21,7,45500
+622,Laptop Stand,A stand for laptops,Unit,LS018,10,6000,6500,09/13/21,4,26000
+623,Gaming Mouse,A mouse for gaming,None,GM018,8,6500,7000,09/14/21,3,21000
+624,Graphics Card,A device for rendering graphics,Unit,GC018,5,95000,100000,09/15/21,4,400000
+625,Motherboard,A main circuit board,None,MB018,8,85000,90000,09/16/21,4,360000
+626,CPU,A central processing unit,Unit,CPU018,10,80000,85000,09/17/21,2,170000
+627,RAM,A type of computer memory,None,RAM018,15,75000,80000,09/18/21,11,880000
+628,Hard Drive,A data storage device,Unit,HD018,12,28000,30000,09/19/21,8,240000
+629,SSD,A type of data storage device,None,SSD018,10,32000,35000,09/20/21,2,70000
+630,Monitor,A display screen,Unit,MON018,5,90000,95000,09/21/21,3,285000
+631,Printer Paper,A type of paper,Unit,PP018,20,5000,5500,09/22/21,7,38500
+632,Pencil,A writing instrument,None,PCL018,25,150,160,09/23/21,24,3840
+633,Eraser,A tool for erasing,Unit,ER018,30,145,155,09/24/21,11,1705
+634,Highlighter,A marker for highlighting text,None,HL018,15,320,340,09/25/21,4,1360
+635,Scissors,A cutting tool,Unit,SC018,10,850,900,09/26/21,9,8100
+636,Staples,A type of fastener,None,STP018,8,155,165,09/27/21,1,165
+637,File Organizer,A tool for organizing files,None,FO018,12,1600,1700,09/28/21,5,8500
+638,Desk Lamp,A lighting fixture,None,DLP019,10,5000,5500,09/29/21,9,49500
+639,Desk Chair,A chair for a desk,Unit,DC018,5,50000,55000,09/30/21,3,165000
+640,Coffee Table,A low table for coffee,None,CT018,8,50000,55000,10/01/21,6,330000
+641,Bookshelf,A shelf for books,Unit,BS018,10,22000,24000,10/02/21,5,120000
+642,TV Stand,A stand for a television,None,TVS018,12,20000,22000,10/03/21,11,242000
+643,Nightstand,A small table by a bed,Unit,NS018,5,22000,24000,10/04/21,2,48000
+644,Sofa Bed,A sofa that can be converted into a bed,None,SFB018,8,110000,120000,10/05/21,5,600000
+645,Area Rug,A rug for the floor,None,AR018,10,22000,24000,10/06/21,7,168000
+646,Throw Pillow,A decorative pillow,Unit,TP018,12,6000,6500,10/07/21,8,52000
+647,Wall Art,Artwork for walls,None,WA018,15,7000,7500,10/08/21,5,37500
+648,Curtains,Window coverings,None,CRT019,20,7000,7500,10/09/21,17,127500
+649,Table Lamp,A lamp for tables,Unit,TL018,8,7000,7500,10/10/21,6,45000
+650,Travel Adapter,A device for adapting plugs,None,TA020,10,5000,5500,10/11/21,4,22000
+651,Power Bank,A portable charger,Unit,PB019,15,7000,7500,10/12/21,9,67500
+652,USB Flash Drive,A portable data storage device,None,UFD019,20,6000,6500,10/13/21,8,52000
+653,Wireless Mouse,A mouse without cables,None,WM019,15,6500,7000,10/14/21,9,63000
+654,Laptop Stand,A stand for laptops,Unit,LS019,10,6500,7000,10/15/21,7,49000
+655,Gaming Mouse,A mouse for gaming,Unit,GM019,8,7000,7500,10/16/21,6,45000
+656,Graphics Card,A device for rendering graphics,Unit,GC019,5,100000,105000,10/17/21,1,105000
+657,Motherboard,A main circuit board,None,MB019,8,90000,95000,10/18/21,1,95000
+658,CPU,A central processing unit,None,CPU019,10,85000,90000,10/19/21,2,180000
+659,RAM,A type of computer memory,None,RAM019,15,80000,85000,10/20/21,1,85000
+660,Hard Drive,A data storage device,Unit,HD019,12,30000,32000,10/21/21,8,256000
+661,SSD,A type of data storage device,None,SSD019,10,35000,38000,10/22/21,5,190000
+662,Monitor,A display screen,None,MON019,5,95000,100000,10/23/21,3,300000
+663,Printer Paper,A type of paper,None,PP019,20,5500,6000,10/24/21,15,90000
+664,Pencil,A writing instrument,None,PCL019,25,160,170,10/25/21,17,2890
+665,Eraser,A tool for erasing,Unit,ER019,30,155,165,10/26/21,14,2310
+666,Highlighter,A marker for highlighting text,None,HL019,15,340,360,10/27/21,11,3960
+667,Scissors,A cutting tool,Unit,SC019,10,900,950,10/28/21,8,7600
+668,Staples,A type of fastener,None,STP019,8,165,175,10/29/21,7,1225
+669,File Organizer,A tool for organizing files,None,FO019,12,1700,1800,10/30/21,9,16200
+670,Desk Lamp,A lighting fixture,None,DLP020,10,5500,6000,10/31/21,9,54000
+671,Desk Chair,A chair for a desk,None,DC019,5,55000,60000,11/01/21,3,180000
+672,Coffee Table,A low table for coffee,Unit,CT019,8,55000,60000,11/02/21,1,60000
+673,Bookshelf,A shelf for books,None,BS019,10,24000,26000,11/03/21,6,156000
+674,TV Stand,A stand for a television,None,TVS019,12,22000,24000,11/04/21,1,24000
+675,Nightstand,A small table by a bed,Unit,NS019,5,24000,26000,11/05/21,1,26000
+676,Sofa Bed,A sofa that can be converted into a bed,None,SFB019,8,120000,130000,11/06/21,4,520000
+677,Area Rug,A rug for the floor,None,AR019,10,24000,26000,11/07/21,6,156000
+678,Throw Pillow,A decorative pillow,None,TP019,12,6500,7000,11/08/21,6,42000
+679,Wall Art,Artwork for walls,None,WA019,15,7500,8000,11/09/21,11,88000
+680,Curtains,Window coverings,None,CRT020,20,7500,8000,11/10/21,7,56000
+681,Table Lamp,A lamp for tables,Unit,TL019,8,7500,8000,11/11/21,1,8000
+682,Travel Adapter,A device for adapting plugs,None,TA021,10,5500,6000,11/12/21,4,24000
+683,Power Bank,A portable charger,Unit,PB020,15,7500,8000,11/13/21,3,24000
+684,USB Flash Drive,A portable data storage device,None,UFD020,20,6500,7000,11/14/21,6,42000
+685,Wireless Mouse,A mouse without cables,Unit,WM020,15,7000,7500,11/15/21,9,67500
+686,Laptop Stand,A stand for laptops,None,LS020,10,7000,7500,11/16/21,3,22500
+687,Gaming Mouse,A mouse for gaming,Unit,GM020,8,7500,8000,11/17/21,4,32000
+688,Graphics Card,A device for rendering graphics,None,GC020,5,105000,110000,11/18/21,4,440000
+689,Motherboard,A main circuit board,None,MB020,8,95000,100000,11/19/21,6,600000
+690,CPU,A central processing unit,None,CPU020,10,90000,95000,11/20/21,4,380000
+691,RAM,A type of computer memory,None,RAM020,15,85000,90000,11/21/21,5,450000
+692,Hard Drive,A data storage device,None,HD020,12,32000,35000,11/22/21,11,385000
+693,SSD,A type of data storage device,None,SSD020,10,38000,40000,11/23/21,3,120000
+694,Monitor,A display screen,Unit,MON020,5,100000,105000,11/24/21,4,420000
+695,Printer Paper,A type of paper,None,PP020,20,6000,6500,11/25/21,19,123500
+696,Pencil,A writing instrument,Unit,PCL020,25,170,180,11/26/21,22,3960
+697,Eraser,A tool for erasing,None,ER020,30,165,175,11/27/21,4,700
+698,Highlighter,A marker for highlighting text,None,HL020,15,360,380,11/28/21,3,1140
+699,Scissors,A cutting tool,None,SC020,10,950,1000,11/29/21,9,9000
+700,Staples,A type of fastener,Unit,STP020,8,175,185,11/30/21,6,1110
+701,File Organizer,A tool for organizing files,None,FO020,12,1800,1900,12/01/21,10,19000
+702,Desk Lamp,A lighting fixture,None,DLP021,10,6000,6500,12/02/21,8,52000
+703,Desk Chair,A chair for a desk,Unit,DC020,5,60000,65000,12/03/21,4,260000
+704,Coffee Table,A low table for coffee,None,CT020,8,60000,65000,12/04/21,7,455000
+705,Bookshelf,A shelf for books,Unit,BS020,10,26000,28000,12/05/21,6,168000
+706,TV Stand,A stand for a television,None,TVS020,12,24000,26000,12/06/21,9,234000
+707,Nightstand,A small table by a bed,None,NS020,5,26000,28000,12/07/21,2,56000
+708,Sofa Bed,A sofa that can be converted into a bed,Unit,SFB020,8,130000,140000,12/08/21,2,280000
+709,Area Rug,A rug for the floor,Unit,AR020,10,26000,28000,12/09/21,3,84000
+710,Throw Pillow,A decorative pillow,Unit,TP020,12,7000,7500,12/10/21,4,30000
+711,Wall Art,Artwork for walls,None,WA020,15,8000,8500,12/11/21,2,17000
+712,Curtains,Window coverings,Unit,CRT021,20,8000,8500,12/12/21,9,76500
+713,Table Lamp,A lamp for tables,Unit,TL020,8,8000,8500,12/13/21,7,59500
+714,Travel Adapter,A device for adapting plugs,None,TA022,10,6000,6500,12/14/21,2,13000
+715,Power Bank,A portable charger,None,PB021,15,8000,8500,12/15/21,7,59500
+716,USB Flash Drive,A portable data storage device,None,UFD021,20,7000,7500,12/16/21,12,90000
+717,Wireless Mouse,A mouse without cables,None,WM021,15,7500,8000,12/17/21,11,88000
+718,Laptop Stand,A stand for laptops,Unit,LS021,10,7500,8000,12/18/21,1,8000
+719,Gaming Mouse,A mouse for gaming,None,GM021,8,8000,8500,12/19/21,6,51000
+720,Graphics Card,A device for rendering graphics,Unit,GC021,5,110000,115000,12/20/21,1,115000
+721,Motherboard,A main circuit board,None,MB021,8,100000,105000,12/21/21,1,105000
+722,CPU,A central processing unit,Unit,CPU021,10,95000,100000,12/22/21,7,700000
+723,RAM,A type of computer memory,None,RAM021,15,90000,95000,12/23/21,11,1045000
+724,Hard Drive,A data storage device,Unit,HD021,12,35000,38000,12/24/21,10,380000
+725,SSD,A type of data storage device,None,SSD021,10,40000,42000,12/25/21,6,252000
+726,Monitor,A display screen,Unit,MON021,5,105000,110000,12/26/21,2,220000
+727,Printer Paper,A type of paper,None,PP021,20,6500,7000,12/27/21,5,35000
+728,Pencil,A writing instrument,Unit,PCL021,25,180,190,12/28/21,24,4560
+729,Eraser,A tool for erasing,None,ER021,30,175,185,12/29/21,3,555
+730,Highlighter,A marker for highlighting text,Unit,HL021,15,380,400,12/30/21,12,4800
+731,Scissors,A cutting tool,None,SC021,10,1000,1050,12/31/21,3,3150
+732,Staples,A type of fastener,Unit,STP021,8,185,195,01/01/22,7,1365
+733,File Organizer,A tool for organizing files,Unit,FO021,12,1900,2000,01/02/22,3,6000
+734,Desk Lamp,A lighting fixture,Unit,DLP022,10,6500,7000,01/03/22,8,56000
+735,Desk Chair,A chair for a desk,Unit,DC021,5,65000,70000,01/04/22,3,210000
+736,Coffee Table,A low table for coffee,None,CT021,8,65000,70000,01/05/22,5,350000
+737,Bookshelf,A shelf for books,Unit,BS021,10,28000,30000,01/06/22,3,90000
+738,TV Stand,A stand for a television,None,TVS021,12,26000,28000,01/07/22,9,252000
+739,Nightstand,A small table by a bed,None,NS021,5,28000,30000,01/08/22,2,60000
+740,Sofa Bed,A sofa that can be converted into a bed,None,SFB021,8,140000,150000,01/09/22,7,1050000
+741,Area Rug,A rug for the floor,None,AR021,10,28000,30000,01/10/22,8,240000
+742,Throw Pillow,A decorative pillow,None,TP021,12,7500,8000,01/11/22,3,24000
+743,Wall Art,Artwork for walls,Unit,WA021,15,8500,9000,01/12/22,7,63000
+744,Curtains,Window coverings,Unit,CRT022,20,8500,9000,01/13/22,8,72000
+745,Table Lamp,A lamp for tables,None,TL021,8,8500,9000,01/14/22,2,18000
+746,Travel Adapter,A device for adapting plugs,None,TA023,10,6500,7000,01/15/22,9,63000
+747,Power Bank,A portable charger,None,PB022,15,8500,9000,01/16/22,3,27000
+748,USB Flash Drive,A portable data storage device,None,UFD022,20,7500,8000,01/17/22,4,32000
+749,Wireless Mouse,A mouse without cables,Unit,WM022,15,8000,8500,01/18/22,3,25500
+750,Laptop Stand,A stand for laptops,Unit,LS022,10,8000,8500,01/19/22,4,34000
+751,Gaming Mouse,A mouse for gaming,Unit,GM022,8,8500,9000,01/20/22,5,45000
+752,Graphics Card,A device for rendering graphics,Unit,GC022,5,115000,120000,01/21/22,4,480000
+753,Motherboard,A main circuit board,None,MB022,8,105000,110000,01/22/22,1,110000
+754,CPU,A central processing unit,None,CPU022,10,100000,105000,01/23/22,9,945000
+755,RAM,A type of computer memory,Unit,RAM022,15,95000,100000,01/24/22,2,200000
+756,Hard Drive,A data storage device,None,HD022,12,38000,40000,01/25/22,6,240000
+757,SSD,A type of data storage device,None,SSD022,10,42000,45000,01/26/22,9,405000
+758,Monitor,A display screen,Unit,MON022,5,110000,115000,01/27/22,4,460000
+759,Printer Paper,A type of paper,Unit,PP022,20,7000,7500,01/28/22,16,120000
+760,Pencil,A writing instrument,None,PCL022,25,190,200,01/29/22,22,4400
+761,Eraser,A tool for erasing,None,ER022,30,185,195,01/30/22,6,1170
+762,Highlighter,A marker for highlighting text,Unit,HL022,15,400,420,01/31/22,5,2100
+763,Scissors,A cutting tool,None,SC022,10,1050,1100,02/01/22,4,4400
+764,Staples,A type of fastener,Unit,STP022,8,195,205,02/02/22,5,1025
+765,File Organizer,A tool for organizing files,Unit,FO022,12,2000,2100,02/03/22,6,12600
+766,Desk Lamp,A lighting fixture,None,DLP023,10,7000,7500,02/04/22,3,22500
+767,Desk Chair,A chair for a desk,None,DC022,5,70000,75000,02/05/22,3,225000
+768,Coffee Table,A low table for coffee,None,CT022,8,70000,75000,02/06/22,7,525000
+769,Bookshelf,A shelf for books,None,BS022,10,30000,32000,02/07/22,7,224000
+770,TV Stand,A stand for a television,Unit,TVS022,12,28000,30000,02/08/22,10,300000
+771,Nightstand,A small table by a bed,None,NS022,5,30000,32000,02/09/22,4,128000
+772,Sofa Bed,A sofa that can be converted into a bed,None,SFB022,8,150000,160000,02/10/22,7,1120000
+773,Area Rug,A rug for the floor,Unit,AR022,10,30000,32000,02/11/22,1,32000
+774,Throw Pillow,A decorative pillow,None,TP022,12,8000,8500,02/12/22,4,34000
+775,Wall Art,Artwork for walls,Unit,WA022,15,9000,9500,02/13/22,4,38000
+776,Curtains,Window coverings,None,CRT023,20,9000,9500,02/14/22,9,85500
+777,Table Lamp,A lamp for tables,None,TL022,8,9000,9500,02/15/22,1,9500
+778,Travel Adapter,A device for adapting plugs,None,TA024,10,7000,7500,02/16/22,1,7500
+779,Power Bank,A portable charger,None,PB023,15,9000,9500,02/17/22,4,38000
+780,USB Flash Drive,A portable data storage device,Unit,UFD023,20,8000,8500,02/18/22,10,85000
+781,Wireless Mouse,A mouse without cables,None,WM023,15,8500,9000,02/19/22,14,126000
+782,Laptop Stand,A stand for laptops,Unit,LS023,10,8500,9000,02/20/22,8,72000
+783,Gaming Mouse,A mouse for gaming,None,GM023,8,9000,9500,02/21/22,6,57000
+784,Graphics Card,A device for rendering graphics,Unit,GC023,5,120000,125000,02/22/22,2,250000
+785,Motherboard,A main circuit board,None,MB023,8,110000,115000,02/23/22,7,805000
+786,CPU,A central processing unit,Unit,CPU023,10,105000,110000,02/24/22,2,220000
+787,RAM,A type of computer memory,Unit,RAM023,15,100000,105000,02/25/22,5,525000
+788,Hard Drive,A data storage device,None,HD023,12,40000,42000,02/26/22,9,378000
+789,SSD,A type of data storage device,None,SSD023,10,45000,48000,02/27/22,9,432000
+790,Monitor,A display screen,None,MON023,5,115000,120000,02/28/22,1,120000
+791,Printer Paper,A type of paper,None,PP023,20,7500,8000,03/01/22,4,32000
+792,Pencil,A writing instrument,Unit,PCL023,25,200,210,03/02/22,12,2520
+793,Eraser,A tool for erasing,None,ER023,30,195,205,03/03/22,26,5330
+794,Highlighter,A marker for highlighting text,None,HL023,15,420,440,03/04/22,1,440
+795,Scissors,A cutting tool,None,SC023,10,1100,1150,03/05/22,6,6900
+796,Staples,A type of fastener,None,STP023,8,205,215,03/06/22,3,645
+797,File Organizer,A tool for organizing files,Unit,FO023,12,2100,2200,03/07/22,7,15400
+798,Desk Lamp,A lighting fixture,None,DLP024,10,7500,8000,03/08/22,2,16000
+799,Desk Chair,A chair for a desk,Unit,DC023,5,75000,80000,03/09/22,2,160000
+800,Coffee Table,A low table for coffee,None,CT023,8,75000,80000,03/10/22,7,560000
+801,Bookshelf,A shelf for books,Unit,BS023,10,32000,34000,03/11/22,2,68000
+802,TV Stand,A stand for a television,Unit,TVS023,12,30000,32000,03/12/22,9,288000
+803,Nightstand,A small table by a bed,Unit,NS023,5,32000,34000,03/13/22,4,136000
+804,Sofa Bed,A sofa that can be converted into a bed,None,SFB023,8,160000,170000,03/14/22,3,510000
+805,Area Rug,A rug for the floor,None,AR023,10,32000,34000,03/15/22,5,170000
+806,Throw Pillow,A decorative pillow,None,TP023,12,8500,9000,03/16/22,6,54000
+807,Wall Art,Artwork for walls,None,WA023,15,9500,10000,03/17/22,12,120000
+808,Curtains,Window coverings,None,CRT024,20,9500,10000,03/18/22,6,60000
+809,Table Lamp,A lamp for tables,None,TL023,8,9500,10000,03/19/22,5,50000
+810,Travel Adapter,A device for adapting plugs,None,TA025,10,7500,8000,03/20/22,2,16000
+811,Power Bank,A portable charger,Unit,PB024,15,9500,10000,03/21/22,4,40000
+812,USB Flash Drive,A portable data storage device,None,UFD024,20,8500,9000,03/22/22,6,54000
+813,Wireless Mouse,A mouse without cables,Unit,WM024,15,9000,9500,03/23/22,5,47500
+814,Laptop Stand,A stand for laptops,None,LS024,10,9000,9500,03/24/22,5,47500
+815,Gaming Mouse,A mouse for gaming,None,GM024,8,9500,10000,03/25/22,4,40000
+816,Graphics Card,A device for rendering graphics,Unit,GC024,5,125000,130000,03/26/22,3,390000
+817,Motherboard,A main circuit board,Unit,MB024,8,115000,120000,03/27/22,6,720000
+818,CPU,A central processing unit,Unit,CPU024,10,110000,115000,03/28/22,7,805000
+819,RAM,A type of computer memory,Unit,RAM024,15,105000,110000,03/29/22,2,220000
+820,Hard Drive,A data storage device,Unit,HD024,12,42000,45000,03/30/22,6,270000
+821,SSD,A type of data storage device,None,SSD024,10,48000,50000,03/31/22,8,400000
+822,Monitor,A display screen,Unit,MON024,5,120000,125000,04/01/22,3,375000
+823,Printer Paper,A type of paper,None,PP024,20,8000,8500,04/02/22,8,68000
+824,Pencil,A writing instrument,Unit,PCL024,25,210,220,04/03/22,17,3740
+825,Eraser,A tool for erasing,Unit,ER024,30,205,215,04/04/22,27,5805
+826,Highlighter,A marker for highlighting text,Unit,HL024,15,440,460,04/05/22,2,920
+827,Scissors,A cutting tool,Unit,SC024,10,1150,1200,04/06/22,8,9600
+828,Staples,A type of fastener,Unit,STP024,8,215,225,04/07/22,1,225
+829,File Organizer,A tool for organizing files,Unit,FO024,12,2200,2300,04/08/22,10,23000
+830,Desk Lamp,A lighting fixture,None,DLP025,10,8000,8500,04/09/22,5,42500
+831,Desk Chair,A chair for a desk,Unit,DC024,5,80000,85000,04/10/22,2,170000
+832,Coffee Table,A low table for coffee,None,CT024,8,80000,85000,04/11/22,7,595000
+833,Bookshelf,A shelf for books,Unit,BS024,10,34000,36000,04/12/22,4,144000
+834,TV Stand,A stand for a television,None,TVS024,12,32000,34000,04/13/22,9,306000
+835,Nightstand,A small table by a bed,Unit,NS024,5,34000,36000,04/14/22,1,36000
+836,Sofa Bed,A sofa that can be converted into a bed,Unit,SFB024,8,170000,180000,04/15/22,4,720000
+837,Area Rug,A rug for the floor,None,AR024,10,34000,36000,04/16/22,8,288000
+838,Throw Pillow,A decorative pillow,Unit,TP024,12,9000,9500,04/17/22,7,66500
+839,Wall Art,Artwork for walls,None,WA024,15,10000,10500,04/18/22,6,63000
+840,Curtains,Window coverings,Unit,CRT025,20,10000,10500,04/19/22,14,147000
+841,Table Lamp,A lamp for tables,Unit,TL024,8,10000,10500,04/20/22,2,21000
+842,Travel Adapter,A device for adapting plugs,Unit,TA026,10,8000,8500,04/21/22,5,42500
+843,Power Bank,A portable charger,Unit,PB025,15,10000,10500,04/22/22,11,115500
+844,USB Flash Drive,A portable data storage device,None,UFD025,20,9000,9500,04/23/22,7,66500
+845,Wireless Mouse,A mouse without cables,Unit,WM025,15,9500,10000,04/24/22,5,50000
+846,Laptop Stand,A stand for laptops,None,LS025,10,9500,10000,04/25/22,9,90000
+847,Gaming Mouse,A mouse for gaming,None,GM025,8,10000,10500,04/26/22,1,10500
+848,Graphics Card,A device for rendering graphics,Unit,GC025,5,130000,135000,04/27/22,1,135000
+849,Motherboard,A main circuit board,None,MB025,8,120000,125000,04/28/22,4,500000
+850,CPU,A central processing unit,Unit,CPU025,10,115000,120000,04/29/22,1,120000
+851,RAM,A type of computer memory,None,RAM025,15,110000,115000,04/30/22,6,690000
+852,Hard Drive,A data storage device,None,HD025,12,45000,48000,05/01/22,5,240000
+853,SSD,A type of data storage device,None,SSD025,10,50000,52000,05/02/22,8,416000
+854,Monitor,A display screen,Unit,MON025,5,125000,130000,05/03/22,1,130000
+855,Printer Paper,A type of paper,None,PP025,20,8500,9000,05/04/22,2,18000
+856,Pencil,A writing instrument,Unit,PCL025,25,220,230,05/05/22,17,3910
+857,Eraser,A tool for erasing,None,ER025,30,215,225,05/06/22,4,900
+858,Highlighter,A marker for highlighting text,None,HL025,15,460,480,05/07/22,2,960
+859,Scissors,A cutting tool,None,SC025,10,1200,1250,05/08/22,4,5000
+860,Staples,A type of fastener,None,STP025,8,225,235,05/09/22,6,1410
+861,File Organizer,A tool for organizing files,None,FO025,12,2300,2400,05/10/22,10,24000
+862,Desk Lamp,A lighting fixture,Unit,DLP026,10,8500,9000,05/11/22,5,45000
+863,Desk Chair,A chair for a desk,None,DC025,5,85000,90000,05/12/22,1,90000
+864,Coffee Table,A low table for coffee,None,CT025,8,85000,90000,05/13/22,3,270000
+865,Bookshelf,A shelf for books,None,BS025,10,36000,38000,05/14/22,6,228000
+866,TV Stand,A stand for a television,None,TVS025,12,34000,36000,05/15/22,9,324000
+867,Nightstand,A small table by a bed,Unit,NS025,5,36000,38000,05/16/22,2,76000
+868,Sofa Bed,A sofa that can be converted into a bed,None,SFB025,8,180000,190000,05/17/22,1,190000
+869,Area Rug,A rug for the floor,None,AR025,10,36000,38000,05/18/22,5,190000
+870,Throw Pillow,A decorative pillow,None,TP025,12,9500,10000,05/19/22,11,110000
+871,Wall Art,Artwork for walls,Unit,WA025,15,10500,11000,05/20/22,8,88000
+872,Curtains,Window coverings,Unit,CRT026,20,10500,11000,05/21/22,19,209000
+873,Table Lamp,A lamp for tables,None,TL025,8,10500,11000,05/22/22,4,44000
+874,Travel Adapter,A device for adapting plugs,Unit,TA027,10,8500,9000,05/23/22,6,54000
+875,Power Bank,A portable charger,None,PB026,15,10500,11000,05/24/22,4,44000
+876,USB Flash Drive,A portable data storage device,Unit,UFD026,20,9500,10000,05/25/22,19,190000
+877,Wireless Mouse,A mouse without cables,None,WM026,15,10000,10500,05/26/22,1,10500
+878,Laptop Stand,A stand for laptops,Unit,LS026,10,10000,10500,05/27/22,1,10500
+879,Gaming Mouse,A mouse for gaming,Unit,GM026,8,10500,11000,05/28/22,6,66000
+880,Graphics Card,A device for rendering graphics,None,GC026,5,135000,140000,05/29/22,3,420000
+881,Motherboard,A main circuit board,None,MB026,8,125000,130000,05/30/22,6,780000
+882,CPU,A central processing unit,None,CPU026,10,120000,125000,05/31/22,3,375000
+883,RAM,A type of computer memory,None,RAM026,15,115000,120000,06/01/22,8,960000
+884,Hard Drive,A data storage device,None,HD026,12,48000,50000,06/02/22,10,500000
+885,SSD,A type of data storage device,None,SSD026,10,52000,55000,06/03/22,5,275000
+886,Monitor,A display screen,None,MON026,5,130000,135000,06/04/22,1,135000
+887,Printer Paper,A type of paper,None,PP026,20,9000,9500,06/05/22,14,133000
+888,Pencil,A writing instrument,None,PCL026,25,230,240,06/06/22,22,5280
+889,Eraser,A tool for erasing,None,ER026,30,225,235,06/07/22,23,5405
+890,Highlighter,A marker for highlighting text,None,HL026,15,480,500,06/08/22,1,500
+891,Scissors,A cutting tool,None,SC026,10,1250,1300,06/09/22,6,7800
+892,Staples,A type of fastener,None,STP026,8,235,245,06/10/22,6,1470
+893,File Organizer,A tool for organizing files,None,FO026,12,2400,2500,06/11/22,9,22500
+894,Desk Lamp,A lighting fixture,None,DLP027,10,9000,9500,06/12/22,3,28500
+895,Desk Chair,A chair for a desk,None,DC026,5,90000,95000,06/13/22,1,95000
+896,Coffee Table,A low table for coffee,None,CT026,8,90000,95000,06/14/22,5,475000
+897,Bookshelf,A shelf for books,None,BS026,10,38000,40000,06/15/22,7,280000
+898,TV Stand,A stand for a television,None,TVS026,12,36000,38000,06/16/22,5,190000
+899,Nightstand,A small table by a bed,None,NS026,5,38000,40000,06/17/22,1,40000
+900,Sofa Bed,A sofa that can be converted into a bed,None,SFB026,8,190000,200000,06/18/22,7,1400000
+901,Area Rug,A rug for the floor,None,AR026,10,38000,40000,06/19/22,7,280000
+902,Throw Pillow,A decorative pillow,None,TP026,12,10000,10500,06/20/22,1,10500
+903,Wall Art,Artwork for walls,None,WA026,15,11000,11500,06/21/22,1,11500
+904,Curtains,Window coverings,None,CRT027,20,11000,11500,06/22/22,9,103500
+905,Table Lamp,A lamp for tables,None,TL026,8,11000,11500,06/23/22,3,34500
+906,Travel Adapter,A device for adapting plugs,None,TA028,10,9000,9500,06/24/22,7,66500
+907,Power Bank,A portable charger,None,PB027,15,11000,11500,06/25/22,5,57500
+908,USB Flash Drive,A portable data storage device,None,UFD027,20,10000,10500,06/26/22,5,52500
+909,Wireless Mouse,A mouse without cables,None,WM027,15,10500,11000,06/27/22,13,143000
+910,Laptop Stand,A stand for laptops,None,LS027,10,10500,11000,06/28/22,6,66000
+911,Gaming Mouse,A mouse for gaming,None,GM027,8,11000,11500,06/29/22,5,57500
+912,Graphics Card,A device for rendering graphics,None,GC027,5,140000,145000,06/30/22,3,435000
+913,Motherboard,A main circuit board,None,MB027,8,130000,135000,07/01/22,6,810000
+914,CPU,A central processing unit,None,CPU027,10,125000,130000,07/02/22,5,650000
+915,RAM,A type of computer memory,None,RAM027,15,120000,125000,07/03/22,6,750000
+916,Hard Drive,A data storage device,None,HD027,12,50000,52000,07/04/22,3,156000
+917,SSD,A type of data storage device,None,SSD027,10,55000,58000,07/05/22,5,290000
+918,Monitor,A display screen,None,MON027,5,135000,140000,07/06/22,2,280000
+919,Printer Paper,A type of paper,None,PP027,20,9500,10000,07/07/22,11,110000
+920,Pencil,A writing instrument,None,PCL027,25,240,250,07/08/22,23,5750
+921,Eraser,A tool for erasing,None,ER027,30,235,245,07/09/22,27,6615
+922,Highlighter,A marker for highlighting text,None,HL027,15,500,520,07/10/22,10,5200
+923,Scissors,A cutting tool,None,SC027,10,1300,1350,07/11/22,2,2700
+924,Staples,A type of fastener,None,STP027,8,245,255,07/12/22,3,765
+925,File Organizer,A tool for organizing files,None,FO027,12,2500,2600,07/13/22,4,10400
+926,Desk Lamp,A lighting fixture,None,DLP028,10,9500,10000,07/14/22,7,70000
+927,Desk Chair,A chair for a desk,None,DC027,5,95000,100000,07/15/22,2,200000
+928,Coffee Table,A low table for coffee,None,CT027,8,95000,100000,07/16/22,7,700000
+929,Bookshelf,A shelf for books,None,BS027,10,40000,42000,07/17/22,8,336000
+930,TV Stand,A stand for a television,None,TVS027,12,38000,40000,07/18/22,7,280000
+931,Nightstand,A small table by a bed,None,NS027,5,40000,42000,07/19/22,4,168000
+932,Sofa Bed,A sofa that can be converted into a bed,None,SFB027,8,200000,210000,07/20/22,6,1260000
+933,Area Rug,A rug for the floor,None,AR027,10,40000,42000,07/21/22,5,210000
+934,Throw Pillow,A decorative pillow,None,TP027,12,10500,11000,07/22/22,3,33000
+935,Wall Art,Artwork for walls,None,WA027,15,11500,12000,07/23/22,2,24000
+936,Curtains,Window coverings,None,CRT028,20,11500,12000,07/24/22,9,108000
+937,Table Lamp,A lamp for tables,None,TL027,8,11500,12000,07/25/22,7,84000
+938,Travel Adapter,A device for adapting plugs,None,TA029,10,9500,10000,07/26/22,3,30000
+939,Power Bank,A portable charger,None,PB028,15,11500,12000,07/27/22,12,144000
+940,USB Flash Drive,A portable data storage device,None,UFD028,20,10500,11000,07/28/22,4,44000
+941,Wireless Mouse,A mouse without cables,None,WM028,15,11000,11500,07/29/22,2,23000
+942,Laptop Stand,A stand for laptops,None,LS028,10,11000,11500,07/30/22,1,11500
+943,Gaming Mouse,A mouse for gaming,None,GM028,8,11500,12000,07/31/22,5,60000
+944,Graphics Card,A device for rendering graphics,None,GC028,5,145000,150000,08/01/22,2,300000
+945,Motherboard,A main circuit board,None,MB028,8,135000,140000,08/02/22,3,420000
+946,CPU,A central processing unit,None,CPU028,10,130000,135000,08/03/22,1,135000
+947,RAM,A type of computer memory,None,RAM028,15,125000,130000,08/04/22,6,780000
+948,Hard Drive,A data storage device,None,HD028,12,52000,55000,08/05/22,3,165000
+949,SSD,A type of data storage device,None,SSD028,10,58000,61000,08/06/22,3,183000
+950,Monitor,A display screen,None,MON028,5,140000,145000,08/07/22,4,580000
+951,Printer Paper,A type of paper,None,PP028,20,10000,10500,08/08/22,9,94500
+952,Pencil,A writing instrument,None,PCL028,25,250,260,08/09/22,8,2080
+953,Eraser,A tool for erasing,None,ER028,30,245,255,08/10/22,5,1275
+954,Highlighter,A marker for highlighting text,None,HL028,15,520,540,08/11/22,11,5940
+955,Scissors,A cutting tool,None,SC028,10,1350,1400,08/12/22,1,1400
+956,Staples,A type of fastener,None,STP028,8,255,265,08/13/22,1,265
+957,File Organizer,A tool for organizing files,None,FO028,12,2600,2700,08/14/22,6,16200
+958,Desk Lamp,A lighting fixture,None,DLP029,10,10000,10500,08/15/22,3,31500
+959,Desk Chair,A chair for a desk,None,DC028,5,100000,105000,08/16/22,3,315000
+960,Coffee Table,A low table for coffee,None,CT028,8,100000,105000,08/17/22,4,420000
+961,Bookshelf,A shelf for books,None,BS028,10,42000,44000,08/18/22,1,44000
+962,TV Stand,A stand for a television,None,TVS028,12,40000,42000,08/19/22,6,252000
+963,Nightstand,A small table by a bed,None,NS028,5,42000,44000,08/20/22,3,132000
+964,Sofa Bed,A sofa that can be converted into a bed,None,SFB028,8,210000,220000,08/21/22,1,220000
+965,Area Rug,A rug for the floor,None,AR028,10,42000,44000,08/22/22,6,264000
+966,Throw Pillow,A decorative pillow,None,TP028,12,11000,11500,08/23/22,3,34500
+967,Wall Art,Artwork for walls,None,WA028,15,12000,12500,08/24/22,3,37500
+968,Curtains,Window coverings,None,CRT029,20,12000,12500,08/25/22,8,100000
+969,Table Lamp,A lamp for tables,None,TL028,8,12000,12500,08/26/22,2,25000
+970,Travel Adapter,A device for adapting plugs,None,TA030,10,10000,10500,08/27/22,1,10500
+971,Power Bank,A portable charger,None,PB029,15,12000,12500,08/28/22,4,50000
+972,USB Flash Drive,A portable data storage device,None,UFD029,20,11000,11500,08/29/22,14,161000
+973,Wireless Mouse,A mouse without cables,None,WM029,15,11500,12000,08/30/22,11,132000
+974,Laptop Stand,A stand for laptops,None,LS029,10,11500,12000,08/31/22,3,36000
+975,Gaming Mouse,A mouse for gaming,None,GM029,8,12000,12500,09/01/22,3,37500
+976,Graphics Card,A device for rendering graphics,None,GC029,5,150000,155000,09/02/22,2,310000
+977,Motherboard,A main circuit board,None,MB029,8,140000,145000,09/03/22,2,290000
+978,CPU,A central processing unit,None,CPU029,10,135000,140000,09/04/22,3,420000
+979,RAM,A type of computer memory,None,RAM029,15,130000,135000,09/05/22,4,540000
+980,Hard Drive,A data storage device,None,HD029,12,55000,58000,09/06/22,4,232000
+981,SSD,A type of data storage device,None,SSD029,10,61000,64000,09/07/22,2,128000
+982,Monitor,A display screen,None,MON029,5,145000,150000,09/08/22,1,150000
+983,Printer Paper,A type of paper,None,PP029,20,10500,11000,09/09/22,14,154000
+984,Pencil,A writing instrument,None,PCL029,25,260,270,09/10/22,12,3240
+985,Eraser,A tool for erasing,None,ER029,30,255,265,09/11/22,8,2120
+986,Highlighter,A marker for highlighting text,None,HL029,15,540,560,09/12/22,13,7280
+987,Scissors,A cutting tool,None,SC029,10,1400,1450,09/13/22,4,5800
+988,Staples,A type of fastener,None,STP029,8,265,275,09/14/22,5,1375
+989,File Organizer,A tool for organizing files,None,FO029,12,2700,2800,09/15/22,9,25200
+990,Desk Lamp,A lighting fixture,None,DLP030,10,10500,11000,09/16/22,5,55000
+991,Desk Chair,A chair for a desk,None,DC029,5,105000,110000,09/17/22,1,110000
+992,Coffee Table,A low table for coffee,None,CT029,8,105000,110000,09/18/22,2,220000
+993,Bookshelf,A shelf for books,None,BS029,10,44000,46000,09/19/22,2,92000
+994,TV Stand,A stand for a television,None,TVS029,12,42000,44000,09/20/22,1,44000
+995,Nightstand,A small table by a bed,None,NS029,5,44000,46000,09/21/22,3,138000
+996,Sofa Bed,A sofa that can be converted into a bed,None,SFB029,8,220000,230000,09/22/22,7,1610000
+997,Area Rug,A rug for the floor,None,AR029,10,44000,46000,09/23/22,2,92000
+998,Throw Pillow,A decorative pillow,None,TP029,12,11500,12000,09/24/22,8,96000
+999,Wall Art,Artwork for walls,None,WA029,15,12500,13000,09/25/22,3,39000
+1000,Curtains,Window coverings,None,CRT030,20,12500,13000,09/26/22,2,26000
+1001,Laptop,A writing instrument,,LPT002,11,8001,10001,09/27/22,10,100010
+1002,Smartphone,A tool for erasing,,SPH002,16,6001,8001,09/28/22,12,96012
+1003,Headphones,A marker for highlighting text,,HDP002,21,1001,1501,09/29/22,16,24016
+1004,T-Shirt,A cutting tool,,TSH002,31,601,801,09/30/22,22,17622
+1005,Jeans,A type of fastener,,JNS002,26,1001,1201,10/01/22,4,4804
+1006,Apples,A tool for organizing files,,APL002,41,201,301,10/02/22,35,10535
+1007,Oranges,A lighting fixture,,ORG002,36,151,251,10/03/22,26,6526
+1008,TV,A chair for a desk,,TV002,13,12001,15001,10/04/22,5,75005
+1009,Shoes,A low table for coffee,,SHS002,19,1001,1501,10/05/22,5,7505
+1010,Backpack,A shelf for books,,BKP002,23,601,801,10/06/22,15,12015
+1011,Keyboard,A stand for a television,,KBD002,9,1001,1201,10/07/22,6,7206
+1012,Mouse,A small table by a bed,,MS002,13,301,501,10/08/22,5,2505
+1013,Printer,A sofa that can be converted into a bed,,PRT002,6,1501,2001,10/09/22,4,8004
+1014,Desk Lamp,A rug for the floor,,DLP002,16,601,801,10/10/22,3,2403
+1015,Coffee Maker,A decorative pillow,,CFM002,11,4001,5001,10/11/22,6,30006
+1016,Toaster,Artwork for walls,,TST002,21,801,1001,10/12/22,2,2002
+1017,Blender,Window coverings,,BLD002,19,1001,1201,10/13/22,15,18015
+1018,Jacket,A lamp for tables,,JKT002,21,701,901,10/14/22,3,2703
+1019,Dress,A device for adapting plugs,,DRS002,16,1201,1501,10/15/22,8,12008
+1020,Watch,A portable charger,,WCH002,11,2001,2501,10/16/22,2,5002
+1021,Sunglasses,A portable data storage device,,SG002,13,1001,1201,10/17/22,12,14412
+1022,Baseball Cap,A mouse without cables,,BC002,26,401,601,10/18/22,19,11419
+1023,Chocolate,A stand for laptops,,CHC002,31,51,101,10/19/22,18,1818
+1024,Cereal,A mouse for gaming,,CRL002,21,81,121,10/20/22,6,726
+1025,Soft Drinks,A device for rendering graphics,,SD002,36,51,81,10/21/22,25,2025
+1026,Office Chair,A main circuit board,,OC002,9,3001,3501,10/22/22,4,14004
+1027,Sofa,A central processing unit,,SFA002,6,10001,12001,10/23/22,2,24002
+1028,Dining Table,A type of computer memory,,DT002,13,6001,8001,10/24/22,5,40005
+1029,Bed,A data storage device,,BD002,4,24001,28001,10/25/22,3,84003
+1030,Rug,A type of data storage device,,RG002,11,2001,2501,10/26/22,5,12505
+1031,Wall Clock,A display screen,,WC002,16,801,1001,10/27/22,12,12012
+1032,Vase,A type of paper,,VS002,9,601,801,10/28/22,3,2403
+1033,Curtains,A writing instrument,,CRT002,21,501,701,10/29/22,4,2804
+1034,Bathroom Scale,A tool for erasing,,BS002,6,1001,1201,10/30/22,3,3603
+1035,Trash Can,A marker for highlighting text,,TC002,9,301,501,10/31/22,7,3507
+1036,Desk Organizer,A cutting tool,,DO002,13,201,301,11/01/22,10,3010
+1037,Notebook,A type of fastener,,NB002,16,51,101,11/02/22,10,1010
+1038,Pen Set,A tool for organizing files,,PS002,21,101,151,11/03/22,3,453
+1039,Stapler,A lighting fixture,,STP002,11,81,121,11/04/22,2,242
+1040,Whiteboard,A chair for a desk,,WB002,6,1501,1801,11/05/22,5,9005
+1041,Smart Watch,A low table for coffee,,SW002,19,2001,2501,11/06/22,3,7503
+1042,Tablet,A shelf for books,,TBLT002,11,3001,3501,11/07/22,3,10503
+1043,Charging Cable,A stand for a television,,CC002,26,201,301,11/08/22,25,7525
+1044,External Hard Drive,A small table by a bed,,EHD002,13,1001,1501,11/09/22,3,4503
+1045,Memory Card,A sofa that can be converted into a bed,,MC002,21,301,501,11/10/22,7,3507
+1046,Bluetooth Speaker,A rug for the floor,,BS002,16,1001,1501,11/11/22,2,3002
+1047,Travel Adapter,A decorative pillow,,TA002,9,201,301,11/12/22,4,1204
+1048,Travel Pillow,Artwork for walls,,TP002,11,301,401,11/13/22,8,3208
+1049,Travel Backpack,Window coverings,,TBP002,6,1001,1501,11/14/22,4,6004
+1050,Suitcase,A lamp for tables,,STC002,13,2001,2501,11/15/22,4,10004
+1051,Tennis Shoes,A device for adapting plugs,,TNS002,19,1201,1501,11/16/22,2,3002
+1052,Running Shoes,A portable charger,,RNS002,21,1601,2001,11/17/22,11,22011
+1053,Sandals,A portable data storage device,,SDL002,16,801,1001,11/18/22,2,2002
+1054,Boots,A mouse without cables,,BTS002,11,2001,2501,11/19/22,8,20008
+1055,Sneakers,A stand for laptops,,SNK002,23,1501,1801,11/20/22,6,10806
+1056,Hiking Backpack,A mouse for gaming,,HBP002,11,801,1001,11/21/22,3,3003
+1057,Travel Backpack,A device for rendering graphics,,TBP003,16,1201,1501,11/22/22,2,3002
+1058,School Backpack,A main circuit board,,SBP002,9,501,701,11/23/22,8,5608
+1059,Daypack,A central processing unit,,DP002,13,601,801,11/24/22,11,8811
+1060,Hiking Boots,A type of computer memory,,HKB002,11,2401,2801,11/25/22,10,28010
+1061,Camping Tent,A data storage device,,CT002,6,10001,12001,11/26/22,2,24002
+1062,Sleeping Bag,A type of data storage device,,SB002,9,4001,5001,11/27/22,6,30006
+1063,Portable Stove,A display screen,,PS002,11,2001,2501,11/28/22,8,20008
+1064,Water Bottle,A type of paper,,WB002,16,301,501,11/29/22,11,5511
+1065,Backpack,A writing instrument,,BP002,21,1001,1501,11/30/22,9,13509
+1066,Travel Pillow,A tool for erasing,,TP003,9,201,301,12/01/22,3,903
+1067,Neck Pillow,A marker for highlighting text,,NP002,13,301,401,12/02/22,2,802
+1068,Travel Blanket,A cutting tool,,TB002,11,401,601,12/03/22,8,4808
+1069,Passport Holder,A type of fastener,,PH002,16,101,201,12/04/22,10,2010
+1070,Luggage Scale,A tool for organizing files,,LS002,6,501,701,12/05/22,5,3505
+1071,Backpack,A lighting fixture,,BP003,11,801,1001,12/06/22,9,9009
+1072,Trekking Poles,A chair for a desk,,TP002,9,601,801,12/07/22,2,1602
+1073,Portable Charger,A low table for coffee,,PC002,16,501,701,12/08/22,10,7010
+1074,Travel Adapter,A shelf for books,,TA003,21,301,501,12/09/22,17,8517
+1075,Power Bank,A stand for a television,,PB002,13,701,901,12/10/22,5,4505
+1076,USB Flash Drive,A small table by a bed,,UFD002,21,401,601,12/11/22,7,4207
+1077,Wireless Mouse,A sofa that can be converted into a bed,,WM002,16,601,801,12/12/22,7,5607
+1078,Laptop Stand,A rug for the floor,,LS002,11,501,701,12/13/22,5,3505
+1079,Gaming Mouse,A decorative pillow,,GM002,9,801,1001,12/14/22,6,6006
+1080,Graphics Card,Artwork for walls,,GC002,6,15001,18001,12/15/22,3,54003
+1081,Motherboard,Window coverings,,MB002,9,10001,12001,12/16/22,8,96008
+1082,CPU,A lamp for tables,,CPU002,11,8001,10001,12/17/22,6,60006
+1083,RAM,A device for adapting plugs,,RAM002,16,6001,8001,12/18/22,6,48006
+1084,Hard Drive,A portable charger,,HD002,13,2001,2501,12/19/22,8,20008
+1085,SSD,A portable data storage device,,SSD002,11,3001,3501,12/20/22,7,24507
+1086,Monitor,A mouse without cables,,MON002,6,10001,12001,12/21/22,2,24002
+1087,Printer Paper,A stand for laptops,,PP002,21,201,301,12/22/22,9,2709
+1088,Pencil,A mouse for gaming,,PCL002,26,11,21,12/23/22,24,504
+1089,Eraser,A device for rendering graphics,,ER002,31,6,11,12/24/22,16,176
+1090,Highlighter,A main circuit board,,HL002,16,21,31,12/25/22,3,93
+1091,Scissors,A central processing unit,,SC002,11,51,101,12/26/22,6,606
+1092,Staples,A type of computer memory,,STP002,9,6,11,12/27/22,3,33
+1093,File Organizer,A data storage device,,FO002,13,101,151,12/28/22,4,604
+1094,Desk Lamp,A type of data storage device,,DLP003,11,401,601,12/29/22,5,3005
+1095,Desk Chair,A display screen,,DC002,6,4001,5001,12/30/22,2,10002
+1096,Coffee Table,A type of paper,,CT002,9,5001,6001,12/31/22,4,24004
+1097,Bookshelf,A writing instrument,,BS002,11,2001,2501,01/01/23,3,7503
+1098,TV Stand,A tool for erasing,,TVS002,13,1501,2001,01/02/23,9,18009
+1099,Nightstand,A marker for highlighting text,,NS002,6,2001,2501,01/03/23,2,5002
+1100,Sofa Bed,A cutting tool,,SFB002,9,8001,10001,01/04/23,8,80008
+1101,Area Rug,A type of fastener,,AR002,11,2501,3001,01/05/23,5,15005
+1102,Throw Pillow,A tool for organizing files,,TP002,13,501,701,01/06/23,6,4206
+1103,Wall Art,A lighting fixture,,WA002,16,801,1001,01/07/23,9,9009
+1104,Curtains,A chair for a desk,,CRT003,21,701,901,01/08/23,6,5406
+1105,Table Lamp,A low table for coffee,,TL002,9,801,1001,01/09/23,8,8008
+1106,Travel Adapter,A shelf for books,,TA004,11,301,501,01/10/23,5,2505
+1107,Power Bank,A stand for a television,,PB003,16,801,1001,01/11/23,12,12012
+1108,USB Flash Drive,A small table by a bed,,UFD003,21,501,701,01/12/23,4,2804
+1109,Wireless Mouse,A sofa that can be converted into a bed,,WM003,16,701,901,01/13/23,12,10812
+1110,Laptop Stand,A rug for the floor,,LS003,11,601,801,01/14/23,7,5607
+1111,Gaming Mouse,A decorative pillow,,GM003,9,901,1101,01/15/23,8,8808
+1112,Graphics Card,Artwork for walls,,GC003,6,18001,22001,01/16/23,2,44002
+1113,Motherboard,Window coverings,,MB003,9,12001,15001,01/17/23,7,105007
+1114,CPU,A lamp for tables,,CPU003,11,10001,12001,01/18/23,3,36003
+1115,RAM,A device for adapting plugs,,RAM003,16,8001,10001,01/19/23,10,100010
+1116,Hard Drive,A portable charger,,HD003,13,3001,3501,01/20/23,6,21006
+1117,SSD,A portable data storage device,,SSD003,11,4001,5001,01/21/23,9,45009
+1118,Monitor,A mouse without cables,,MON003,6,15001,18001,01/22/23,2,36002
+1119,Printer Paper,A stand for laptops,,PP003,21,301,401,01/23/23,4,1604
+1120,Pencil,A mouse for gaming,,PCL003,26,16,26,01/24/23,3,78
+1121,Eraser,A device for rendering graphics,,ER003,31,11,16,01/25/23,16,256
+1122,Highlighter,A main circuit board,,HL003,16,31,41,01/26/23,14,574
+1123,Scissors,A central processing unit,,SC003,11,81,101,01/27/23,9,909
+1124,Staples,A type of computer memory,,STP003,9,11,16,01/28/23,2,32
+1125,File Organizer,A data storage device,,FO003,13,151,201,01/29/23,9,1809
+1126,Desk Lamp,A type of data storage device,,DLP004,11,501,701,01/30/23,7,4907
+1127,Desk Chair,A display screen,,DC003,6,5001,6001,01/31/23,4,24004
+1128,Coffee Table,A type of paper,,CT003,9,6001,7001,02/01/23,2,14002
+1129,Bookshelf,A writing instrument,,BS003,11,2501,3001,02/02/23,7,21007
+1130,TV Stand,A tool for erasing,,TVS003,13,2001,2501,02/03/23,10,25010
+1131,Nightstand,A marker for highlighting text,,NS003,6,2501,3001,02/04/23,4,12004
+1132,Sofa Bed,A cutting tool,,SFB003,9,10001,12001,02/05/23,7,84007
+1133,Area Rug,A type of fastener,,AR003,11,3001,3501,02/06/23,5,17505
+1134,Throw Pillow,A tool for organizing files,,TP003,13,701,901,02/07/23,8,7208
+1135,Wall Art,A lighting fixture,,WA003,16,1001,1201,02/08/23,3,3603
+1136,Curtains,A chair for a desk,,CRT004,21,901,1101,02/09/23,15,16515
+1137,Table Lamp,A low table for coffee,,TL003,9,1001,1201,02/10/23,5,6005
+1138,Travel Adapter,A shelf for books,,TA005,11,401,601,02/11/23,10,6010
+1139,Power Bank,A stand for a television,,PB004,16,1001,1201,02/12/23,6,7206
+1140,USB Flash Drive,A small table by a bed,,UFD004,21,601,801,02/13/23,5,4005
+1141,Wireless Mouse,A sofa that can be converted into a bed,,WM004,16,801,1001,02/14/23,4,4004
+1142,Laptop Stand,A rug for the floor,,LS004,11,701,901,02/15/23,4,3604
+1143,Gaming Mouse,A decorative pillow,,GM004,9,1001,1201,02/16/23,7,8407
+1144,Graphics Card,Artwork for walls,,GC004,6,22001,25001,02/17/23,5,125005
+1145,Motherboard,Window coverings,,MB004,9,15001,18001,02/18/23,5,90005
+1146,CPU,A lamp for tables,,CPU004,11,12001,15001,02/19/23,7,105007
+1147,RAM,A device for adapting plugs,,RAM004,16,10001,12001,02/20/23,3,36003
+1148,Hard Drive,A portable charger,,HD004,13,3501,4001,02/21/23,4,16004
+1149,SSD,A portable data storage device,,SSD004,11,5001,6001,02/22/23,2,12002
+1150,Monitor,A mouse without cables,,MON004,6,18001,20001,02/23/23,4,80004
+1151,Printer Paper,A stand for laptops,,PP004,21,401,501,02/24/23,7,3507
+1152,Pencil,A mouse for gaming,,PCL004,26,21,31,02/25/23,7,217
+1153,Eraser,A device for rendering graphics,,ER004,31,16,21,02/26/23,25,525
+1154,Highlighter,A main circuit board,,HL004,16,41,51,02/27/23,5,255
+1155,Scissors,A central processing unit,,SC004,11,101,151,02/28/23,9,1359
+1156,Staples,A type of computer memory,,STP004,9,16,21,03/01/23,8,168
+1157,File Organizer,A data storage device,,FO004,13,201,251,03/02/23,2,502
+1158,Desk Lamp,A type of data storage device,,DLP005,11,701,901,03/03/23,5,4505
+1159,Desk Chair,A display screen,,DC004,6,6001,7001,03/04/23,2,14002
+1160,Coffee Table,A type of paper,,CT004,9,7001,8001,03/05/23,6,48006
+1161,Bookshelf,A writing instrument,,BS004,11,3001,3501,03/06/23,7,24507
+1162,TV Stand,A tool for erasing,,TVS004,13,2501,3001,03/07/23,6,18006
+1163,Nightstand,A marker for highlighting text,,NS004,6,3001,3501,03/08/23,3,10503
+1164,Sofa Bed,A cutting tool,,SFB004,9,12001,15001,03/09/23,3,45003
+1165,Area Rug,A type of fastener,,AR004,11,3501,4001,03/10/23,6,24006
+1166,Throw Pillow,A tool for organizing files,,TP004,13,901,1101,03/11/23,10,11010
+1167,Wall Art,A lighting fixture,,WA004,16,1201,1501,03/12/23,14,21014
+1168,Curtains,A chair for a desk,,CRT005,21,1101,1301,03/13/23,11,14311
+1169,Table Lamp,A low table for coffee,,TL004,9,1201,1501,03/14/23,5,7505
+1170,Travel Adapter,A shelf for books,,TA006,11,501,701,03/15/23,8,5608
+1171,Power Bank,A stand for a television,,PB005,16,1201,1501,03/16/23,8,12008
+1172,USB Flash Drive,A small table by a bed,,UFD005,21,701,901,03/17/23,7,6307
+1173,Wireless Mouse,A sofa that can be converted into a bed,,WM005,16,1001,1201,03/18/23,8,9608
+1174,Laptop Stand,A rug for the floor,,LS005,11,901,1101,03/19/23,5,5505
+1175,Gaming Mouse,A decorative pillow,,GM005,9,1201,1501,03/20/23,2,3002
+1176,Graphics Card,Artwork for walls,,GC005,6,25001,30001,03/21/23,2,60002
+1177,Motherboard,Window coverings,,MB005,9,18001,22001,03/22/23,3,66003
+1178,CPU,A lamp for tables,,CPU005,11,15001,18001,03/23/23,2,36002
+1179,RAM,A device for adapting plugs,,RAM005,16,12001,15001,03/24/23,6,90006
+1180,Hard Drive,A portable charger,,HD005,13,4001,5001,03/25/23,6,30006
+1181,SSD,A portable data storage device,,SSD005,11,6001,7001,03/26/23,10,70010
+1182,Monitor,A mouse without cables,,MON005,6,20001,25001,03/27/23,3,75003
+1183,Printer Paper,A stand for laptops,,PP005,21,501,601,03/28/23,14,8414
+1184,Pencil,A mouse for gaming,,PCL005,26,26,36,03/29/23,3,108
+1185,Eraser,A device for rendering graphics,,ER005,31,21,26,03/30/23,18,468
+1186,Highlighter,A main circuit board,,HL005,16,51,61,03/31/23,6,366
+1187,Scissors,A central processing unit,,SC005,11,151,201,04/01/23,2,402
+1188,Staples,A type of computer memory,,STP005,9,21,26,04/02/23,7,182
+1189,File Organizer,A data storage device,,FO005,13,251,301,04/03/23,6,1806
+1190,Desk Lamp,A type of data storage device,,DLP006,11,801,1001,04/04/23,5,5005
+1191,Desk Chair,A display screen,,DC005,6,7001,8001,04/05/23,4,32004
+1192,Coffee Table,A type of paper,,CT005,9,8001,9001,04/06/23,5,45005
+1193,Bookshelf,A writing instrument,,BS005,11,3501,4001,04/07/23,2,8002
+1194,TV Stand,A tool for erasing,,TVS005,13,3001,3501,04/08/23,6,21006
+1195,Nightstand,A marker for highlighting text,,NS005,6,3501,4001,04/09/23,4,16004
+1196,Sofa Bed,A cutting tool,,SFB005,9,15001,18001,04/10/23,3,54003
+1197,Area Rug,A type of fastener,,AR005,11,4001,4501,04/11/23,7,31507
+1198,Throw Pillow,A tool for organizing files,,TP005,13,1101,1401,04/12/23,3,4203
+1199,Wall Art,A lighting fixture,,WA005,16,1501,1801,04/13/23,14,25214
+1200,Curtains,A chair for a desk,,CRT006,21,1301,1601,04/14/23,10,16010
+1201,Table Lamp,A low table for coffee,,TL005,9,1501,1801,04/15/23,4,7204
+1202,Travel Adapter,A shelf for books,,TA007,11,601,801,04/16/23,8,6408
+1203,Power Bank,A stand for a television,,PB006,16,1501,1801,04/17/23,4,7204
+1204,USB Flash Drive,A small table by a bed,,UFD006,21,801,1001,04/18/23,10,10010
+1205,Wireless Mouse,A sofa that can be converted into a bed,,WM006,16,1201,1501,04/19/23,2,3002
+1206,Laptop Stand,A rug for the floor,,LS006,11,1101,1401,04/20/23,9,12609
+1207,Gaming Mouse,A decorative pillow,,GM006,9,1501,1801,04/21/23,7,12607
+1208,Graphics Card,Artwork for walls,,GC006,6,30001,35001,04/22/23,2,70002
+1209,Motherboard,Window coverings,,MB006,9,22001,25001,04/23/23,6,150006
+1210,CPU,A lamp for tables,,CPU006,11,18001,20001,04/24/23,5,100005
+1211,RAM,A device for adapting plugs,,RAM006,16,15001,18001,04/25/23,12,216012
+1212,Hard Drive,A portable charger,,HD006,13,5001,6001,04/26/23,7,42007
+1213,SSD,A portable data storage device,,SSD006,11,7001,8001,04/27/23,10,80010
+1214,Monitor,A mouse without cables,,MON006,6,25001,30001,04/28/23,2,60002
+1215,Printer Paper,A stand for laptops,,PP006,21,601,801,04/29/23,13,10413
+1216,Pencil,A mouse for gaming,,PCL006,26,31,41,04/30/23,19,779
+1217,Eraser,A device for rendering graphics,,ER006,31,26,36,05/01/23,19,684
+1218,Highlighter,A main circuit board,,HL006,16,61,81,05/02/23,4,324
+1219,Scissors,A central processing unit,,SC006,11,201,251,05/03/23,7,1757
+1220,Staples,A type of computer memory,,STP006,9,26,36,05/04/23,8,288
+1221,File Organizer,A data storage device,,FO006,13,301,401,05/05/23,6,2406
+1222,Desk Lamp,A type of data storage device,,DLP007,11,901,1201,05/06/23,3,3603
+1223,Desk Chair,A display screen,,DC006,6,8001,9001,05/07/23,4,36004
+1224,Coffee Table,A type of paper,,CT006,9,9001,10001,05/08/23,7,70007
+1225,Bookshelf,A writing instrument,,BS006,11,4001,4501,05/09/23,6,27006
+1226,TV Stand,A tool for erasing,,TVS006,13,3501,4001,05/10/23,10,40010
+1227,Nightstand,A marker for highlighting text,,NS006,6,4001,4501,05/11/23,5,22505
+1228,Sofa Bed,A cutting tool,,SFB006,9,18001,20001,05/12/23,2,40002
+1229,Area Rug,A type of fastener,,AR006,11,4501,5001,05/13/23,7,35007
+1230,Throw Pillow,A tool for organizing files,,TP006,13,1401,1601,05/14/23,4,6404
+1231,Wall Art,A lighting fixture,,WA006,16,1801,2001,05/15/23,5,10005
+1232,Curtains,A chair for a desk,,CRT007,21,1601,1801,05/16/23,4,7204
+1233,Table Lamp,A low table for coffee,,TL006,9,1801,2001,05/17/23,4,8004
+1234,Travel Adapter,A shelf for books,,TA008,11,701,901,05/18/23,6,5406
+1235,Power Bank,A stand for a television,,PB007,16,1801,2001,05/19/23,9,18009
+1236,USB Flash Drive,A small table by a bed,,UFD007,21,901,1101,05/20/23,2,2202
+1237,Wireless Mouse,A sofa that can be converted into a bed,,WM007,16,1501,1701,05/21/23,15,25515
+1238,Laptop Stand,A rug for the floor,,LS007,11,1401,1601,05/22/23,9,14409
+1239,Gaming Mouse,A decorative pillow,,GM007,9,1801,2001,05/23/23,6,12006
+1240,Graphics Card,Artwork for walls,,GC007,6,35001,40001,05/24/23,3,120003
+1241,Motherboard,Window coverings,,MB007,9,25001,30001,05/25/23,8,240008
+1242,CPU,A lamp for tables,,CPU007,11,20001,25001,05/26/23,9,225009
+1243,RAM,A device for adapting plugs,,RAM007,16,18001,22001,05/27/23,14,308014
+1244,Hard Drive,A portable charger,,HD007,13,6001,7001,05/28/23,11,77011
+1245,SSD,A portable data storage device,,SSD007,11,8001,9001,05/29/23,3,27003
+1246,Monitor,A mouse without cables,,MON007,6,30001,35001,05/30/23,4,140004
+1247,Printer Paper,A stand for laptops,,PP007,21,701,901,05/31/23,11,9911
+1248,Pencil,A mouse for gaming,,PCL007,26,36,46,06/01/23,12,552
+1249,Eraser,A device for rendering graphics,,ER007,31,31,41,06/02/23,29,1189
+1250,Highlighter,A main circuit board,,HL007,16,81,101,06/03/23,10,1010
+1251,Scissors,A central processing unit,,SC007,11,251,301,06/04/23,9,2709
+1252,Staples,A type of computer memory,,STP007,9,36,46,06/05/23,3,138
+1253,File Organizer,A data storage device,,FO007,13,401,501,06/06/23,12,6012
+1254,Desk Lamp,A type of data storage device,,DLP008,11,1001,1201,06/07/23,10,12010
+1255,Desk Chair,A display screen,,DC007,6,9001,10001,06/08/23,3,30003
+1256,Coffee Table,A type of paper,,CT007,9,10001,12001,06/09/23,5,60005
+1257,Bookshelf,A writing instrument,,BS007,11,4501,5001,06/10/23,3,15003
+1258,TV Stand,A tool for erasing,,TVS007,13,4001,4501,06/11/23,9,40509
+1259,Nightstand,A marker for highlighting text,,NS007,6,4501,5001,06/12/23,4,20004
+1260,Sofa Bed,A cutting tool,,SFB007,9,20001,25001,06/13/23,4,100004
+1261,Area Rug,A type of fastener,,AR007,11,5001,6001,06/14/23,5,30005
+1262,Throw Pillow,A tool for organizing files,,TP007,13,1601,1801,06/15/23,7,12607
+1263,Wall Art,A lighting fixture,,WA007,16,2001,2201,06/16/23,6,13206
+1264,Curtains,A chair for a desk,,CRT008,21,1801,2001,06/17/23,12,24012
+1265,Table Lamp,A low table for coffee,,TL007,9,2001,2201,06/18/23,6,13206
+1266,Travel Adapter,A shelf for books,,TA009,11,801,1001,06/19/23,4,4004
+1267,Power Bank,A stand for a television,,PB008,16,2001,2201,06/20/23,11,24211
+1268,USB Flash Drive,A small table by a bed,,UFD008,21,1101,1301,06/21/23,11,14311
+1269,Wireless Mouse,A sofa that can be converted into a bed,,WM008,16,1701,1901,06/22/23,3,5703
+1270,Laptop Stand,A rug for the floor,,LS008,11,1601,1801,06/23/23,9,16209
+1271,Gaming Mouse,A decorative pillow,,GM008,9,2001,2201,06/24/23,8,17608
+1272,Graphics Card,Artwork for walls,,GC008,6,40001,45001,06/25/23,5,225005
+1273,Motherboard,Window coverings,,MB008,9,30001,35001,06/26/23,4,140004
+1274,CPU,A lamp for tables,,CPU008,11,25001,30001,06/27/23,8,240008
+1275,RAM,A device for adapting plugs,,RAM008,16,22001,25001,06/28/23,7,175007
+1276,Hard Drive,A portable charger,,HD008,13,7001,8001,06/29/23,12,96012
+1277,SSD,A portable data storage device,,SSD008,11,9001,10001,06/30/23,6,60006
+1278,Monitor,A mouse without cables,,MON008,6,35001,40001,07/01/23,4,160004
+1279,Printer Paper,A stand for laptops,,PP008,21,801,1001,07/02/23,7,7007
+1280,Pencil,A mouse for gaming,,PCL008,26,41,51,07/03/23,7,357
+1281,Eraser,A device for rendering graphics,,ER008,31,36,46,07/04/23,8,368
+1282,Highlighter,A main circuit board,,HL008,16,101,121,07/05/23,5,605
+1283,Scissors,A central processing unit,,SC008,11,301,351,07/06/23,5,1755
+1284,Staples,A type of computer memory,,STP008,9,46,56,07/07/23,2,112
+1285,File Organizer,A data storage device,,FO008,13,501,601,07/08/23,7,4207
+1286,Desk Lamp,A type of data storage device,,DLP009,11,1201,1401,07/09/23,8,11208
+1287,Desk Chair,A display screen,,DC008,6,10001,12001,07/10/23,3,36003
+1288,Coffee Table,A type of paper,,CT008,9,12001,14001,07/11/23,3,42003
+1289,Bookshelf,A writing instrument,,BS008,11,5001,6001,07/12/23,9,54009
+1290,TV Stand,A tool for erasing,,TVS008,13,4501,5501,07/13/23,3,16503
+1291,Nightstand,A marker for highlighting text,,NS008,6,5001,6001,07/14/23,5,30005
+1292,Sofa Bed,A cutting tool,,SFB008,9,25001,30001,07/15/23,7,210007
+1293,Area Rug,A type of fastener,,AR008,11,6001,7001,07/16/23,7,49007
+1294,Throw Pillow,A tool for organizing files,,TP008,13,1801,2001,07/17/23,6,12006
+1295,Wall Art,A lighting fixture,,WA008,16,2201,2501,07/18/23,9,22509
+1296,Curtains,A chair for a desk,,CRT009,21,2001,2201,07/19/23,20,44020
+1297,Table Lamp,A low table for coffee,,TL008,9,2201,2501,07/20/23,6,15006
+1298,Travel Adapter,A shelf for books,,TA010,11,901,1101,07/21/23,6,6606
+1299,Power Bank,A stand for a television,,PB009,16,2201,2501,07/22/23,7,17507
+1300,USB Flash Drive,A small table by a bed,,UFD009,21,1301,1501,07/23/23,6,9006
+1301,Wireless Mouse,A sofa that can be converted into a bed,,WM009,16,1901,2101,07/24/23,11,23111
+1302,Laptop Stand,A rug for the floor,,LS009,11,1801,2001,07/25/23,10,20010
+1303,Gaming Mouse,A decorative pillow,,GM009,9,2201,2501,07/26/23,3,7503
+1304,Graphics Card,Artwork for walls,,GC009,6,45001,50001,07/27/23,3,150003
+1305,Motherboard,Window coverings,,MB009,9,35001,40001,07/28/23,3,120003
+1306,CPU,A lamp for tables,,CPU009,11,30001,35001,07/29/23,5,175005
+1307,RAM,A device for adapting plugs,,RAM009,16,25001,30001,07/30/23,5,150005
+1308,Hard Drive,A portable charger,,HD009,13,8001,9001,07/31/23,10,90010
+1309,SSD,A portable data storage device,,SSD009,11,10001,12001,08/01/23,2,24002
+1310,Monitor,A mouse without cables,,MON009,6,40001,45001,08/02/23,3,135003
+1311,Printer Paper,A stand for laptops,,PP009,21,1001,1201,08/03/23,12,14412
+1312,Pencil,A mouse for gaming,,PCL009,26,51,61,08/04/23,24,1464
+1313,Eraser,A device for rendering graphics,,ER009,31,46,56,08/05/23,8,448
+1314,Highlighter,A main circuit board,,HL009,16,121,141,08/06/23,6,846
+1315,Scissors,A central processing unit,,SC009,11,351,401,08/07/23,2,802
+1316,Staples,A type of computer memory,,STP009,9,56,66,08/08/23,6,396
+1317,File Organizer,A data storage device,,FO009,13,601,701,08/09/23,10,7010
+1318,Desk Lamp,A type of data storage device,,DLP010,11,1401,1601,08/10/23,4,6404
+1319,Desk Chair,A display screen,,DC009,6,12001,14001,08/11/23,3,42003
+1320,Coffee Table,A type of paper,,CT009,9,14001,16001,08/12/23,2,32002
+1321,Bookshelf,A writing instrument,,BS009,11,6001,7001,08/13/23,9,63009
+1322,TV Stand,A tool for erasing,,TVS009,13,5501,6501,08/14/23,12,78012
+1323,Nightstand,A marker for highlighting text,,NS009,6,6001,7001,08/15/23,5,35005
+1324,Sofa Bed,A cutting tool,,SFB009,9,30001,35001,08/16/23,4,140004
+1325,Area Rug,A type of fastener,,AR009,11,7001,8001,08/17/23,4,32004
+1326,Throw Pillow,A tool for organizing files,,TP009,13,2001,2201,08/18/23,7,15407
+1327,Wall Art,A lighting fixture,,WA009,16,2501,2801,08/19/23,12,33612
+1328,Curtains,A chair for a desk,,CRT010,21,2201,2501,08/20/23,3,7503
+1329,Table Lamp,A low table for coffee,,TL009,9,2501,2801,08/21/23,6,16806
+1330,Travel Adapter,A shelf for books,,TA011,11,1001,1201,08/22/23,9,10809
+1331,Power Bank,A stand for a television,,PB010,16,2501,2801,08/23/23,2,5602
+1332,USB Flash Drive,A small table by a bed,,UFD010,21,1501,1801,08/24/23,11,19811
+1333,Wireless Mouse,A sofa that can be converted into a bed,,WM010,16,2101,2401,08/25/23,7,16807
+1334,Laptop Stand,A rug for the floor,,LS010,11,2001,2301,08/26/23,9,20709
+1335,Gaming Mouse,A decorative pillow,,GM010,9,2501,2801,08/27/23,6,16806
+1336,Graphics Card,Artwork for walls,,GC010,6,50001,55001,08/28/23,4,220004
+1337,Motherboard,Window coverings,,MB010,9,40001,45001,08/29/23,7,315007
+1338,CPU,A lamp for tables,,CPU010,11,35001,40001,08/30/23,7,280007
+1339,RAM,A device for adapting plugs,,RAM010,16,30001,35001,08/31/23,2,70002
+1340,Hard Drive,A portable charger,,HD010,13,9001,10001,09/01/23,6,60006
+1341,SSD,A portable data storage device,,SSD010,11,12001,14001,09/02/23,5,70005
+1342,Monitor,A mouse without cables,,MON010,6,45001,50001,09/03/23,4,200004
+1343,Printer Paper,A stand for laptops,,PP010,21,1201,1501,09/04/23,19,28519
+1344,Pencil,A mouse for gaming,,PCL010,26,61,71,09/05/23,7,497
+1345,Eraser,A device for rendering graphics,,ER010,31,56,66,09/06/23,10,660
+1346,Highlighter,A main circuit board,,HL010,16,141,161,09/07/23,8,1288
+1347,Scissors,A central processing unit,,SC010,11,401,451,09/08/23,10,4510
+1348,Staples,A type of computer memory,,STP010,9,66,76,09/09/23,8,608
+1349,File Organizer,A data storage device,,FO010,13,701,801,09/10/23,5,4005
+1350,Desk Lamp,A type of data storage device,,DLP011,11,1601,1801,09/11/23,8,14408
+1351,Desk Chair,A display screen,,DC010,6,14001,16001,09/12/23,5,80005
+1352,Coffee Table,A type of paper,,CT010,9,16001,18001,09/13/23,3,54003
+1353,Bookshelf,A writing instrument,,BS010,11,7001,8001,09/14/23,3,24003
+1354,TV Stand,A tool for erasing,,TVS010,13,6501,7501,09/15/23,10,75010
+1355,Nightstand,A marker for highlighting text,,NS010,6,7001,8001,09/16/23,5,40005
+1356,Sofa Bed,A cutting tool,,SFB010,9,35001,40001,09/17/23,6,240006
+1357,Area Rug,A type of fastener,,AR010,11,8001,9001,09/18/23,8,72008
+1358,Throw Pillow,A tool for organizing files,,TP010,13,2201,2501,09/19/23,5,12505
+1359,Wall Art,A lighting fixture,,WA010,16,2801,3201,09/20/23,15,48015
+1360,Curtains,A chair for a desk,,CRT011,21,2501,3001,09/21/23,19,57019
+1361,Table Lamp,A low table for coffee,,TL010,9,2801,3201,09/22/23,5,16005
+1362,Travel Adapter,A shelf for books,,TA012,11,1201,1501,09/23/23,7,10507
+1363,Power Bank,A stand for a television,,PB011,16,2801,3201,09/24/23,15,48015
+1364,USB Flash Drive,A small table by a bed,,UFD011,21,1801,2201,09/25/23,10,22010
+1365,Wireless Mouse,A sofa that can be converted into a bed,,WM011,16,2401,2801,09/26/23,2,5602
+1366,Laptop Stand,A rug for the floor,,LS011,11,2301,2701,09/27/23,8,21608
+1367,Gaming Mouse,A decorative pillow,,GM011,9,2801,3201,09/28/23,7,22407
+1368,Graphics Card,Artwork for walls,,GC011,6,55001,60001,09/29/23,3,180003
+1369,Motherboard,Window coverings,,MB011,9,45001,50001,09/30/23,8,400008
+1370,CPU,A lamp for tables,,CPU011,11,40001,45001,10/01/23,3,135003
+1371,RAM,A device for adapting plugs,,RAM011,16,35001,40001,10/02/23,14,560014
+1372,Hard Drive,A portable charger,,HD011,13,10001,12001,10/03/23,2,24002
+1373,SSD,A portable data storage device,,SSD011,11,14001,16001,10/04/23,9,144009
+1374,Monitor,A mouse without cables,,MON011,6,50001,55001,10/05/23,3,165003
+1375,Printer Paper,A stand for laptops,,PP011,21,1501,1801,10/06/23,9,16209
+1376,Pencil,A mouse for gaming,,PCL011,26,71,81,10/07/23,15,1215
+1377,Eraser,A device for rendering graphics,,ER011,31,66,76,10/08/23,27,2052
+1378,Highlighter,A main circuit board,,HL011,16,161,181,10/09/23,5,905
+1379,Scissors,A central processing unit,,SC011,11,451,501,10/10/23,5,2505
+1380,Staples,A type of computer memory,,STP011,9,76,86,10/11/23,4,344
+1381,File Organizer,A data storage device,,FO011,13,801,901,10/12/23,10,9010
+1382,Desk Lamp,A type of data storage device,,DLP012,11,1801,2001,10/13/23,2,4002
+1383,Desk Chair,A display screen,,DC011,6,16001,18001,10/14/23,3,54003
+1384,Coffee Table,A type of paper,,CT011,9,18001,20001,10/15/23,5,100005
+1385,Bookshelf,A writing instrument,,BS011,11,8001,9001,10/16/23,7,63007
+1386,TV Stand,A tool for erasing,,TVS011,13,7501,8501,10/17/23,7,59507
+1387,Nightstand,A marker for highlighting text,,NS011,6,8001,9001,10/18/23,3,27003
+1388,Sofa Bed,A cutting tool,,SFB011,9,40001,45001,10/19/23,7,315007
+1389,Area Rug,A type of fastener,,AR011,11,9001,10001,10/20/23,8,80008
+1390,Throw Pillow,A tool for organizing files,,TP011,13,2501,2801,10/21/23,6,16806
+1391,Wall Art,A lighting fixture,,WA011,16,3201,3501,10/22/23,13,45513
+1392,Curtains,A chair for a desk,,CRT012,21,3001,3501,10/23/23,4,14004
+1393,Table Lamp,A low table for coffee,,TL011,9,3201,3501,10/24/23,4,14004
+1394,Travel Adapter,A shelf for books,,TA013,11,1501,1801,10/25/23,4,7204
+1395,Power Bank,A stand for a television,,PB012,16,3201,3501,10/26/23,6,21006
+1396,USB Flash Drive,A small table by a bed,,UFD012,21,2201,2501,10/27/23,18,45018
+1397,Wireless Mouse,A sofa that can be converted into a bed,,WM012,16,2801,3201,10/28/23,12,38412
+1398,Laptop Stand,A rug for the floor,,LS012,11,2701,3001,10/29/23,7,21007
+1399,Gaming Mouse,A decorative pillow,,GM012,9,3201,3501,10/30/23,5,17505
+1400,Graphics Card,Artwork for walls,,GC012,6,60001,65001,10/31/23,2,130002
+1401,Motherboard,Window coverings,,MB012,9,50001,55001,11/01/23,6,330006
+1402,CPU,A lamp for tables,,CPU012,11,45001,50001,11/02/23,9,450009
+1403,RAM,A device for adapting plugs,,RAM012,16,40001,45001,11/03/23,11,495011
+1404,Hard Drive,A portable charger,,HD012,13,12001,14001,11/04/23,7,98007
+1405,SSD,A portable data storage device,,SSD012,11,16001,18001,11/05/23,9,162009
+1406,Monitor,A mouse without cables,,MON012,6,55001,60001,11/06/23,2,120002
+1407,Printer Paper,A stand for laptops,,PP012,21,1801,2001,11/07/23,12,24012
+1408,Pencil,A mouse for gaming,,PCL012,26,81,91,11/08/23,10,910
+1409,Eraser,A device for rendering graphics,,ER012,31,76,86,11/09/23,28,2408
+1410,Highlighter,A main circuit board,,HL012,16,181,201,11/10/23,7,1407
+1411,Scissors,A central processing unit,,SC012,11,501,551,11/11/23,8,4408
+1412,Staples,A type of computer memory,,STP012,9,86,96,11/12/23,2,192
+1413,File Organizer,A data storage device,,FO012,13,901,1001,11/13/23,11,11011
+1414,Desk Lamp,A type of data storage device,,DLP013,11,2001,2201,11/14/23,8,17608
+1415,Desk Chair,A display screen,,DC012,6,18001,20001,11/15/23,2,40002
+1416,Coffee Table,A type of paper,,CT012,9,20001,22001,11/16/23,3,66003
+1417,Bookshelf,A writing instrument,,BS012,11,9001,10001,11/17/23,6,60006
+1418,TV Stand,A tool for erasing,,TVS012,13,8501,9501,11/18/23,3,28503
+1419,Nightstand,A marker for highlighting text,,NS012,6,9001,10001,11/19/23,2,20002
+1420,Sofa Bed,A cutting tool,,SFB012,9,45001,50001,11/20/23,4,200004
+1421,Area Rug,A type of fastener,,AR012,11,10001,11001,11/21/23,3,33003
+1422,Throw Pillow,A tool for organizing files,,TP012,13,2801,3201,11/22/23,7,22407
+1423,Wall Art,A lighting fixture,,WA012,16,3501,4001,11/23/23,3,12003
+1424,Curtains,A chair for a desk,,CRT013,21,3501,4001,11/24/23,16,64016
+1425,Table Lamp,A low table for coffee,,TL012,9,3501,4001,11/25/23,5,20005
+1426,Travel Adapter,A shelf for books,,TA014,11,1801,2001,11/26/23,9,18009
+1427,Power Bank,A stand for a television,,PB013,16,3501,4001,11/27/23,8,32008
+1428,USB Flash Drive,A small table by a bed,,UFD013,21,2501,3001,11/28/23,10,30010
+1429,Wireless Mouse,A sofa that can be converted into a bed,,WM013,16,3201,3701,11/29/23,4,14804
+1430,Laptop Stand,A rug for the floor,,LS013,11,3001,3501,11/30/23,5,17505
+1431,Gaming Mouse,A decorative pillow,,GM013,9,3501,4001,12/01/23,7,28007
+1432,Graphics Card,Artwork for walls,,GC013,6,65001,70001,12/02/23,4,280004
+1433,Motherboard,Window coverings,,MB013,9,55001,60001,12/03/23,2,120002
+1434,CPU,A lamp for tables,,CPU013,11,50001,55001,12/04/23,2,110002
+1435,RAM,A device for adapting plugs,,RAM013,16,45001,50001,12/05/23,11,550011
+1436,Hard Drive,A portable charger,,HD013,13,14001,16001,12/06/23,3,48003
+1437,SSD,A portable data storage device,,SSD013,11,18001,20001,12/07/23,5,100005
+1438,Monitor,A mouse without cables,,MON013,6,60001,65001,12/08/23,3,195003
+1439,Printer Paper,A stand for laptops,,PP013,21,2001,2501,12/09/23,6,15006
+1440,Pencil,A mouse for gaming,,PCL013,26,91,101,12/10/23,17,1717
+1441,Eraser,A device for rendering graphics,,ER013,31,86,96,12/11/23,4,384
+1442,Highlighter,A main circuit board,,HL013,16,201,221,12/12/23,7,1547
+1443,Scissors,A central processing unit,,SC013,11,551,601,12/13/23,2,1202
+1444,Staples,A type of computer memory,,STP013,9,96,106,12/14/23,5,530
+1445,File Organizer,A data storage device,,FO013,13,1001,1101,12/15/23,9,9909
+1446,Desk Lamp,A type of data storage device,,DLP014,11,2201,2501,12/16/23,7,17507
+1447,Desk Chair,A display screen,,DC013,6,20001,25001,12/17/23,5,125005
+1448,Coffee Table,A type of paper,,CT013,9,22001,25001,12/18/23,6,150006
+1449,Bookshelf,A writing instrument,,BS013,11,10001,12001,12/19/23,6,72006
+1450,TV Stand,A tool for erasing,,TVS013,13,9501,10001,12/20/23,8,80008
+1451,Nightstand,A marker for highlighting text,,NS013,6,10001,12001,12/21/23,2,24002
+1452,Sofa Bed,A cutting tool,,SFB013,9,50001,60001,12/22/23,2,120002
+1453,Area Rug,A type of fastener,,AR013,11,11001,12001,12/23/23,6,72006
+1454,Throw Pillow,A tool for organizing files,,TP013,13,3201,3501,12/24/23,10,35010
+1455,Wall Art,A lighting fixture,,WA013,16,4001,4501,12/25/23,12,54012
+1456,Curtains,A chair for a desk,,CRT014,21,4001,4501,12/26/23,2,9002
+1457,Table Lamp,A low table for coffee,,TL013,9,4001,4501,12/27/23,5,22505
+1458,Travel Adapter,A shelf for books,,TA015,11,2001,2501,12/28/23,10,25010
+1459,Power Bank,A stand for a television,,PB014,16,4001,4501,12/29/23,3,13503
+1460,USB Flash Drive,A small table by a bed,,UFD014,21,3001,3501,12/30/23,7,24507
+1461,Wireless Mouse,A sofa that can be converted into a bed,,WM014,16,3701,4001,12/31/23,12,48012
+1462,Laptop Stand,A rug for the floor,,LS014,11,3501,4001,01/01/24,4,16004
+1463,Gaming Mouse,A decorative pillow,,GM014,9,4001,4501,01/02/24,3,13503
+1464,Graphics Card,Artwork for walls,,GC014,6,70001,75001,01/03/24,2,150002
+1465,Motherboard,Window coverings,,MB014,9,60001,65001,01/04/24,3,195003
+1466,CPU,A lamp for tables,,CPU014,11,55001,60001,01/05/24,8,480008
+1467,RAM,A device for adapting plugs,,RAM014,16,50001,55001,01/06/24,7,385007
+1468,Hard Drive,A portable charger,,HD014,13,16001,18001,01/07/24,4,72004
+1469,SSD,A portable data storage device,,SSD014,11,20001,22001,01/08/24,5,110005
+1470,Monitor,A mouse without cables,,MON014,6,65001,70001,01/09/24,2,140002
+1471,Printer Paper,A stand for laptops,,PP014,21,2501,3001,01/10/24,14,42014
+1472,Pencil,A mouse for gaming,,PCL014,26,101,111,01/11/24,15,1665
+1473,Eraser,A device for rendering graphics,,ER014,31,96,106,01/12/24,9,954
+1474,Highlighter,A main circuit board,,HL014,16,221,241,01/13/24,11,2651
+1475,Scissors,A central processing unit,,SC014,11,601,651,01/14/24,3,1953
+1476,Staples,A type of computer memory,,STP014,9,106,116,01/15/24,8,928
+1477,File Organizer,A data storage device,,FO014,13,1101,1201,01/16/24,5,6005
+1478,Desk Lamp,A type of data storage device,,DLP015,11,2501,3001,01/17/24,3,9003
+1479,Desk Chair,A display screen,,DC014,6,25001,30001,01/18/24,3,90003
+1480,Coffee Table,A type of paper,,CT014,9,25001,30001,01/19/24,4,120004
+1481,Bookshelf,A writing instrument,,BS014,11,12001,14001,01/20/24,5,70005
+1482,TV Stand,A tool for erasing,,TVS014,13,10001,12001,01/21/24,7,84007
+1483,Nightstand,A marker for highlighting text,,NS014,6,12001,14001,01/22/24,4,56004
+1484,Sofa Bed,A cutting tool,,SFB014,9,60001,70001,01/23/24,3,210003
+1485,Area Rug,A type of fastener,,AR014,11,12001,14001,01/24/24,8,112008
+1486,Throw Pillow,A tool for organizing files,,TP014,13,3501,4001,01/25/24,11,44011
+1487,Wall Art,A lighting fixture,,WA014,16,4501,5001,01/26/24,11,55011
+1488,Curtains,A chair for a desk,,CRT015,21,4501,5001,01/27/24,9,45009
+1489,Table Lamp,A low table for coffee,,TL014,9,4501,5001,01/28/24,5,25005
+1490,Travel Adapter,A shelf for books,,TA016,11,2501,3001,01/29/24,3,9003
+1491,Power Bank,A stand for a television,,PB015,16,4501,5001,01/30/24,7,35007
+1492,USB Flash Drive,A small table by a bed,,UFD015,21,3501,4001,01/31/24,6,24006
+1493,Wireless Mouse,A sofa that can be converted into a bed,,WM015,16,4001,4501,02/01/24,11,49511
+1494,Laptop Stand,A rug for the floor,,LS015,11,4001,4501,02/02/24,7,31507
+1495,Gaming Mouse,A decorative pillow,,GM015,9,4501,5001,02/03/24,7,35007
+1496,Graphics Card,Artwork for walls,,GC015,6,75001,80001,02/04/24,2,160002
+1497,Motherboard,Window coverings,,MB015,9,65001,70001,02/05/24,3,210003
+1498,CPU,A lamp for tables,,CPU015,11,60001,65001,02/06/24,8,520008
+1499,RAM,A device for adapting plugs,,RAM015,16,55001,60001,02/07/24,7,420007
+1500,Hard Drive,A portable charger,,HD015,13,18001,20001,02/08/24,7,140007
+1501,SSD,A portable data storage device,,SSD015,11,22001,25001,02/09/24,9,225009
+1502,Monitor,A mouse without cables,,MON015,6,70001,75001,02/10/24,2,150002
+1503,Printer Paper,A stand for laptops,,PP015,21,3001,3501,02/11/24,12,42012
+1504,Pencil,A mouse for gaming,,PCL015,26,111,121,02/12/24,2,242
+1505,Eraser,A device for rendering graphics,,ER015,31,106,116,02/13/24,30,3480
+1506,Highlighter,A main circuit board,,HL015,16,241,261,02/14/24,7,1827
+1507,Scissors,A central processing unit,,SC015,11,651,701,02/15/24,5,3505
+1508,Staples,A type of computer memory,,STP015,9,116,126,02/16/24,3,378
+1509,File Organizer,A data storage device,,FO015,13,1201,1301,02/17/24,8,10408
+1510,Desk Lamp,A type of data storage device,,DLP016,11,3001,3501,02/18/24,6,21006
+1511,Desk Chair,A display screen,,DC015,6,30001,35001,02/19/24,4,140004
+1512,Coffee Table,A type of paper,,CT015,9,30001,35001,02/20/24,6,210006
+1513,Bookshelf,A writing instrument,,BS015,11,14001,16001,02/21/24,6,96006
+1514,TV Stand,A tool for erasing,,TVS015,13,12001,14001,02/22/24,8,112008
+1515,Nightstand,A marker for highlighting text,,NS015,6,14001,16001,02/23/24,4,64004
+1516,Sofa Bed,A cutting tool,,SFB015,9,70001,80001,02/24/24,4,320004
+1517,Area Rug,A type of fastener,,AR015,11,14001,16001,02/25/24,8,128008
+1518,Throw Pillow,A tool for organizing files,,TP015,13,4001,4501,02/26/24,10,45010
+1519,Wall Art,A lighting fixture,,WA015,16,5001,5501,02/27/24,7,38507
+1520,Curtains,A chair for a desk,,CRT016,21,5001,5501,02/28/24,2,11002
+1521,Table Lamp,A low table for coffee,,TL015,9,5001,5501,02/29/24,5,27505
+1522,Travel Adapter,A shelf for books,,TA017,11,3001,3501,03/01/24,8,28008
+1523,Power Bank,A stand for a television,,PB016,16,5001,5501,03/02/24,15,82515
+1524,USB Flash Drive,A small table by a bed,,UFD016,21,4001,4501,03/03/24,17,76517
+1525,Wireless Mouse,A sofa that can be converted into a bed,,WM016,16,4501,5001,03/04/24,6,30006
+1526,Laptop Stand,A rug for the floor,,LS016,11,4501,5001,03/05/24,6,30006
+1527,Gaming Mouse,A decorative pillow,,GM016,9,5001,5501,03/06/24,2,11002
+1528,Graphics Card,Artwork for walls,,GC016,6,80001,85001,03/07/24,5,425005
+1529,Motherboard,Window coverings,,MB016,9,70001,75001,03/08/24,5,375005
+1530,CPU,A lamp for tables,,CPU016,11,65001,70001,03/09/24,6,420006
+1531,RAM,A device for adapting plugs,,RAM016,16,60001,65001,03/10/24,9,585009
+1532,Hard Drive,A portable charger,,HD016,13,20001,22001,03/11/24,12,264012
+1533,SSD,A portable data storage device,,SSD016,11,25001,28001,03/12/24,2,56002
+1534,Monitor,A mouse without cables,,MON016,6,75001,80001,03/13/24,2,160002
+1535,Printer Paper,A stand for laptops,,PP016,21,3501,4001,03/14/24,15,60015
+1536,Pencil,A mouse for gaming,,PCL016,26,121,131,03/15/24,12,1572
+1537,Eraser,A device for rendering graphics,,ER016,31,116,126,03/16/24,13,1638
+1538,Highlighter,A main circuit board,,HL016,16,261,281,03/17/24,4,1124
+1539,Scissors,A central processing unit,,SC016,11,701,751,03/18/24,4,3004
+1540,Staples,A type of computer memory,,STP016,9,126,136,03/19/24,8,1088
+1541,File Organizer,A data storage device,,FO016,13,1301,1401,03/20/24,8,11208
+1542,Desk Lamp,A type of data storage device,,DLP017,11,3501,4001,03/21/24,7,28007
+1543,Desk Chair,A display screen,,DC016,6,35001,40001,03/22/24,2,80002
+1544,Coffee Table,A type of paper,,CT016,9,35001,40001,03/23/24,2,80002
+1545,Bookshelf,A writing instrument,,BS016,11,16001,18001,03/24/24,3,54003
+1546,TV Stand,A tool for erasing,,TVS016,13,14001,16001,03/25/24,10,160010
+1547,Nightstand,A marker for highlighting text,,NS016,6,16001,18001,03/26/24,4,72004
+1548,Sofa Bed,A cutting tool,,SFB016,9,80001,90001,03/27/24,6,540006
+1549,Area Rug,A type of fastener,,AR016,11,16001,18001,03/28/24,7,126007
+1550,Throw Pillow,A tool for organizing files,,TP016,13,4501,5001,03/29/24,12,60012
+1551,Wall Art,A lighting fixture,,WA016,16,5501,6001,03/30/24,12,72012
+1552,Curtains,A chair for a desk,,CRT017,21,5501,6001,03/31/24,15,90015
+1553,Table Lamp,A low table for coffee,,TL016,9,5501,6001,04/01/24,2,12002
+1554,Travel Adapter,A shelf for books,,TA018,11,3501,4001,04/02/24,8,32008
+1555,Power Bank,A stand for a television,,PB017,16,5501,6001,04/03/24,7,42007
+1556,USB Flash Drive,A small table by a bed,,UFD017,21,4501,5001,04/04/24,12,60012
+1557,Wireless Mouse,A sofa that can be converted into a bed,,WM017,16,5001,5501,04/05/24,2,11002
+1558,Laptop Stand,A rug for the floor,,LS017,11,5001,5501,04/06/24,9,49509
+1559,Gaming Mouse,A decorative pillow,,GM017,9,5501,6001,04/07/24,5,30005
+1560,Graphics Card,Artwork for walls,,GC017,6,85001,90001,04/08/24,2,180002
+1561,Motherboard,Window coverings,,MB017,9,75001,80001,04/09/24,2,160002
+1562,CPU,A lamp for tables,,CPU017,11,70001,75001,04/10/24,2,150002
+1563,RAM,A device for adapting plugs,,RAM017,16,65001,70001,04/11/24,12,840012
+1564,Hard Drive,A portable charger,,HD017,13,22001,25001,04/12/24,4,100004
+1565,SSD,A portable data storage device,,SSD017,11,28001,30001,04/13/24,8,240008
+1566,Monitor,A mouse without cables,,MON017,6,80001,85001,04/14/24,2,170002
+1567,Printer Paper,A stand for laptops,,PP017,21,4001,4501,04/15/24,11,49511
+1568,Pencil,A mouse for gaming,,PCL017,26,131,141,04/16/24,25,3525
+1569,Eraser,A device for rendering graphics,,ER017,31,126,136,04/17/24,27,3672
+1570,Highlighter,A main circuit board,,HL017,16,281,301,04/18/24,15,4515
+1571,Scissors,A central processing unit,,SC017,11,751,801,04/19/24,8,6408
+1572,Staples,A type of computer memory,,STP017,9,136,146,04/20/24,5,730
+1573,File Organizer,A data storage device,,FO017,13,1401,1501,04/21/24,11,16511
+1574,Desk Lamp,A type of data storage device,,DLP018,11,4001,4501,04/22/24,4,18004
+1575,Desk Chair,A display screen,,DC017,6,40001,45001,04/23/24,3,135003
+1576,Coffee Table,A type of paper,,CT017,9,40001,45001,04/24/24,4,180004
+1577,Bookshelf,A writing instrument,,BS017,11,18001,20001,04/25/24,3,60003
+1578,TV Stand,A tool for erasing,,TVS017,13,16001,18001,04/26/24,6,108006
+1579,Nightstand,A marker for highlighting text,,NS017,6,18001,20001,04/27/24,4,80004
+1580,Sofa Bed,A cutting tool,,SFB017,9,90001,100001,04/28/24,2,200002
+1581,Area Rug,A type of fastener,,AR017,11,18001,20001,04/29/24,6,120006
+1582,Throw Pillow,A tool for organizing files,,TP017,13,5001,5501,04/30/24,9,49509
+1583,Wall Art,A lighting fixture,,WA017,16,6001,6501,05/01/24,3,19503
+1584,Curtains,A chair for a desk,,CRT018,21,6001,6501,05/02/24,17,110517
+1585,Table Lamp,A low table for coffee,,TL017,9,6001,6501,05/03/24,8,52008
+1586,Travel Adapter,A shelf for books,,TA019,11,4001,4501,05/04/24,6,27006
+1587,Power Bank,A stand for a television,,PB018,16,6001,6501,05/05/24,10,65010
+1588,USB Flash Drive,A small table by a bed,,UFD018,21,5001,5501,05/06/24,2,11002
+1589,Wireless Mouse,A sofa that can be converted into a bed,,WM018,16,5501,6001,05/07/24,8,48008
+1590,Laptop Stand,A rug for the floor,,LS018,11,5501,6001,05/08/24,8,48008
+1591,Gaming Mouse,A decorative pillow,,GM018,9,6001,6501,05/09/24,2,13002
+1592,Graphics Card,Artwork for walls,,GC018,6,90001,95001,05/10/24,2,190002
+1593,Motherboard,Window coverings,,MB018,9,80001,85001,05/11/24,6,510006
+1594,CPU,A lamp for tables,,CPU018,11,75001,80001,05/12/24,9,720009
+1595,RAM,A device for adapting plugs,,RAM018,16,70001,75001,05/13/24,9,675009
+1596,Hard Drive,A portable charger,,HD018,13,25001,28001,05/14/24,8,224008
+1597,SSD,A portable data storage device,,SSD018,11,30001,32001,05/15/24,6,192006
+1598,Monitor,A mouse without cables,,MON018,6,85001,90001,05/16/24,4,360004
+1599,Printer Paper,A stand for laptops,,PP018,21,4501,5001,05/17/24,2,10002
+1600,Pencil,A mouse for gaming,,PCL018,26,141,151,05/18/24,14,2114
+1601,Eraser,A device for rendering graphics,,ER018,31,136,146,05/19/24,19,2774
+1602,Highlighter,A main circuit board,,HL018,16,301,321,05/20/24,3,963
+1603,Scissors,A central processing unit,,SC018,11,801,851,05/21/24,4,3404
+1604,Staples,A type of computer memory,,STP018,9,146,156,05/22/24,3,468
+1605,File Organizer,A data storage device,,FO018,13,1501,1601,05/23/24,6,9606
+1606,Desk Lamp,A type of data storage device,,DLP019,11,4501,5001,05/24/24,7,35007
+1607,Desk Chair,A display screen,,DC018,6,45001,50001,05/25/24,3,150003
+1608,Coffee Table,A type of paper,,CT018,9,45001,50001,05/26/24,8,400008
+1609,Bookshelf,A writing instrument,,BS018,11,20001,22001,05/27/24,8,176008
+1610,TV Stand,A tool for erasing,,TVS018,13,18001,20001,05/28/24,7,140007
+1611,Nightstand,A marker for highlighting text,,NS018,6,20001,22001,05/29/24,5,110005
+1612,Sofa Bed,A cutting tool,,SFB018,9,100001,110001,05/30/24,8,880008
+1613,Area Rug,A type of fastener,,AR018,11,20001,22001,05/31/24,3,66003
+1614,Throw Pillow,A tool for organizing files,,TP018,13,5501,6001,06/01/24,10,60010
+1615,Wall Art,A lighting fixture,,WA018,16,6501,7001,06/02/24,15,105015
+1616,Curtains,A chair for a desk,,CRT019,21,6501,7001,06/03/24,6,42006
+1617,Table Lamp,A low table for coffee,,TL018,9,6501,7001,06/04/24,2,14002
+1618,Travel Adapter,A shelf for books,,TA020,11,4501,5001,06/05/24,5,25005
+1619,Power Bank,A stand for a television,,PB019,16,6501,7001,06/06/24,13,91013
+1620,USB Flash Drive,A small table by a bed,,UFD019,21,5501,6001,06/07/24,2,12002
+1621,Wireless Mouse,A sofa that can be converted into a bed,,WM019,16,6001,6501,06/08/24,8,52008
+1622,Laptop Stand,A rug for the floor,,LS019,11,6001,6501,06/09/24,5,32505
+1623,Gaming Mouse,A decorative pillow,,GM019,9,6501,7001,06/10/24,4,28004
+1624,Graphics Card,Artwork for walls,,GC019,6,95001,100001,06/11/24,5,500005
+1625,Motherboard,Window coverings,,MB019,9,85001,90001,06/12/24,5,450005
+1626,CPU,A lamp for tables,,CPU019,11,80001,85001,06/13/24,3,255003
+1627,RAM,A device for adapting plugs,,RAM019,16,75001,80001,06/14/24,12,960012
+1628,Hard Drive,A portable charger,,HD019,13,28001,30001,06/15/24,9,270009
+1629,SSD,A portable data storage device,,SSD019,11,32001,35001,06/16/24,3,105003
+1630,Monitor,A mouse without cables,,MON019,6,90001,95001,06/17/24,4,380004
+1631,Printer Paper,A stand for laptops,,PP019,21,5001,5501,06/18/24,8,44008
+1632,Pencil,A mouse for gaming,,PCL019,26,151,161,06/19/24,25,4025
+1633,Eraser,A device for rendering graphics,,ER019,31,146,156,06/20/24,12,1872
+1634,Highlighter,A main circuit board,,HL019,16,321,341,06/21/24,5,1705
+1635,Scissors,A central processing unit,,SC019,11,851,901,06/22/24,10,9010
+1636,Staples,A type of computer memory,,STP019,9,156,166,06/23/24,2,332
+1637,File Organizer,A data storage device,,FO019,13,1601,1701,06/24/24,6,10206
+1638,Desk Lamp,A type of data storage device,,DLP020,11,5001,5501,06/25/24,10,55010
+1639,Desk Chair,A display screen,,DC019,6,50001,55001,06/26/24,4,220004
+1640,Coffee Table,A type of paper,,CT019,9,50001,55001,06/27/24,7,385007
+1641,Bookshelf,A writing instrument,,BS019,11,22001,24001,06/28/24,6,144006
+1642,TV Stand,A tool for erasing,,TVS019,13,20001,22001,06/29/24,12,264012
+1643,Nightstand,A marker for highlighting text,,NS019,6,22001,24001,06/30/24,3,72003
+1644,Sofa Bed,A cutting tool,,SFB019,9,110001,120001,07/01/24,6,720006
+1645,Area Rug,A type of fastener,,AR019,11,22001,24001,07/02/24,8,192008
+1646,Throw Pillow,A tool for organizing files,,TP019,13,6001,6501,07/03/24,9,58509
+1647,Wall Art,A lighting fixture,,WA019,16,7001,7501,07/04/24,6,45006
+1648,Curtains,A chair for a desk,,CRT020,21,7001,7501,07/05/24,18,135018
+1649,Table Lamp,A low table for coffee,,TL019,9,7001,7501,07/06/24,7,52507
+1650,Travel Adapter,A shelf for books,,TA021,11,5001,5501,07/07/24,5,27505
+1651,Power Bank,A stand for a television,,PB020,16,7001,7501,07/08/24,10,75010
+1652,USB Flash Drive,A small table by a bed,,UFD020,21,6001,6501,07/09/24,9,58509
+1653,Wireless Mouse,A sofa that can be converted into a bed,,WM020,16,6501,7001,07/10/24,10,70010
+1654,Laptop Stand,A rug for the floor,,LS020,11,6501,7001,07/11/24,8,56008
+1655,Gaming Mouse,A decorative pillow,,GM020,9,7001,7501,07/12/24,7,52507
+1656,Graphics Card,Artwork for walls,,GC020,6,100001,105001,07/13/24,2,210002
+1657,Motherboard,Window coverings,,MB020,9,90001,95001,07/14/24,2,190002
+1658,CPU,A lamp for tables,,CPU020,11,85001,90001,07/15/24,3,270003
+1659,RAM,A device for adapting plugs,,RAM020,16,80001,85001,07/16/24,2,170002
+1660,Hard Drive,A portable charger,,HD020,13,30001,32001,07/17/24,9,288009
+1661,SSD,A portable data storage device,,SSD020,11,35001,38001,07/18/24,6,228006
+1662,Monitor,A mouse without cables,,MON020,6,95001,100001,07/19/24,4,400004
+1663,Printer Paper,A stand for laptops,,PP020,21,5501,6001,07/20/24,16,96016
+1664,Pencil,A mouse for gaming,,PCL020,26,161,171,07/21/24,18,3078
+1665,Eraser,A device for rendering graphics,,ER020,31,156,166,07/22/24,15,2490
+1666,Highlighter,A main circuit board,,HL020,16,341,361,07/23/24,12,4332
+1667,Scissors,A central processing unit,,SC020,11,901,951,07/24/24,9,8559
+1668,Staples,A type of computer memory,,STP020,9,166,176,07/25/24,8,1408
+1669,File Organizer,A data storage device,,FO020,13,1701,1801,07/26/24,10,18010
+1670,Desk Lamp,A type of data storage device,,DLP021,11,5501,6001,07/27/24,10,60010
+1671,Desk Chair,A display screen,,DC020,6,55001,60001,07/28/24,4,240004
+1672,Coffee Table,A type of paper,,CT020,9,55001,60001,07/29/24,2,120002
+1673,Bookshelf,A writing instrument,,BS020,11,24001,26001,07/30/24,7,182007
+1674,TV Stand,A tool for erasing,,TVS020,13,22001,24001,07/31/24,2,48002
+1675,Nightstand,A marker for highlighting text,,NS020,6,24001,26001,08/01/24,2,52002
+1676,Sofa Bed,A cutting tool,,SFB020,9,120001,130001,08/02/24,5,650005
+1677,Area Rug,A type of fastener,,AR020,11,24001,26001,08/03/24,7,182007
+1678,Throw Pillow,A tool for organizing files,,TP020,13,6501,7001,08/04/24,7,49007
+1679,Wall Art,A lighting fixture,,WA020,16,7501,8001,08/05/24,12,96012
+1680,Curtains,A chair for a desk,,CRT021,21,7501,8001,08/06/24,8,64008
+1681,Table Lamp,A low table for coffee,,TL020,9,7501,8001,08/07/24,2,16002
+1682,Travel Adapter,A shelf for books,,TA022,11,5501,6001,08/08/24,5,30005
+1683,Power Bank,A stand for a television,,PB021,16,7501,8001,08/09/24,4,32004
+1684,USB Flash Drive,A small table by a bed,,UFD021,21,6501,7001,08/10/24,7,49007
+1685,Wireless Mouse,A sofa that can be converted into a bed,,WM021,16,7001,7501,08/11/24,10,75010
+1686,Laptop Stand,A rug for the floor,,LS021,11,7001,7501,08/12/24,4,30004
+1687,Gaming Mouse,A decorative pillow,,GM021,9,7501,8001,08/13/24,5,40005
+1688,Graphics Card,Artwork for walls,,GC021,6,105001,110001,08/14/24,5,550005
+1689,Motherboard,Window coverings,,MB021,9,95001,100001,08/15/24,7,700007
+1690,CPU,A writing instrument,,CPU021,11,90001,95001,08/16/24,5,475005
+1691,RAM,A tool for erasing,,RAM021,16,85001,90001,08/17/24,6,540006
+1692,Hard Drive,A marker for highlighting text,,HD021,13,32001,35001,08/18/24,12,420012
+1693,SSD,A cutting tool,,SSD021,11,38001,40001,08/19/24,4,160004
+1694,Monitor,A type of fastener,,MON021,6,100001,105001,08/20/24,5,525005
+1695,Printer Paper,A tool for organizing files,,PP021,21,6001,6501,08/21/24,20,130020
+1696,Pencil,A lighting fixture,,PCL021,26,171,181,08/22/24,23,4163
+1697,Eraser,A chair for a desk,,ER021,31,166,176,08/23/24,5,880
+1698,Highlighter,A low table for coffee,,HL021,16,361,381,08/24/24,4,1524
+1699,Scissors,A shelf for books,,SC021,11,951,1001,08/25/24,10,10010
+1700,Staples,A stand for a television,,STP021,9,176,186,08/26/24,7,1302
+1701,File Organizer,A small table by a bed,,FO021,13,1801,1901,08/27/24,11,20911
+1702,Desk Lamp,A sofa that can be converted into a bed,,DLP022,11,6001,6501,08/28/24,9,58509
+1703,Desk Chair,A rug for the floor,,DC021,6,60001,65001,08/29/24,5,325005
+1704,Coffee Table,A decorative pillow,,CT021,9,60001,65001,08/30/24,8,520008
+1705,Bookshelf,Artwork for walls,,BS021,11,26001,28001,08/31/24,7,196007
+1706,TV Stand,Window coverings,,TVS021,13,24001,26001,09/01/24,10,260010
+1707,Nightstand,A lamp for tables,,NS021,6,26001,28001,09/02/24,3,84003
+1708,Sofa Bed,A device for adapting plugs,,SFB021,9,130001,140001,09/03/24,3,420003
+1709,Area Rug,A portable charger,,AR021,11,26001,28001,09/04/24,4,112004
+1710,Throw Pillow,A portable data storage device,,TP021,13,7001,7501,09/05/24,5,37505
+1711,Wall Art,A mouse without cables,,WA021,16,8001,8501,09/06/24,3,25503
+1712,Curtains,A stand for laptops,,CRT022,21,8001,8501,09/07/24,10,85010
+1713,Table Lamp,A mouse for gaming,,TL021,9,8001,8501,09/08/24,8,68008
+1714,Travel Adapter,A device for rendering graphics,,TA023,11,6001,6501,09/09/24,3,19503
+1715,Power Bank,A main circuit board,,PB022,16,8001,8501,09/10/24,8,68008
+1716,USB Flash Drive,A central processing unit,,UFD022,21,7001,7501,09/11/24,13,97513
+1717,Wireless Mouse,A type of computer memory,,WM022,16,7501,8001,09/12/24,12,96012
+1718,Laptop Stand,A data storage device,,LS022,11,7501,8001,09/13/24,2,16002
+1719,Gaming Mouse,A type of data storage device,,GM022,9,8001,8501,09/14/24,7,59507
+1720,Graphics Card,A display screen,,GC022,6,110001,115001,09/15/24,2,230002
+1721,Motherboard,A type of paper,,MB022,9,100001,105001,09/16/24,2,210002
+1722,CPU,A writing instrument,,CPU022,11,95001,100001,09/17/24,8,800008
+1723,RAM,A tool for erasing,,RAM022,16,90001,95001,09/18/24,12,1140012
+1724,Hard Drive,A marker for highlighting text,,HD022,13,35001,38001,09/19/24,11,418011
+1725,SSD,A cutting tool,,SSD022,11,40001,42001,09/20/24,7,294007
+1726,Monitor,A type of fastener,,MON022,6,105001,110001,09/21/24,3,330003
+1727,Printer Paper,A tool for organizing files,,PP022,21,6501,7001,09/22/24,6,42006
+1728,Pencil,A lighting fixture,,PCL022,26,181,191,09/23/24,25,4775
+1729,Eraser,A chair for a desk,,ER022,31,176,186,09/24/24,4,744
+1730,Highlighter,A low table for coffee,,HL022,16,381,401,09/25/24,13,5213
+1731,Scissors,A shelf for books,,SC022,11,1001,1051,09/26/24,4,4204
+1732,Staples,A stand for a television,,STP022,9,186,196,09/27/24,8,1568
+1733,File Organizer,A small table by a bed,,FO022,13,1901,2001,09/28/24,4,8004
+1734,Desk Lamp,A sofa that can be converted into a bed,,DLP023,11,6501,7001,09/29/24,9,63009
+1735,Desk Chair,A rug for the floor,,DC022,6,65001,70001,09/30/24,4,280004
+1736,Coffee Table,A decorative pillow,,CT022,9,65001,70001,10/01/24,6,420006
+1737,Bookshelf,Artwork for walls,,BS022,11,28001,30001,10/02/24,4,120004
+1738,TV Stand,Window coverings,,TVS022,13,26001,28001,10/03/24,10,280010
+1739,Nightstand,A lamp for tables,,NS022,6,28001,30001,10/04/24,3,90003
+1740,Sofa Bed,A device for adapting plugs,,SFB022,9,140001,150001,10/05/24,8,1200008
+1741,Area Rug,A portable charger,,AR022,11,28001,30001,10/06/24,9,270009
+1742,Throw Pillow,A portable data storage device,,TP022,13,7501,8001,10/07/24,4,32004
+1743,Wall Art,A mouse without cables,,WA022,16,8501,9001,10/08/24,8,72008
+1744,Curtains,A stand for laptops,,CRT023,21,8501,9001,10/09/24,9,81009
+1745,Table Lamp,A mouse for gaming,,TL022,9,8501,9001,10/10/24,3,27003
+1746,Travel Adapter,A device for rendering graphics,,TA024,11,6501,7001,10/11/24,10,70010
+1747,Power Bank,A main circuit board,,PB023,16,8501,9001,10/12/24,4,36004
+1748,USB Flash Drive,A central processing unit,,UFD023,21,7501,8001,10/13/24,5,40005
+1749,Wireless Mouse,A type of computer memory,,WM023,16,8001,8501,10/14/24,4,34004
+1750,Laptop Stand,A data storage device,,LS023,11,8001,8501,10/15/24,5,42505
+1751,Gaming Mouse,A type of data storage device,,GM023,9,8501,9001,10/16/24,6,54006
+1752,Graphics Card,A display screen,,GC023,6,115001,120001,10/17/24,5,600005
+1753,Motherboard,A type of paper,,MB023,9,105001,110001,10/18/24,2,220002
+1754,CPU,A writing instrument,,CPU023,11,100001,105001,10/19/24,10,1050010
+1755,RAM,A tool for erasing,,RAM023,16,95001,100001,10/20/24,3,300003
+1756,Hard Drive,A marker for highlighting text,,HD023,13,38001,40001,10/21/24,7,280007
+1757,SSD,A cutting tool,,SSD023,11,42001,45001,10/22/24,10,450010
+1758,Monitor,A type of fastener,,MON023,6,110001,115001,10/23/24,5,575005
+1759,Printer Paper,A tool for organizing files,,PP023,21,7001,7501,10/24/24,17,127517
+1760,Pencil,A lighting fixture,,PCL023,26,191,201,10/25/24,23,4623
+1761,Eraser,A chair for a desk,,ER023,31,186,196,10/26/24,7,1372
+1762,Highlighter,A low table for coffee,,HL023,16,401,421,10/27/24,6,2526
+1763,Scissors,A shelf for books,,SC023,11,1051,1101,10/28/24,5,5505
+1764,Staples,A stand for a television,,STP023,9,196,206,10/29/24,6,1236
+1765,File Organizer,A small table by a bed,,FO023,13,2001,2101,10/30/24,7,14707
+1766,Desk Lamp,A sofa that can be converted into a bed,,DLP024,11,7001,7501,10/31/24,4,30004
+1767,Desk Chair,A rug for the floor,,DC023,6,70001,75001,11/01/24,4,300004
+1768,Coffee Table,A decorative pillow,,CT023,9,70001,75001,11/02/24,8,600008
+1769,Bookshelf,Artwork for walls,,BS023,11,30001,32001,11/03/24,8,256008
+1770,TV Stand,Window coverings,,TVS023,13,28001,30001,11/04/24,11,330011
+1771,Nightstand,A lamp for tables,,NS023,6,30001,32001,11/05/24,5,160005
+1772,Sofa Bed,A device for adapting plugs,,SFB023,9,150001,160001,11/06/24,8,1280008
+1773,Area Rug,A portable charger,,AR023,11,30001,32001,11/07/24,2,64002
+1774,Throw Pillow,A portable data storage device,,TP023,13,8001,8501,11/08/24,5,42505
+1775,Wall Art,A mouse without cables,,WA023,16,9001,9501,11/09/24,5,47505
+1776,Curtains,A stand for laptops,,CRT024,21,9001,9501,11/10/24,10,95010
+1777,Table Lamp,A mouse for gaming,,TL023,9,9001,9501,11/11/24,2,19002
+1778,Travel Adapter,A device for rendering graphics,,TA025,11,7001,7501,11/12/24,2,15002
+1779,Power Bank,A main circuit board,,PB024,16,9001,9501,11/13/24,5,47505
+1780,USB Flash Drive,A central processing unit,,UFD024,21,8001,8501,11/14/24,11,93511
+1781,Wireless Mouse,A type of computer memory,,WM024,16,8501,9001,11/15/24,15,135015
+1782,Laptop Stand,A data storage device,,LS024,11,8501,9001,11/16/24,9,81009
+1783,Gaming Mouse,A type of data storage device,,GM024,9,9001,9501,11/17/24,7,66507
+1784,Graphics Card,A display screen,,GC024,6,120001,125001,11/18/24,3,375003
+1785,Motherboard,A type of paper,,MB024,9,110001,115001,11/19/24,8,920008
+1786,CPU,A writing instrument,,CPU024,11,105001,110001,11/20/24,3,330003
+1787,RAM,A tool for erasing,,RAM024,16,100001,105001,11/21/24,6,630006
+1788,Hard Drive,A marker for highlighting text,,HD024,13,40001,42001,11/22/24,10,420010
+1789,SSD,A cutting tool,,SSD024,11,45001,48001,11/23/24,10,480010
+1790,Monitor,A type of fastener,,MON024,6,115001,120001,11/24/24,2,240002
+1791,Printer Paper,A tool for organizing files,,PP024,21,7501,8001,11/25/24,5,40005
+1792,Pencil,A lighting fixture,,PCL024,26,201,211,11/26/24,13,2743
+1793,Eraser,A chair for a desk,,ER024,31,196,206,11/27/24,27,5562
+1794,Highlighter,A low table for coffee,,HL024,16,421,441,11/28/24,2,882
+1795,Scissors,A shelf for books,,SC024,11,1101,1151,11/29/24,7,8057
+1796,Staples,A stand for a television,,STP024,9,206,216,11/30/24,4,864
+1797,File Organizer,A small table by a bed,,FO024,13,2101,2201,12/01/24,8,17608
+1798,Desk Lamp,A sofa that can be converted into a bed,,DLP025,11,7501,8001,12/02/24,3,24003
+1799,Desk Chair,A rug for the floor,,DC024,6,75001,80001,12/03/24,3,240003
+1800,Coffee Table,A decorative pillow,,CT024,9,75001,80001,12/04/24,8,640008
+1801,Bookshelf,Artwork for walls,,BS024,11,32001,34001,12/05/24,3,102003
+1802,TV Stand,Window coverings,,TVS024,13,30001,32001,12/06/24,10,320010
+1803,Nightstand,A lamp for tables,,NS024,6,32001,34001,12/07/24,5,170005
+1804,Sofa Bed,A device for adapting plugs,,SFB024,9,160001,170001,12/08/24,4,680004
+1805,Area Rug,A portable charger,,AR024,11,32001,34001,12/09/24,6,204006
+1806,Throw Pillow,A portable data storage device,,TP024,13,8501,9001,12/10/24,7,63007
+1807,Wall Art,A mouse without cables,,WA024,16,9501,10001,12/11/24,13,130013
+1808,Curtains,A stand for laptops,,CRT025,21,9501,10001,12/12/24,7,70007
+1809,Table Lamp,A mouse for gaming,,TL024,9,9501,10001,12/13/24,6,60006
+1810,Travel Adapter,A device for rendering graphics,,TA026,11,7501,8001,12/14/24,3,24003
+1811,Power Bank,A main circuit board,,PB025,16,9501,10001,12/15/24,5,50005
+1812,USB Flash Drive,A central processing unit,,UFD025,21,8501,9001,12/16/24,7,63007
+1813,Wireless Mouse,A type of computer memory,,WM025,16,9001,9501,12/17/24,6,57006
+1814,Laptop Stand,A data storage device,,LS025,11,9001,9501,12/18/24,6,57006
+1815,Gaming Mouse,A type of data storage device,,GM025,9,9501,10001,12/19/24,5,50005
+1816,Graphics Card,A display screen,,GC025,6,125001,130001,12/20/24,4,520004
+1817,Motherboard,A type of paper,,MB025,9,115001,120001,12/21/24,7,840007
+1818,CPU,A writing instrument,,CPU025,11,110001,115001,12/22/24,8,920008
+1819,RAM,A tool for erasing,,RAM025,16,105001,110001,12/23/24,3,330003
+1820,Hard Drive,A marker for highlighting text,,HD025,13,42001,45001,12/24/24,7,315007
+1821,SSD,A cutting tool,,SSD025,11,48001,50001,12/25/24,9,450009
+1822,Monitor,A type of fastener,,MON025,6,120001,125001,12/26/24,4,500004
+1823,Printer Paper,A tool for organizing files,,PP025,21,8001,8501,12/27/24,9,76509
+1824,Pencil,A lighting fixture,,PCL025,26,211,221,12/28/24,18,3978
+1825,Eraser,A chair for a desk,,ER025,31,206,216,12/29/24,28,6048
+1826,Highlighter,A low table for coffee,,HL025,16,441,461,12/30/24,3,1383
+1827,Scissors,A shelf for books,,SC025,11,1151,1201,12/31/24,9,10809
+1828,Staples,A stand for a television,,STP025,9,216,226,01/01/25,2,452
+1829,File Organizer,A small table by a bed,,FO025,13,2201,2301,01/02/25,11,25311
+1830,Desk Lamp,A sofa that can be converted into a bed,,DLP026,11,8001,8501,01/03/25,6,51006
+1831,Desk Chair,A rug for the floor,,DC025,6,80001,85001,01/04/25,3,255003
+1832,Coffee Table,A decorative pillow,,CT025,9,80001,85001,01/05/25,8,680008
+1833,Bookshelf,Artwork for walls,,BS025,11,34001,36001,01/06/25,5,180005
+1834,TV Stand,Window coverings,,TVS025,13,32001,34001,01/07/25,10,340010
+1835,Nightstand,A lamp for tables,,NS025,6,34001,36001,01/08/25,2,72002
+1836,Sofa Bed,A device for adapting plugs,,SFB025,9,170001,180001,01/09/25,5,900005
+1837,Area Rug,A portable charger,,AR025,11,34001,36001,01/10/25,9,324009
+1838,Throw Pillow,A portable data storage device,,TP025,13,9001,9501,01/11/25,8,76008
+1839,Wall Art,A mouse without cables,,WA025,16,10001,10501,01/12/25,7,73507
+1840,Curtains,A stand for laptops,,CRT026,21,10001,10501,01/13/25,15,157515
+1841,Table Lamp,A mouse for gaming,,TL025,9,10001,10501,01/14/25,3,31503
+1842,Travel Adapter,A device for rendering graphics,,TA027,11,8001,8501,01/15/25,6,51006
+1843,Power Bank,A main circuit board,,PB026,16,10001,10501,01/16/25,12,126012
+1844,USB Flash Drive,A central processing unit,,UFD026,21,9001,9501,01/17/25,8,76008
+1845,Wireless Mouse,A type of computer memory,,WM026,16,9501,10001,01/18/25,6,60006
+1846,Laptop Stand,A data storage device,,LS026,11,9501,10001,01/19/25,10,100010
+1847,Gaming Mouse,A type of data storage device,,GM026,9,10001,10501,01/20/25,2,21002
+1848,Graphics Card,A display screen,,GC026,6,130001,135001,01/21/25,2,270002
+1849,Motherboard,A type of paper,,MB026,9,120001,125001,01/22/25,5,625005
+1850,CPU,A writing instrument,,CPU026,11,115001,120001,01/23/25,2,240002
+1851,RAM,A tool for erasing,,RAM026,16,110001,115001,01/24/25,7,805007
+1852,Hard Drive,A marker for highlighting text,,HD026,13,45001,48001,01/25/25,6,288006
+1853,SSD,A cutting tool,,SSD026,11,50001,52001,01/26/25,9,468009
+1854,Monitor,A type of fastener,,MON026,6,125001,130001,01/27/25,2,260002
+1855,Printer Paper,A tool for organizing files,,PP026,21,8501,9001,01/28/25,3,27003
+1856,Pencil,A lighting fixture,,PCL026,26,221,231,01/29/25,18,4158
+1857,Eraser,A chair for a desk,,ER026,31,216,226,01/30/25,5,1130
+1858,Highlighter,A low table for coffee,,HL026,16,461,481,01/31/25,3,1443
+1859,Scissors,A shelf for books,,SC026,11,1201,1251,02/01/25,5,6255
+1860,Staples,A stand for a television,,STP026,9,226,236,02/02/25,7,1652
+1861,File Organizer,A small table by a bed,,FO026,13,2301,2401,02/03/25,11,26411
+1862,Desk Lamp,A sofa that can be converted into a bed,,DLP027,11,8501,9001,02/04/25,6,54006
+1863,Desk Chair,A rug for the floor,,DC026,6,85001,90001,02/05/25,2,180002
+1864,Coffee Table,A decorative pillow,,CT026,9,85001,90001,02/06/25,4,360004
+1865,Bookshelf,Artwork for walls,,BS026,11,36001,38001,02/07/25,7,266007
+1866,TV Stand,Window coverings,,TVS026,13,34001,36001,02/08/25,10,360010
+1867,Nightstand,A lamp for tables,,NS026,6,36001,38001,02/09/25,3,114003
+1868,Sofa Bed,A device for adapting plugs,,SFB026,9,180001,190001,02/10/25,2,380002
+1869,Area Rug,A portable charger,,AR026,11,36001,38001,02/11/25,6,228006
+1870,Throw Pillow,A portable data storage device,,TP026,13,9501,10001,02/12/25,12,120012
+1871,Wall Art,A mouse without cables,,WA026,16,10501,11001,02/13/25,9,99009
+1872,Curtains,A stand for laptops,,CRT027,21,10501,11001,02/14/25,20,220020
+1873,Table Lamp,A mouse for gaming,,TL026,9,10501,11001,02/15/25,5,55005
+1874,Travel Adapter,A device for rendering graphics,,TA028,11,8501,9001,02/16/25,7,63007
+1875,Power Bank,A main circuit board,,PB027,16,10501,11001,02/17/25,5,55005
+1876,USB Flash Drive,A central processing unit,,UFD027,21,9501,10001,02/18/25,20,200020
+1877,Wireless Mouse,A type of computer memory,,WM027,16,10001,10501,02/19/25,2,21002
+1878,Laptop Stand,A data storage device,,LS027,11,10001,10501,02/20/25,2,21002
+1879,Gaming Mouse,A type of data storage device,,GM027,9,10501,11001,02/21/25,7,77007
+1880,Graphics Card,A display screen,,GC027,6,135001,140001,02/22/25,4,560004
+1881,Motherboard,A type of paper,,MB027,9,125001,130001,02/23/25,7,910007
+1882,CPU,A writing instrument,,CPU027,11,120001,125001,02/24/25,4,500004
+1883,RAM,A tool for erasing,,RAM027,16,115001,120001,02/25/25,9,1080009
+1884,Hard Drive,A marker for highlighting text,,HD027,13,48001,50001,02/26/25,11,550011
+1885,SSD,A cutting tool,,SSD027,11,52001,55001,02/27/25,6,330006
+1886,Monitor,A type of fastener,,MON027,6,130001,135001,02/28/25,2,270002
+1887,Printer Paper,A tool for organizing files,,PP027,21,9001,9501,03/01/25,15,142515
+1888,Pencil,A lighting fixture,,PCL027,26,231,241,03/02/25,23,5543
+1889,Eraser,A chair for a desk,,ER027,31,226,236,03/03/25,24,5664
+1890,Highlighter,A low table for coffee,,HL027,16,481,501,03/04/25,2,1002
+1891,Scissors,A shelf for books,,SC027,11,1251,1301,03/05/25,7,9107
+1892,Staples,A stand for a television,,STP027,9,236,246,03/06/25,7,1722
+1893,File Organizer,A small table by a bed,,FO027,13,2401,2501,03/07/25,10,25010
+1894,Desk Lamp,A sofa that can be converted into a bed,,DLP028,11,9001,9501,03/08/25,4,38004
+1895,Desk Chair,A rug for the floor,,DC027,6,90001,95001,03/09/25,2,190002
+1896,Coffee Table,A decorative pillow,,CT027,9,90001,95001,03/10/25,6,570006
+1897,Bookshelf,Artwork for walls,,BS027,11,38001,40001,03/11/25,8,320008
+1898,TV Stand,Window coverings,,TVS027,13,36001,38001,03/12/25,6,228006
+1899,Nightstand,A lamp for tables,,NS027,6,38001,40001,03/13/25,2,80002
+1900,Sofa Bed,A device for adapting plugs,,SFB027,9,190001,200001,03/14/25,8,1600008
+1901,Area Rug,A portable charger,,AR027,11,38001,40001,03/15/25,8,320008
+1902,Throw Pillow,A portable data storage device,,TP027,13,10001,10501,03/16/25,2,21002
+1903,Wall Art,A mouse without cables,,WA027,16,11001,11501,03/17/25,2,23002
+1904,Curtains,A stand for laptops,,CRT028,21,11001,11501,03/18/25,10,115010
+1905,Table Lamp,A mouse for gaming,,TL027,9,11001,11501,03/19/25,4,46004
+1906,Travel Adapter,A device for rendering graphics,,TA029,11,9001,9501,03/20/25,8,76008
+1907,Power Bank,A main circuit board,,PB028,16,11001,11501,03/21/25,6,69006
+1908,USB Flash Drive,A central processing unit,,UFD028,21,10001,10501,03/22/25,6,63006
+1909,Wireless Mouse,A type of computer memory,,WM028,16,10501,11001,03/23/25,14,154014
+1910,Laptop Stand,A data storage device,,LS028,11,10501,11001,03/24/25,7,77007
+1911,Gaming Mouse,A type of data storage device,,GM028,9,11001,11501,03/25/25,6,69006
+1912,Graphics Card,A display screen,,GC028,6,140001,145001,03/26/25,4,580004
+1913,Motherboard,A type of paper,,MB028,9,130001,135001,03/27/25,7,945007
+1914,CPU,A writing instrument,,CPU028,11,125001,130001,03/28/25,6,780006
+1915,RAM,A tool for erasing,,RAM028,16,120001,125001,03/29/25,7,875007
+1916,Hard Drive,A marker for highlighting text,,HD028,13,50001,52001,03/30/25,4,208004
+1917,SSD,A cutting tool,,SSD028,11,55001,58001,03/31/25,6,348006
+1918,Monitor,A type of fastener,,MON028,6,135001,140001,04/01/25,3,420003
+1919,Printer Paper,A tool for organizing files,,PP028,21,9501,10001,04/02/25,12,120012
+1920,Pencil,A lighting fixture,,PCL028,26,241,251,04/03/25,24,6024
+1921,Eraser,A chair for a desk,,ER028,31,236,246,04/04/25,28,6888
+1922,Highlighter,A low table for coffee,,HL028,16,501,521,04/05/25,11,5731
+1923,Scissors,A shelf for books,,SC028,11,1301,1351,04/06/25,3,4053
+1924,Staples,A stand for a television,,STP028,9,246,256,04/07/25,4,1024
+1925,File Organizer,A small table by a bed,,FO028,13,2501,2601,04/08/25,5,13005
+1926,Desk Lamp,A sofa that can be converted into a bed,,DLP029,11,9501,10001,04/09/25,8,80008
+1927,Desk Chair,A rug for the floor,,DC028,6,95001,100001,04/10/25,3,300003
+1928,Coffee Table,A decorative pillow,,CT028,9,95001,100001,04/11/25,8,800008
+1929,Bookshelf,Artwork for walls,,BS028,11,40001,42001,04/12/25,9,378009
+1930,TV Stand,Window coverings,,TVS028,13,38001,40001,04/13/25,8,320008
+1931,Nightstand,A lamp for tables,,NS028,6,40001,42001,04/14/25,5,210005
+1932,Sofa Bed,A device for adapting plugs,,SFB028,9,200001,210001,04/15/25,7,1470007
+1933,Area Rug,A portable charger,,AR028,11,40001,42001,04/16/25,6,252006
+1934,Throw Pillow,A portable data storage device,,TP028,13,10501,11001,04/17/25,4,44004
+1935,Wall Art,A mouse without cables,,WA028,16,11501,12001,04/18/25,3,36003
+1936,Curtains,A stand for laptops,,CRT029,21,11501,12001,04/19/25,10,120010
+1937,Table Lamp,A mouse for gaming,,TL028,9,11501,12001,04/20/25,8,96008
+1938,Travel Adapter,A device for rendering graphics,,TA030,11,9501,10001,04/21/25,4,40004
+1939,Power Bank,A main circuit board,,PB029,16,11501,12001,04/22/25,13,156013
+1940,USB Flash Drive,A central processing unit,,UFD029,21,10501,11001,04/23/25,5,55005
+1941,Wireless Mouse,A type of computer memory,,WM029,16,11001,11501,04/24/25,3,34503
+1942,Laptop Stand,A data storage device,,LS029,11,11001,11501,04/25/25,2,23002
+1943,Gaming Mouse,A type of data storage device,,GM029,9,11501,12001,04/26/25,6,72006
+1944,Graphics Card,A display screen,,GC029,6,145001,150001,04/27/25,3,450003
+1945,Motherboard,A type of paper,,MB029,9,135001,140001,04/28/25,4,560004
+1946,CPU,A writing instrument,,CPU029,11,130001,135001,04/29/25,2,270002
+1947,RAM,A tool for erasing,,RAM029,16,125001,130001,04/30/25,7,910007
+1948,Hard Drive,A marker for highlighting text,,HD029,13,52001,55001,05/01/25,4,220004
+1949,SSD,A cutting tool,,SSD029,11,58001,61001,05/02/25,4,244004
+1950,Monitor,A type of fastener,,MON029,6,140001,145001,05/03/25,5,725005
+1951,Printer Paper,A tool for organizing files,,PP029,21,10001,10501,05/04/25,10,105010
+1952,Pencil,A lighting fixture,,PCL029,26,251,261,05/05/25,9,2349
+1953,Eraser,A chair for a desk,,ER029,31,246,256,05/06/25,6,1536
+1954,Highlighter,A low table for coffee,,HL029,16,521,541,05/07/25,12,6492
+1955,Scissors,A shelf for books,,SC029,11,1351,1401,05/08/25,2,2802
+1956,Staples,A stand for a television,,STP029,9,256,266,05/09/25,2,532
+1957,File Organizer,A small table by a bed,,FO029,13,2601,2701,05/10/25,7,18907
+1958,Desk Lamp,A sofa that can be converted into a bed,,DLP030,11,10001,10501,05/11/25,4,42004
+1959,Desk Chair,A rug for the floor,,DC029,6,100001,105001,05/12/25,4,420004
+1960,Coffee Table,A decorative pillow,,CT029,9,100001,105001,05/13/25,5,525005
+1961,Bookshelf,Artwork for walls,,BS029,11,42001,44001,05/14/25,2,88002
+1962,TV Stand,Window coverings,,TVS029,13,40001,42001,05/15/25,7,294007
+1963,Nightstand,A lamp for tables,,NS029,6,42001,44001,05/16/25,4,176004
+1964,Sofa Bed,A device for adapting plugs,,SFB029,9,210001,220001,05/17/25,2,440002
+1965,Area Rug,A portable charger,,AR029,11,42001,44001,05/18/25,7,308007
+1966,Throw Pillow,A portable data storage device,,TP029,13,11001,11501,05/19/25,4,46004
+1967,Wall Art,A mouse without cables,,WA029,16,12001,12501,05/20/25,4,50004
+1968,Curtains,A stand for laptops,,CRT030,21,12001,12501,05/21/25,9,112509
+1969,Table Lamp,A mouse for gaming,,TL029,9,12001,12501,05/22/25,3,37503
+1970,Travel Adapter,A device for rendering graphics,,TA031,11,10001,10501,05/23/25,2,21002
+1971,Power Bank,A main circuit board,,PB030,16,12001,12501,05/24/25,5,62505
+1972,USB Flash Drive,A central processing unit,,UFD030,21,11001,11501,05/25/25,15,172515
+1973,Wireless Mouse,A type of computer memory,,WM030,16,11501,12001,05/26/25,12,144012
+1974,Laptop Stand,A data storage device,,LS030,11,11501,12001,05/27/25,4,48004
+1975,Gaming Mouse,A type of data storage device,,GM030,9,12001,12501,05/28/25,4,50004
+1976,Graphics Card,A display screen,,GC030,6,150001,155001,05/29/25,3,465003
+1977,Motherboard,A type of paper,,MB030,9,140001,145001,05/30/25,3,435003
+1978,CPU,A writing instrument,,CPU030,11,135001,140001,05/31/25,4,560004
+1979,RAM,A tool for erasing,,RAM030,16,130001,135001,06/01/25,5,675005
+1980,Hard Drive,A marker for highlighting text,,HD030,13,55001,58001,06/02/25,5,290005
+1981,SSD,A cutting tool,,SSD030,11,61001,64001,06/03/25,3,192003
+1982,Monitor,A type of fastener,,MON030,6,145001,150001,06/04/25,2,300002
+1983,Printer Paper,A tool for organizing files,,PP030,21,10501,11001,06/05/25,15,165015
+1984,Pencil,A lighting fixture,,PCL030,26,261,271,06/06/25,13,3523
+1985,Eraser,A chair for a desk,,ER030,31,256,266,06/07/25,9,2394
+1986,Highlighter,A low table for coffee,,HL030,16,541,561,06/08/25,14,7854
+1987,Scissors,A shelf for books,,SC030,11,1401,1451,06/09/25,5,7255
+1988,Staples,A stand for a television,,STP030,9,266,276,06/10/25,6,1656
+1989,File Organizer,A small table by a bed,,FO030,13,2701,2801,06/11/25,10,28010
+1990,Desk Lamp,A sofa that can be converted into a bed,,DLP031,11,10501,11001,06/12/25,6,66006
+1991,Desk Chair,A rug for the floor,,DC030,6,105001,110001,06/13/25,2,220002
+1992,Coffee Table,A decorative pillow,,CT030,9,105001,110001,06/14/25,3,330003
+1993,Bookshelf,Artwork for walls,,BS030,11,44001,46001,06/15/25,3,138003
+1994,TV Stand,Window coverings,,TVS030,13,42001,44001,06/16/25,2,88002
+1995,Nightstand,A lamp for tables,,NS030,6,44001,46001,06/17/25,4,184004
+1996,Sofa Bed,A device for adapting plugs,,SFB030,9,220001,230001,06/18/25,8,1840008
+1997,Area Rug,A portable charger,,AR030,11,44001,46001,06/19/25,3,138003
+1998,Throw Pillow,A portable data storage device,,TP030,13,11501,12001,06/20/25,9,108009
+1999,Wall Art,A mouse without cables,,WA030,16,12501,13001,06/21/25,4,52004
+2000,Curtains,A stand for laptops,,CRT031,21,12501,13001,06/22/25,3,39003
+2001,Laptop,A mouse for gaming,,LPT003,12,8002,10002,06/23/25,11,110022
+2002,Smartphone,A device for rendering graphics,,SPH003,17,6002,8002,06/24/25,13,104026
+2003,Headphones,A main circuit board,,HDP003,22,1002,1502,06/25/25,17,25534
+2004,T-Shirt,A central processing unit,,TSH003,32,602,802,06/26/25,23,18446
+2005,Jeans,A type of computer memory,,JNS003,27,1002,1202,06/27/25,5,6010
+2006,Apples,A data storage device,,APL003,42,202,302,06/28/25,36,10872
+2007,Oranges,A type of data storage device,,ORG003,37,152,252,06/29/25,27,6804
+2008,TV,A display screen,,TV003,14,12002,15002,06/30/25,6,90012
+2009,Shoes,A type of paper,,SHS003,20,1002,1502,07/01/25,6,9012
+2010,Backpack,A writing instrument,,BKP003,24,602,802,07/02/25,16,12832
+2011,Keyboard,A tool for erasing,,KBD003,10,1002,1202,07/03/25,7,8414
+2012,Mouse,A marker for highlighting text,,MS003,14,302,502,07/04/25,6,3012
+2013,Printer,A cutting tool,,PRT003,7,1502,2002,07/05/25,5,10010
+2014,Desk Lamp,A type of fastener,,DLP003,17,602,802,07/06/25,4,3208
+2015,Coffee Maker,A tool for organizing files,,CFM003,12,4002,5002,07/07/25,7,35014
+2016,Toaster,A lighting fixture,,TST003,22,802,1002,07/08/25,3,3006
+2017,Blender,A chair for a desk,,BLD003,20,1002,1202,07/09/25,16,19232
+2018,Jacket,A low table for coffee,,JKT003,22,702,902,07/10/25,4,3608
+2019,Dress,A shelf for books,,DRS003,17,1202,1502,07/11/25,9,13518
+2020,Watch,A stand for a television,,WCH003,12,2002,2502,07/12/25,3,7506
+2021,Sunglasses,A small table by a bed,,SG003,14,1002,1202,07/13/25,13,15626
+2022,Baseball Cap,A sofa that can be converted into a bed,,BC003,27,402,602,07/14/25,20,12040
+2023,Chocolate,A rug for the floor,,CHC003,32,52,102,07/15/25,19,1938
+2024,Cereal,A decorative pillow,,CRL003,22,82,122,07/16/25,7,854
+2025,Soft Drinks,Artwork for walls,,SD003,37,52,82,07/17/25,26,2132
+2026,Office Chair,Window coverings,,OC003,10,3002,3502,07/18/25,5,17510
+2027,Sofa,A lamp for tables,,SFA003,7,10002,12002,07/19/25,3,36006
+2028,Dining Table,A device for adapting plugs,,DT003,14,6002,8002,07/20/25,6,48012
+2029,Bed,A portable charger,,BD003,5,24002,28002,07/21/25,4,112008
+2030,Rug,A portable data storage device,,RG003,12,2002,2502,07/22/25,6,15012
+2031,Wall Clock,A mouse without cables,,WC003,17,802,1002,07/23/25,13,13026
+2032,Vase,A stand for laptops,,VS003,10,602,802,07/24/25,4,3208
+2033,Curtains,A mouse for gaming,,CRT003,22,502,702,07/25/25,5,3510
+2034,Bathroom Scale,A device for rendering graphics,,BS003,7,1002,1202,07/26/25,4,4808
+2035,Trash Can,A main circuit board,,TC003,10,302,502,07/27/25,8,4016
+2036,Desk Organizer,A central processing unit,,DO003,14,202,302,07/28/25,11,3322
+2037,Notebook,A type of computer memory,,NB003,17,52,102,07/29/25,11,1122
+2038,Pen Set,A data storage device,,PS003,22,102,152,07/30/25,4,608
+2039,Stapler,A type of data storage device,,STP003,12,82,122,07/31/25,3,366
